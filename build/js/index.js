@@ -20003,11 +20003,134 @@ module.exports = warning;
 }).call(this,require('_process'))
 },{"./emptyFunction":123,"_process":1}],163:[function(require,module,exports){
 window.React = require('react/addons');
+var Cloud = require("../component/Cloud.jsx");
 
-d3.json("http://localhost:8080/data/leyes_aprobadas.json", function(json) {
-  console.log(json)
+var Process_data = function(data){
+    var cadena_tags = data.map(function(ley){
+        return ley["tags"].join(" ");
+    }).join(" ").split(" ");
+
+    var wordCount = {};
+    for(var i = 0, len=cadena_tags.length; i < len; i++) {
+        if(!wordCount[cadena_tags[i]])
+            wordCount[cadena_tags[i]] = 0;
+        wordCount[cadena_tags[i]]++; // {'hi': 12, 'foo': 2 ...}
+    }
+    //console.log(wordCount);
+    var wordCountArr = [];
+    for(var prop in wordCount) {
+        wordCountArr.push({text: prop, size: wordCount[prop]});
+    }
+    return wordCountArr;
+};
+
+var App = React.createClass({displayName: "App",
+  getInitialState: function() {
+    return {
+      domain: {x: [0, 30], y: [0, 100]}
+    };
+  },
+
+  render: function() {
+    return (
+      React.createElement("div", {className: "App"}, 
+        React.createElement(Cloud, {
+          data: this.props.data, 
+          domain: this.state.domain})
+      )
+    );
+  }
+});
+d3.json("/data/leyes_aprobadas.json", function(json) {
+	var data = Process_data(json);
+	React.renderComponent(React.createElement(App, {data: data}), document.body);
 });
 
 
+},{"../component/Cloud.jsx":164,"react/addons":2}],164:[function(require,module,exports){
+var tresdCloud = require("./tresdCloud.jsx");
 
-},{"react/addons":2}]},{},[163]);
+var Cloud = React.createClass({displayName: "Cloud",
+  propTypes: {
+    data: React.PropTypes.array,
+    domain: React.PropTypes.object
+  },
+
+  componentDidMount: function() {
+    var el = this.getDOMNode();
+    tresdCloud.create(el, {
+      width: '100%',
+      height: '300px'
+    }, this.getCloudState());
+  },
+
+  componentDidUpdate: function() {
+    var el = this.getDOMNode();
+    tresdCloud.update(el, this.getCloudState());
+  },
+
+  getCloudState: function() {
+    return {
+      data: this.props.data,
+      domain: this.props.domain
+    };
+  },
+
+  componentWillUnmount: function() {
+    var el = this.getDOMNode();
+    tresdCloud.destroy(el);
+  },
+
+  render: function() {
+    return (
+      React.createElement("div", {className: "Cloud"})
+    );
+  }
+});
+
+module.exports = Cloud;
+
+},{"./tresdCloud.jsx":165}],165:[function(require,module,exports){
+var fill = d3.scale.category20();
+
+var tresdCloud = {};
+
+function draw(words) {
+    d3.select(".Cloud").append("svg")
+        .attr("width", 300)
+        .attr("height", 300)
+      .append("g")
+        .attr("transform", "translate(150,150)")
+      .selectAll("text")
+        .data(words)
+      .enter().append("text")
+        .style("font-size", function(d) { return d.size + "px"; })
+        .style("font-family", "Impact")
+        .style("fill", function(d, i) { return fill(i); })
+        .attr("text-anchor", "middle")
+        .attr("transform", function(d) {
+          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+        })
+        .text(function(d) { 
+          console.log(d.text);
+          return d.text; });
+  }
+
+tresdCloud.create = function(el, props, state) {
+  d3.layout.cloud().size([300, 300])
+      .words(state.data)
+      .padding(5)
+      .rotate(function() { return ~~(Math.random() * 2) * 90; })
+      .font("Impact")
+      .fontSize(function(d) { return d.size; })
+      .on("end", draw)
+      .start();
+ this.update(el, state);
+};
+
+tresdCloud.update = function(el, state) {
+};
+
+  module.exports = tresdCloud;
+
+},{}]},{},[163]);
