@@ -12,7 +12,7 @@ app.use('/static', express.static(__dirname + '/build'));
 app.use('/data', express.static(__dirname + '/data'));
 
 //Serve Html
-app.use('/*', express.static(__dirname + '/src/html'));
+app.use('/', express.static(__dirname + '/src/html'));
 
 
 //Run server
