@@ -1,3 +1,10 @@
+body {
+    //background-color: black;
+}
+h1{
+    text-align: center;
+}
+
 .buttonContainer{
     display: flex;
     flex-direction: row;
@@ -24,4 +31,17 @@
 
 .disabled{
     background-color: #00bcd4;
+}
+
+svg {
+    display: block;
+}
+
+#infoBox{
+    text-align: center;
+}
+ol{
+    list-style-type: none;
+    margin-top: 5px;
+    margin-bottom: 10px
 }
