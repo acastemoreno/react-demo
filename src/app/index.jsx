@@ -1,3 +1,5 @@
+"use strict";
+
 window.React = require('react');
 var Cloud = require("../component/Cloud.jsx");
 
@@ -37,6 +39,7 @@ var App = React.createClass({
     );
   }
 });
+
 d3.json("/data/leyes_aprobadas.json", function(json) {
 	var data = Process_data(json);
 	React.renderComponent(<App  data={data}/>, document.body);
