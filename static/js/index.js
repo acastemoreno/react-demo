@@ -20026,7 +20026,7 @@ var App = React.createClass({
   }
 });
 */
-d3.json("/data/leyes_aprobadas.json", function(json) {
+d3.json("data/leyes_aprobadas.json", function(json) {
 	React.render(React.createElement(App, {data: json}), document.body);
 });
 
