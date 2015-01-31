@@ -5,6 +5,9 @@
     "nombre": "LEY QUE DEROGA LA LEY 30288, LEY QUE PROMUEVE EL ACCESO DE JÓVENES AL MERCADO LABORAL Y A LA PROTECCIÓN SOCIAL", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E971DF4DC2C8D32D05257DDA00082856/$FILE/AU04088260115.pdf", 
     "tags": [
+      "Deroga", 
+      "Ley", 
+      "30288", 
       "Trabajo", 
       "Jovenes"
     ]
@@ -514,6 +517,7 @@
     "nombre": "LEY DE PROMOCIÓN PARA EL USO SEGURO Y RESPONSABLE DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES POR NIÑOS, NIÑAS Y ADOLESCENTES", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/EDFB658AF2799B1205257D660059CFB0/$FILE/AU02511031014.pdf", 
     "tags": [
+      "Poblacion", 
       "Tics", 
       "Proteccion", 
       "Niños", 
@@ -526,10 +530,10 @@
     "nombre": "LEY QUE INCLUYE A DOCENTES, PROFESORES Y ADULTOS MAYORES COMO BENEFICIARIOS DE LA LEY 29366, LEY QUE DISPONE EL ACCESO GRATUITO EL PRIMER DOMINGO DE CADA MES DE LOS ESTUDIANTES A LOS MONUMENTOS ARQUEOLÓGICOS, MUSEOS Y LUGARES HISTÓRICOS EN EL ÁMBITO NACIONAL", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E71B295402536D8E05257D710079F6A5/$FILE/AU02537141014.pdf", 
     "tags": [
-      "Cultura", 
+      "Modificacion", 
       "Ley", 
       "29366", 
-      "Modificacion", 
+      "Cultura", 
       "Museos"
     ]
   }, 
@@ -736,7 +740,7 @@
     "nombre": "LEY QUE ADECUA LA LEY 28621, LEY DE LÍNEAS DE BASE DEL DOMINIO MARÍTIMO DEL PERÚ, SEGÚN LA DELIMITACIÓN MARÍTIMA ENTRE LA REPÚBLICA DEL PERÚ Y LA REPÚBLICA DE CHILE, REALIZADA POR EL FALLO DE LA CORTE INTERNACIONAL DE JUSTICIA DEL 27 DE ENERO DE 2014", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0C7E1A5000C71C8605257D1000033777/$FILE/AU03592080714.pdf", 
     "tags": [
-      "<decua", 
+      "Adecua", 
       "Ley", 
       "28621", 
       "Gobierno", 
@@ -785,9 +789,9 @@
     "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA LA EXPROPIACIÓN, PARA SU PUESTA EN VALOR, DE LOS PREDIOS E INSTALACIONES DEL MONUMENTO HISTÓRICO DENOMINADO CASTILLO FORGA, UBICADO EN LA PROVINCIA DE ISLAY, DEPARTAMENTO DE AREQUIPA", 
     "pdf": "", 
     "tags": [
+      "Region", 
       "Islay", 
-      "Arequipa", 
-      "Region"
+      "Arequipa"
     ]
   }, 
   {
@@ -893,9 +897,9 @@
     "nombre": "LEY QUE REGULA LA EJECUCIÓN DE OBRAS DE SERVICIOS PÚBLICOS AUTORIZADAS POR LAS MUNICIPALIDADES EN LAS ÁREAS DE DOMINIO PÚBLICO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4C4ED26ED750935E05257CFC007BF0C8/$FILE/AU00482190614.pdf", 
     "tags": [
-      "Municipio", 
-      "Obras", 
       "Poblacion", 
+      "Obras", 
+      "Municipalidad", 
       "Servicios"
     ]
   }, 
@@ -1036,7 +1040,7 @@
     "nombre": "LEY QUE FACILITA EL ACCESO A INFORMACIÓN FINANCIERA, PREVISIONAL Y DE SEGUROS EN BENEFICIO DE LOS HEREDEROS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E4463877FAFB4FD105257CE100019A51/$FILE/AU02927220514.pdf", 
     "tags": [
-      "Fiinanzas", 
+      "Familia", 
       "Herederos", 
       "Informacion"
     ]
@@ -1205,7 +1209,8 @@
     "nombre": "LEY QUE MODIFICA EL ARTÍCULO 603 DEL CÓDIGO PROCESAL CIVIL SOBRE INTERDICTO DE RECOBRAR", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0BA29B999E46344F05257CC5006D955B/$FILE/AU00219250414.pdf", 
     "tags": [
-      "Judicialcodigocivil", 
+      "Justicia", 
+      "Codigo-civil", 
       "Interdicto"
     ]
   }, 
@@ -1330,9 +1335,10 @@
     "nombre": "LEY QUE MODIFICA EL ARTÍCULO 23 DE LA LEY 26979, LEY DE PROCEDIMIENTO DE EJECUCIÓN COACTIVA, SOBRE LA REVISIÓN JUDICIAL DEL PROCEDIMIENTO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7133BE3952ABB9BB05257CB6007D1A22/$FILE/AU00336100414.pdf", 
     "tags": [
+      "Modifica", 
       "Ley", 
       "26979", 
-      "Judicial"
+      "Procedimiento"
     ]
   }, 
   {
@@ -1702,8 +1708,8 @@
       "Modifica", 
       "Ley", 
       "28350", 
-      "Fuerza", 
-      "Armada"
+      "Fuerzas", 
+      "Armadas"
     ]
   }, 
   {
@@ -1771,8 +1777,8 @@
       "Modifica", 
       "Ley", 
       "28359", 
-      "Fuerza", 
-      "Armada"
+      "Fuerzas", 
+      "Armadas"
     ]
   }, 
   {
@@ -3077,9 +3083,9 @@
     "nombre": "LEY COMPLEMENTARIA PARA LA REESTRUCTURACIÓN ECONÓMICA DE LA ACTIVIDAD DEPORTIVA FUTBOLÍSTICA", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9C1B9EB76BA4B82205257B97000988C0/$FILE/AU0209726062013.pdf", 
     "tags": [
+      "Economia", 
       "Deporte", 
-      "Futbol", 
-      "Economia"
+      "Futbol"
     ]
   }, 
   {
@@ -3270,7 +3276,7 @@
     "nombre": "LEY QUE FACILITA LA ADQUISICIÓN, EXPROPIACIÓN Y POSESIÓN DE BIENES INMUEBLES PARA OBRAS DE INFRAESTRUCTURA Y DECLARA DE NECESIDAD PÚBLICA LA ADQUISICIÓN O EXPROPIACIÓN DE BIENES INMUEBLES AFECTADOS PARA LA EJECUCIÓN DE DIVERSAS OBRAS DE INFRAESTRUCTURA", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/15ABCCC10342087B05257B6D00507DA0/$FILE/AU01832150513.pdf", 
     "tags": [
-      "Consrtuccion", 
+      "Construccion", 
       "Expropiacion"
     ]
   }, 
@@ -3601,12 +3607,62 @@
     ]
   }, 
   {
+    "fecha promulga": "27/03/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL Y DE NECESIDAD PÚBLICA LA RESTAURACIÓN, CONSERVACIÓN Y PUESTA EN VALOR DEL MONUMENTO ARQUEOLÓGICO DE PACATNAMÚ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7DC215E00C11778505257B6D005127A3/$FILE/AU00788150513.pdf", 
+    "tags": [
+      "Cultura", 
+      "Pacatnamu", 
+      "Restauracion"
+    ]
+  }, 
+  {
+    "fecha promulga": "27/03/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "LEY QUE REGULA EL REPOSITORIO NACIONAL DIGITAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DE ACCESO ABIERTO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2FF940C8AF288D1005257B6D00515FDA/$FILE/AU01188150513.pdf", 
+    "tags": [
+      "Produccion", 
+      "Repositorio", 
+      "Ciencia", 
+      "Tecnologia", 
+      "Innovacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/03/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "LEY QUE ESTABLECE LAS CARACTERÍSTICAS DE LA REMUNERACIÓN ÍNTEGRA MENSUAL (RIM) A LA QUE HACE REFERENCIA LA LEY 29944, LEY DE REFORMA MAGISTERIAL, Y ESTABLECE OTRAS DISPOSICIONES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/429CC663F1C1F8E305257B2F000EECA8/$FILE/AU01923140313.pdf", 
+    "tags": [
+      "Complementa", 
+      "Ley", 
+      "29944", 
+      "Remuneracion"
+    ]
+  }, 
+  {
     "fecha promulga": "14/03/2013", 
     "legislatura": "2012-2", 
     "nombre": "LEY QUE REGULA EL RÉGIMEN ESPECIAL DE SEGURIDAD SOCIAL PARA LOS TRABAJADORES Y PENSIONISTAS PESQUEROS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/96E0CAA0E0318A6805257B300058C6D8/$FILE/AU00113160313.pdf", 
     "tags": [
-      "Seguridad"
+      "Seguridad", 
+      "Social", 
+      "Trabajadores", 
+      "Pesqueros"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/03/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "LEY QUE CREA LA DISTINCIÓN AL MÉRITO SANTIAGO ANTÚNEZ DE MAYOLO GOMERO DE RECONOCIMIENTO AL INVESTIGADOR QUE CONTRIBUYE AL DESARROLLO DE LA CIENCIA, LA TECNOLOGÍA Y LA INNOVACIÓN TECNOLÓGICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0C0E1F8AEEF6F78905257B390067A2E2/$FILE/AU01254250313.pdf", 
+    "tags": [
+      "Cultura", 
+      "Reconocimiento", 
+      "Investigacion"
     ]
   }, 
   {
@@ -3615,7 +3671,16 @@
     "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL CONVENIO ENTRE EL GOBIERNO DE LA REPÚBLICA DEL PERÚ Y EL GOBIERNO DE LA REPÚBLICA FEDERAL DE ALEMANIA SOBRE COOPERACIÓN FINANCIERA 2008", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FA845395E72F28FA05257B390067BF96/$FILE/AU01397250313.pdf", 
     "tags": [
-      "Gobierno"
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/3/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDAD NAVAL Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA, DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A MARZO DE 2013", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/6F6EC71649D95BB705257B270075A160/$FILE/AU01939070313.pdf", 
+    "tags": [
+      "Resolucion"
     ]
   }, 
   {
@@ -3624,7 +3689,33 @@
     "nombre": "LEY DE REINSERCIÓN ECONÓMICA Y SOCIAL PARA EL MIGRANTE RETORNADO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FD716D1DB172675405257B2B006BF0A3/$FILE/AU00360110313.pdf", 
     "tags": [
-      "Economia"
+      "Trabajo", 
+      "Reinsercion", 
+      "Migrante"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/3/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 85 DEL TEXTO ÚNICO ORDENADO DE LA LEY DEL IMPUESTO A LA RENTA, APROBADO POR EL DECRETO SUPREMO 179-2004-EF, Y NORMAS MODIFICATORIAS, SOBRE PAGOS A CUENTA POR RENTAS DE TERCERA CATEGORÍA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3C799BFE6B4A2EC805257B2B0080112F/$FILE/AU01944110313.pdf", 
+    "tags": [
+      "Gobierno", 
+      "Impuesto", 
+      "Rentas"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/3/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "LEY QUE PRECISA LOS ALCANCES DE LA LEY 29871, LEY QUE EXTINGUE LOS INTERESES Y MORAS DERIVADOS DEL ENDEUDAMIENTO CONTRAÍDO POR LOS AFECTADOS DEL ATENTADO TERRORISTA DE LA CALLE TARATA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/51AC5F00086101BB05257B2C0001440B/$FILE/AU01941110313.PDF", 
+    "tags": [
+      "Complementa", 
+      "Ley", 
+      "29871", 
+      "Tarata", 
+      "Endeudamiento"
     ]
   }, 
   {
@@ -3633,7 +3724,34 @@
     "nombre": "LEY QUE CONCEDE EL DERECHO DE LICENCIA A TRABAJADORES CON FAMILIARES DIRECTOS QUE SE ENCUENTRAN CON ENFERMEDAD EN ESTADO GRAVE O TERMINAL O SUFRAN ACCIDENTE GRAVE", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A8675AB6AA0B307305257B2E006B514C/$FILE/AU00536140313.pdf", 
     "tags": [
-      "Salud"
+      "Salud", 
+      "Licencia", 
+      "Trabajo", 
+      "Poblacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/3/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 326, 724, 816 Y 2030 DEL CÓDIGO CIVIL, EL INCISO 4 DEL ARTÍCULO 425 Y EL ARTÍCULO 831 DEL CÓDIGO PROCESAL CIVIL Y LOS ARTÍCULOS 35, 38 Y EL INCISO 4 DEL ARTÍCULO 39 DE LA LEY 26662, A FIN DE RECONOCER DERECHOS SUCESORIOS ENTRE LOS MIEMBROS DE UNIONES DE HECHO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/124443C9176F408E05257B39006762B0/$FILE/AU01184250313.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26662"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/3/2013", 
+    "legislatura": "2012-2", 
+    "nombre": "LEY DE DEMARCACIÓN Y ORGANIZACIÓN TERRITORIAL DE LA PROVINCIA DE HUAMANGA, EN EL DEPARTAMENTO DE AYACUCHO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/662D2A7BFBEBEECA05257B480062B595/$FILE/AU00815090413.pdf", 
+    "tags": [
+      "Region", 
+      "Demarcacion", 
+      "Territorial", 
+      "Huamanga", 
+      "Ayacucho"
     ]
   }, 
   {
@@ -3642,7 +3760,10 @@
     "nombre": "LEY QUE CONCEDE EL DERECHO DE LICENCIA A TRABAJADORES CON FAMILIARES DIRECTOS QUE SE ENCUENTRAN CON ENFERMEDAD EN ESTADO GRAVE O TERMINAL O SUFRAN ACCIDENTE GRAVE (PROMULGACIÓN)", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CE1028288686789905257B50006B9E42/$FILE/AU00536170413.pdf", 
     "tags": [
-      "Trabajo"
+      "Trabajo", 
+      "Licencia", 
+      "Familia", 
+      "Poblacion"
     ]
   }, 
   {
@@ -3651,7 +3772,10 @@
     "nombre": "LEY QUE PREVIENE Y SANCIONA LA VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A64384459D4630F305257B6E00724D13/$FILE/AU00273170513.pdf", 
     "tags": [
-      "Seguriad"
+      "Seguriad", 
+      "Sancion", 
+      "Violencia", 
+      "Deporte"
     ]
   }, 
   {
@@ -3669,7 +3793,8 @@
     "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA ADQUISICIÓN DE UNA DRAGA PARA ENFRENTAR LA EROSIÓN EN EL LITORAL PERUANO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4160B483FD1BBCB705257ADA0051D304/$FILE/AU0105019122012.pdf", 
     "tags": [
-      "Gobierno"
+      "Ambiente", 
+      "Erosion"
     ]
   }, 
   {
@@ -3678,7 +3803,19 @@
     "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA ADQUISICIÓN DE UNA DRAGA PARA ENFRENTAR LA EROSIÓN EN EL LITORAL PERUANO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4160B483FD1BBCB705257ADA0051D304/$FILE/AU0105019122012.pdf", 
     "tags": [
-      "Gonierno"
+      "Ambiente", 
+      "Erosion"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE AMPLÍA LOS ALCANCES DEL ARTÍCULO 20 DE LA LEY 29951 Y DICTA OTRAS DISPOSICIONES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7FFA2A34C523F25705257AD70076C864/$FILE/AU01814171212.pdf", 
+    "tags": [
+      "Amplia", 
+      "Ley", 
+      "29951"
     ]
   }, 
   {
@@ -3687,7 +3824,20 @@
     "nombre": "LEY QUE ESTABLECE LA MORATORIA DE CREACIÓN DE UNIVERSIDADES PÚBLICAS Y PRIVADAS POR UN PERÍODO DE CINCO AÑOS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/51844826A6987D7305257ADC0010109D/$FILE/AU00235211212-1.pdf", 
     "tags": [
-      "Educacion"
+      "Educacion", 
+      "Creacion", 
+      "Universidad"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE PRORROGA LA VIGENCIA DEL PLAZO ESTABLECIDO EN EL LITERAL C) DEL ARTÍCULO 14 DEL DECRETO LEGISLATIVO 709, LEY DE PROMOCIÓN A LA INVERSIÓN PRIVADA EN PREDIOS PARA ARRENDAMIENTO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/05C90CBD02C8C91E05257ADC001040E2/$FILE/AU01757211212.pdf", 
+    "tags": [
+      "Prorroga", 
+      "Ley", 
+      "Inversion"
     ]
   }, 
   {
@@ -3696,7 +3846,9 @@
     "nombre": "LEY QUE AFIANZA LA SEGURIDAD ENERGÉTICA Y PROMUEVE EL DESARROLLO DE POLO PETROQUÍMICO EN EL SUR DEL PAÍS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E2955FA1BF42004705257ADC00106BCD/$FILE/AU01396211212.pdf", 
     "tags": [
-      "Seguridad"
+      "Seguridad", 
+      "Energia", 
+      "Petroquimica"
     ]
   }, 
   {
@@ -3705,7 +3857,9 @@
     "nombre": "LEY QUE PROMUEVE LA INCLUSIÓN DE LOS PRODUCTORES AGRARIOS A TRAVÉS DE LAS COOPERATIVAS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/212F8E637796E8FF05257ADC00109214/$FILE/AU01816211212.pdf", 
     "tags": [
-      "Agro"
+      "Agro", 
+      "Cooperativa", 
+      "Inclusion"
     ]
   }, 
   {
@@ -3714,7 +3868,9 @@
     "nombre": "LEY QUE MODIFICA EL ARTÍCULO 239 DEL CÓDIGO PROCESAL PENAL, APROBADO POR EL DECRETO LEGISLATIVO 638; Y EL ARTÍCULO 195 DEL NUEVO CÓDIGO PROCESAL PENAL, APROBADO POR EL DECRETO LEGISLATIVO 957", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1F6C82BC7DF8EE8305257AE00070EDF9/$FILE/AU00945261212-1.pdf", 
     "tags": [
-      "Justicia"
+      "Justicia", 
+      "Codigo", 
+      "Procesal"
     ]
   }, 
   {
@@ -3723,7 +3879,10 @@
     "nombre": "LEY QUE ESTABLECE MEDIDAS EXTRAORDINARIAS PARA EL PERSONAL DOCENTE Y ADMINISTRATIVO DE INSTITUCIONES EDUCATIVAS PÚBLICAS Y PRIVADAS, IMPLICADO EN DELITOS DE TERRORISMO, APOLOGÍA DEL TERRORISMO, DELITOS DE VIOLACIÓN DE LA LIBERTAD SEXUAL Y DELITOS DE TRÁFICO ILÍCITO DE DROGAS; CREA EL REGISTRO DE PERSONAS CONDENADAS O PROCESADAS POR DELITO DE TERRORISMO, APOLOGÍA DEL TERRORISMO, DELITOS DE VIOLACIÓN DE LA LIBERTAD SEXUAL Y TRÁFICO ILÍCITO DE DROGAS Y MODIFICA LOS ARTÍCULOS 36 Y 38 DEL CÓDIGO PENAL", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7A0EDC1D0336F43605257AE0007289AE/$FILE/AU00436261212.pdf", 
     "tags": [
-      "Educacion"
+      "Educacion", 
+      "Terrorismo", 
+      "Docentes", 
+      "Administrativos"
     ]
   }, 
   {
@@ -3732,7 +3891,12 @@
     "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL LA PROMOCIÓN DE LA CIENCIA, LA INNOVACIÓN Y LA TECNOLOGÍA A TRAVÉS DE LAS ASOCIACIONES PÚBLICO-PRIVADAS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/41D9D4C56B54745305257AE00072E833/$FILE/AU00870261212-1.pdf", 
     "tags": [
-      "Educacion"
+      "Educacion", 
+      "Promocion", 
+      "Ciencia", 
+      "Innovacion", 
+      "Tecnologia", 
+      "Asociaciones"
     ]
   }, 
   {
@@ -3747,10 +3911,23 @@
   {
     "fecha promulga": "12/12/2012", 
     "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA LA EXPROPIACIÓN DE TERRENO PARA SER DESTINADO A LA OPERACIÓN DE LA PLANTA DE TRATAMIENTO DE LODOS DE LOS ESTANQUES REGULADORES DE LA PLANTA LA ATARJEA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FB0174A9071F681505257ADA00516193/$FILE/AU01498191212.pdf", 
+    "tags": [
+      "Ambiente", 
+      "Atarjea", 
+      "Planta"
+    ]
+  }, 
+  {
+    "fecha promulga": "12/12/2012", 
+    "legislatura": "2012-1", 
     "nombre": "LEY QUE REGULA LAS CARACTERÍSTICAS BÁSICAS DEL DINERO ELECTRÓNICO COMO INSTRUMENTO DE INCLUSIÓN FINANCIERA", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DEDA5A2FECC5637505257ADC0010D2D1/$FILE/AU01073211212.pdf", 
     "tags": [
-      "Economia"
+      "Inclusion", 
+      "Dinero", 
+      "Electronico"
     ]
   }, 
   {
@@ -3759,7 +3936,34 @@
     "nombre": "LEY GENERAL DE LA PERSONA CON DISCAPACIDAD", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4A5360A4692E7ED405257AD400211C1E/$FILE/AU00377131212.pdf", 
     "tags": [
-      "Salud"
+      "Salud", 
+      "Discaoacidad", 
+      "Poblacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "6/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE CREA LA SUPERINTENDENCIA NACIONAL DE FISCALIZACIÓN LABORAL (SUNAFIL), MODIFICA LA LEY 28806, LEY GENERAL DE INSPECCIÓN DEL TRABAJO, Y LA LEY 27867, LEY ORGÁNICA DE GOBIERNOS REGIONALES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/00603882B75E0D6905257ADA004F88EC/$FILE/AU0053819122012.pdf", 
+    "tags": [
+      "Modifica", 
+      "La", 
+      "Ley", 
+      "28806", 
+      "Trabajo", 
+      "Sinafil"
+    ]
+  }, 
+  {
+    "fecha promulga": "6/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DICTA DISPOSICIONES A FIN DE PROMOVER LA MASIFICACIÓN DEL GAS NATURAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/5DDA9777E9BB061E05257ADC0010B4FB/$FILE/AU00584211212.pdf", 
+    "tags": [
+      "Energia", 
+      "Gas", 
+      "Natural"
     ]
   }, 
   {
@@ -3768,7 +3972,69 @@
     "nombre": "LEY QUE MODIFICA EL ARTÍCULO 239 DEL CÓDIGO PROCESAL PENAL, APROBADO POR EL DECRETO LEGISLATIVO 638; Y EL ARTÍCULO 195 DEL NUEVO CÓDIGO PROCESAL PENAL, APROBADO POR EL DECRETO LEGISLATIVO 957", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B04957F491A448EF05257AE000723462/$FILE/AU00945261212-1.pdf", 
     "tags": [
-      "Justicia"
+      "Justicia", 
+      "Codigo", 
+      "Procesal-penal"
+    ]
+  }, 
+  {
+    "fecha promulga": "6/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY DE DEMARCACIÓN Y ORGANIZACIÓN TERRITORIAL DE LA PROVINCIA PIURA EN EL DEPARTAMENTO PIURA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F77EE9F08BDCCA6E05257AF500078DAF/$FILE/PL01353.pdf", 
+    "tags": [
+      "Region", 
+      "Territorio", 
+      "Demarcacion", 
+      "Organizacion", 
+      "Piura"
+    ]
+  }, 
+  {
+    "fecha promulga": "5/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE PRORROGA BENEFICIOS TRIBUTARIOS PARA LA REGIÓN LORETO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A8EB3229C6E49D6205257ACC00567C4C/$FILE/AU01701061212.pdf", 
+    "tags": [
+      "Region", 
+      "Tributos", 
+      "Loreto", 
+      "Beneficios"
+    ]
+  }, 
+  {
+    "fecha promulga": "5/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE PRORROGA LA VIGENCIA DE BENEFICIOS TRIBUTARIOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3FAE6883946C497505257AD20001A2AA/$FILE/AU0176611122012.pdf", 
+    "tags": [
+      "Economia", 
+      "Tributos", 
+      "Beneficios"
+    ]
+  }, 
+  {
+    "fecha promulga": "5/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY DE FACILITACIÓN ADUANERA Y DE INGRESO DE PARTICIPANTES PARA LA REALIZACIÓN DE EVENTOS INTERNACIONALES DECLARADOS DE INTERÉS NACIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4939763A2253BACF05257AD300012855/$FILE/AU01767121212.pdf", 
+    "tags": [
+      "Economia", 
+      "Facilitacion", 
+      "Aduanera"
+    ]
+  }, 
+  {
+    "fecha promulga": "5/12/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 170 DEL CÓDIGO DE LOS NIÑOS Y ADOLESCENTES, EL ARTÍCULO 7-A DEL DECRETO LEGISLATIVO 1070, DECRETO LEGISLATIVO QUE MODIFICA LA LEY 26872, LEY DE CONCILIACIÓN; Y EL ARTÍCULO 7 DE LA LEY 27939, LEY QUE ESTABLECE EL PROCEDIMIENTO EN CASOS DE FALTAS Y MODIFICA LOS ARTÍCULOS 440, 441 Y 444 DEL CÓDIGO PENAL, A FIN DE ELIMINAR LA CONCILIACIÓN EN LOS PROCESOS DE VIOLENCIA FAMILIAR", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0D48B3D37FBCBC4405257AEE00032C4F/$FILE/AU00461080113.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26872", 
+      "Niños", 
+      "Adolescentes"
     ]
   }, 
   {
@@ -3777,7 +4043,9 @@
     "nombre": "LEY DE PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2013", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/AE97C56BCAF1F85505257AC7001C183E/$FILE/AU01465301112.pdf", 
     "tags": [
-      "Justicia"
+      "Economia", 
+      "Presupuesto", 
+      "2013"
     ]
   }, 
   {
@@ -3786,7 +4054,21 @@
     "nombre": "LEY DE ENDEUDAMIENTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2013", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7223100E40B2B0A905257AC7001C2D02/$FILE/AU01466301112.pdf", 
     "tags": [
-      "Justicia"
+      "Economia", 
+      "Endeudamiento", 
+      "2013"
+    ]
+  }, 
+  {
+    "fecha promulga": "30/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY DE EQUILIBRIO FINANCIERO DEL PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2013", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CDB03E4126ABEEC205257AC7001C44C5/$FILE/AU01467301112.pdf", 
+    "tags": [
+      "Economia", 
+      "Equilibrio", 
+      "Financiero", 
+      "2013"
     ]
   }, 
   {
@@ -3813,7 +4095,21 @@
     "nombre": "LEY QUE ESTABLECE LA REGULACIÓN DEFINITIVA DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE TAYACAJA DANIEL HERNÁNDEZ MORILLO, CREADA MEDIANTE LEY 29716", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/5A4B81013ABFB90905257AC6001E90CD/$FILE/AU01700291112.PDF", 
     "tags": [
-      "Educacion"
+      "Regulacion", 
+      "Ley", 
+      "29716", 
+      "Educacion", 
+      "Universidad"
+    ]
+  }, 
+  {
+    "fecha promulga": "22/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE ESTABLECE EL DERECHO DE PORTABILIDAD NUMÉRICA EN LOS SERVICIOS DE TELEFONÍA FIJA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/82117BC3B7E8D1A205257AC6001EAD12/$FILE/AU00851291112.PDF", 
+    "tags": [
+      "Telecomunicaciones", 
+      "Telefonia"
     ]
   }, 
   {
@@ -3822,7 +4118,29 @@
     "nombre": "LEY DE CREACIÓN DEL SERVICIO NACIONAL DE CERTIFICACIÓN AMBIENTAL PARA LAS INVERSIONES SOSTENIBLES (SENACE)", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/BE1A4D4A11F8672005257AD300010A18/$FILE/AU01461121212.pdf", 
     "tags": [
-      "Ambiental"
+      "Ambiente", 
+      "Senace", 
+      "Crea", 
+      "Certificacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "22/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE ESTABLECE CRITERIOS DE PRIORIZACIÓN PARA LA EJECUCIÓN DEL PROGRAMA DE REPARACIÓN ECONÓMICA DEL PLAN INTEGRAL DE REPARACIONES (PIR), CREADO POR LA LEY 28592", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E306758C45437C4B05257ADA004F0E86/$FILE/AU0135619122012.pdf", 
+    "tags": [
+      "Economia", 
+      "Pir"
+    ]
+  }, 
+  {
+    "fecha promulga": "21/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL EL 23 DE NOVIEMBRE DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1F1626C79D931C4505257ABE00085BF7/$FILE/AU01731211112.pdf", 
+    "tags": [
+      "Resolucion"
     ]
   }, 
   {
@@ -3840,7 +4158,19 @@
     "nombre": "LEY QUE CREA LA COMISIÓN DE ALTO NIVEL ANTICORRUPCIÓN", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D66586B56DFE10A205257AD1000AE9D8/$FILE/AU00117101212.pdf", 
     "tags": [
-      "Justicia"
+      "Justicia", 
+      "Anticorrupcion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA LA ELABORACIÓN Y EJECUCIÓN DEL PROYECTO TÚNEL TRASANDINO DEL CENTRO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4F09C61F0BC69B6305257ABC0072DB04/$FILE/AU00614201112.PDF", 
+    "tags": [
+      "Construccion", 
+      "Trasandino", 
+      "Centro"
     ]
   }, 
   {
@@ -3849,8 +4179,7 @@
     "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDAD NAVAL Y DE PERSONAL MILITAR EXTRANJERO PARA EFECTUAR UNA VISITA OFICIAL AL PUERTO DEL CALLAO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/79CBEB5DEDD35F0B05257ABC0072ED94/$FILE/AU01633201112.PDF", 
     "tags": [
-      "Fuerzas", 
-      "Armadas"
+      "Resolucion"
     ]
   }, 
   {
@@ -3859,7 +4188,11 @@
     "nombre": "LEY QUE ESTABLECE MEDIDAS PARA EL CUMPLIMIENTO DEL ACUERDO BILATERAL PARA BRINDAR ATENCIÓN DE SALUD RECÍPROCA A NACIONALES DE LA REPÚBLICA DEL PERÚ Y DE LA REPÚBLICA DEL ECUADOR", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D9E38D8A10757B8B05257ABE000C4D1B/$FILE/AU00847211112.pdf", 
     "tags": [
-      "Resolucion"
+      "Salud", 
+      "Acuerdo", 
+      "Bilateral", 
+      "Ecuador", 
+      "Peru"
     ]
   }, 
   {
@@ -3904,7 +4237,31 @@
     "nombre": "LEY QUE OTORGA UNA ASIGNACIÓN EXCEPCIONAL Y EXTRAORDINARIA A DOCENTES Y AUXILIARES DE EDUCACIÓN ESTATAL", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3600D8D9227397CE05257AB5004DB3E2/$FILE/AU01635121112.pdf", 
     "tags": [
-      "Educacion"
+      "Trabajo", 
+      "Educacion", 
+      "Asignacion", 
+      "Docentes", 
+      "Auxiliares"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA EL MEJORAMIENTO Y LA CULMINACIÓN DE LA CARRETERA LONGITUDINAL DE LA SIERRA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E192BBDE5976A36A05257ABC00723A7B/$FILE/AU00857201112.PDF", 
+    "tags": [
+      "Construccion", 
+      "Carretera", 
+      "Sierra"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL TRATADO SOBRE EL TRASLADO DE PERSONAS CONDENADAS ENTRE LA REPÚBLICA DEL PERÚ Y LA REPÚBLICA PORTUGUESA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1BD26D56515D78CE05257ABC00726790/$FILE/AU00961201112.PDF", 
+    "tags": [
+      "Resolucion"
     ]
   }, 
   {
@@ -3913,7 +4270,9 @@
     "nombre": "LEY QUE AUTORIZA EL NOMBRAMIENTO DE LOS MÉDICOS CONTRATADOS EN PLAZAS ORGÁNICAS PRESUPUESTADAS ASÍ COMO EN AQUELLAS PLAZAS NO CUBIERTAS, QUE CUMPLAN CON LOS REQUISITOS ESTABLECIDOS EN LA LEY 29682 EN EL MINISTERIO DE SALUD, SUS ORGANISMOS PÚBLICOS Y GOBIERNOS REGIONALES", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F50BAEDE5C936F5A05257ABF004E3F7E/$FILE/AU01307221112.PDF", 
     "tags": [
-      "Salud"
+      "Trabajo", 
+      "Nombramiento", 
+      "Medicos"
     ]
   }, 
   {
@@ -3922,7 +4281,80 @@
     "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL TRATADO SOBRE TRANSFERENCIA DE PERSONAS CONDENADAS ENTRE LA REPÚBLICA DEL PERÚ Y EL REINO DE LOS PAÍSES BAJOS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/83087C6317A51CF105257ABF004E8C56/$FILE/AU00960221112.PDF", 
     "tags": [
-      "Justicia"
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY DE DEMARCACIÓN Y ORGANIZACIÓN TERRITORIAL DE LA PROVINCIA ALTO AMAZONAS EN EL DEPARTAMENTO LORETO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FC97D46D21B1FE4205257AC000029113/$FILE/AU01093231112.PDF", 
+    "tags": [
+      "Region", 
+      "Demarcacion", 
+      "Territorial", 
+      "Amazonas", 
+      "Loreto"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY DE MODERNIZACIÓN DE LOS SERVICIOS DE SANEAMIENTO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/BAD6822752D4CD4005257AB40070B678/$FILE/AU011293121112.PDF", 
+    "tags": [
+      "Ambiente", 
+      "Modernizacion", 
+      "Saneamiento"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29031, LEY QUE INSTITUYE EL DÍA DE LOS DEFENSORES DE LA DEMOCRACIA Y CREA LA CONDECORACIÓN CORRESPONDIENTE", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DDB28DE1E9B5325F05257ABE000C3731/$FILE/AU01019211112.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29031", 
+      "Democracia"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA EL DECRETO LEGISLATIVO 1095, DECRETO LEGISLATIVO QUE ESTABLECE REGLAS DE EMPLEO Y USO DE LA FUERZA POR PARTE DE LAS FUERZAS ARMADAS EN EL TERRITORIO NACIONAL, Y MODIFICA E INCORPORA ARTÍCULOS EN EL DECRETO LEGISLATIVO 824, LEY DE LUCHA CONTRA EL NARCOTRÁFICO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/30A2D7210A64136305257ABF004E0142/$FILE/AU00088221112.PDF", 
+    "tags": [
+      "Fuerzas", 
+      "Armadas", 
+      "Reglas"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/11/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29314, LEY DE LA FÁBRICA DE ARMAS Y MUNICIONES DEL EJÉRCITO FAME S.A.C.", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/410E90ABD9F6855B05257ABF004E219E/$FILE/AU00673221112.PDF", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29314", 
+      "Fabricacion", 
+      "Armas", 
+      "Municiones"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 25054, LEY SOBRE LA FABRICACIÓN, COMERCIO, POSESIÓN Y USO POR PARTICULARES DE ARMAS Y MUNICIONES QUE NO SON DE GUERRA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/93BCEB14BBAC6ABF05257AB600142C5C/$FILE/AU0073513112012.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "25054", 
+      "Armas"
     ]
   }, 
   {
@@ -3931,7 +4363,22 @@
     "nombre": "LEY QUE ESTABLECE LA DEFENSA LEGAL DEL POLICÍA", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DD21A77046E6421D05257AB6001441AE/$FILE/AU0078713112012.pdf", 
     "tags": [
-      "Justicia"
+      "Justicia", 
+      "Defensa", 
+      "Policia"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA Y PREFERENTE INTERÉS NACIONAL LA CREACIÓN DEL CENTRO DE ENTRENAMIENTO PARA EL PERSONAL DE LAS FUERZAS ARMADAS Y DE LA POLICÍA NACIONAL DEL PERÚ QUE PARTICIPA EN LA LUCHA CONTRA EL TERRORISMO Y EL NARCOTRÁFICO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/02868B97EEA4008A05257AB6001451E2/$FILE/AU0120713112012.pdf", 
+    "tags": [
+      "Fuerzas", 
+      "Armadas", 
+      "Entrenamiento", 
+      "Terrorismo", 
+      "Narcotrafico"
     ]
   }, 
   {
@@ -3940,8 +4387,11 @@
     "nombre": "LEY QUE MODIFICA LA LEY 29182, LEY DE ORGANIZACIÓN Y FUNCIONES DEL FUERO MILITAR POLICIAL", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/09AED692B7D0E9EF05257AB8000F01D2/$FILE/AU00967151112.PDF", 
     "tags": [
-      "Fuerzas", 
-      "Armadas"
+      "Modifica", 
+      "Ley", 
+      "29182", 
+      "Militae", 
+      "Policial"
     ]
   }, 
   {
@@ -3950,8 +4400,19 @@
     "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y DE PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA, DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A NOVIEMBRE DE 2012", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9CF9D308D5BA066105257A9C00507432/$FILE/AU01604181012.pdf", 
     "tags": [
-      "Fuerzas", 
-      "Armadas"
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "18/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE ESTABLECE NUEVOS PLAZOS PARA EL EJERCICIO DEL DERECHO DE ADQUISICIÓN PREFERENTE DE ACCIONES DEL ESTADO EN EMPRESAS AGRARIAS AZUCARERAS Y PARA ACTUALIZAR CRONOGRAMA DE PAGOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DBBFFB6A540E420A05257AA0007665EC/$FILE/AU01555231012.PDF", 
+    "tags": [
+      "Agro", 
+      "Adquisicion", 
+      "Azucareras", 
+      "Pagos"
     ]
   }, 
   {
@@ -3960,7 +4421,44 @@
     "nombre": "LEY QUE APRUEBA LA CUENTA GENERAL DE LA REPÚBLICA CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2011", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/10483864F1D2FBD205257AA600839D1C/$FILE/Autog1401.pdf", 
     "tags": [
-      "Justicia"
+      "Economia", 
+      "2011"
+    ]
+  }, 
+  {
+    "fecha promulga": "18/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA ADQUISICIÓN DE UNA DRAGA PARA ENFRENTAR LA EROSIÓN EN EL LITORAL PERUANO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/AB18D50C738A7CE405257AA700599ED3/$FILE/AU01050291012.pdf", 
+    "tags": [
+      "Ambiente", 
+      "Erosion"
+    ]
+  }, 
+  {
+    "fecha promulga": "18/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE CREA EL ARCHIVO ADMINISTRATIVO UNIFICADO DE CONSTITUCIÓN Y PROPIEDAD DE LAS COMUNIDADES NATIVAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1B5A3C5B5CC6641905257AAF0003C8CD/$FILE/AU00765061112.pdf", 
+    "tags": [
+      "Region", 
+      "Comunidad", 
+      "Poblacion", 
+      "Nativa", 
+      "Propiedad"
+    ]
+  }, 
+  {
+    "fecha promulga": "18/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE PRECISA LOS ARTÍCULOS 3 Y 14 DE LA LEY 27261, LEY DE AERONÁUTICA CIVIL DEL PERÚ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D390EE3E0432347F05257AAF005D7266/$FILE/AU01383071112.PDF", 
+    "tags": [
+      "Complementa", 
+      "Ley", 
+      "27261", 
+      "Aeronautica", 
+      "Civil"
     ]
   }, 
   {
@@ -3969,7 +4467,10 @@
     "nombre": "LEY DE PROTECCIÓN A LA ECONOMÍA FAMILIAR RESPECTO DEL PAGO DE PENSIONES EN INSTITUTOS, ESCUELAS SUPERIORES, UNIVERSIDADES Y ESCUELAS DE POSGRADO PÚBLICOS Y PRIVADOS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7EC9009EB961CE7005257AB00013D332/$FILE/AU00142071112.pdf", 
     "tags": [
-      "Economia"
+      "Economia", 
+      "Familia", 
+      "Pago", 
+      "Educacion"
     ]
   }, 
   {
@@ -3978,7 +4479,13 @@
     "nombre": "LEY QUE MODIFICA LA LEY 27933, LEY DEL SISTEMA NACIONAL DE SEGURIDAD CIUDADANA, LA LEY 27972, LEY ORGÁNICA DE MUNICIPALIDADES, Y LA LEY 27867, LEY ORGÁNICA DE GOBIERNOS REGIONALES", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/59A1D0B7FFCC1FB205257AA60082EAD2/$FILE/Autog26.pdf", 
     "tags": [
-      "Seguridad"
+      "Modifica", 
+      "Ley", 
+      "27933", 
+      "Ley", 
+      "27972", 
+      "Seguridad", 
+      "Municipalidad"
     ]
   }, 
   {
@@ -3997,7 +4504,10 @@
     "nombre": "LEY QUE MODIFICA EL DECRETO LEY 25475, DECRETO LEY QUE ESTABLECE LA PENALIDAD PARA LOS DELITOS DE TERRORISMO Y LOS PROCEDIMIENTOS PARA LA INVESTIGACIÓN, LA INSTRUCCIÓN Y EL JUICIO, CON LA FINALIDAD DE SANCIONAR EL DELITO DE FINANCIAMIENTO DEL TERRORISMO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E7652F1FFDCA727E05257AA70058BE7B/$FILE/AU00783291012.pdf", 
     "tags": [
-      "Justicia"
+      "Justicia", 
+      "Penalidad", 
+      "Delitos", 
+      "Terrorismo"
     ]
   }, 
   {
@@ -4006,7 +4516,10 @@
     "nombre": "LEY DEL INSTITUTO DE INVESTIGACIONES DE LA AMAZONÍA PERUANA (IIAP)", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/304C97B6FB639B8905257AA70058FBC9/$FILE/AU00318291012(2).pdf", 
     "tags": [
-      "Educacion"
+      "Gobierno", 
+      "Investigacion", 
+      "Amazonia", 
+      "Iiap"
     ]
   }, 
   {
@@ -4015,7 +4528,22 @@
     "nombre": "LEY QUE MODIFICA LA LEY 27658 INCORPORANDO LOS GOBIERNOS REGIONALES Y LOCALES EN LA ESTRATEGIA DEL PROCESO DE MODERNIZACIÓN DE LA GESTIÓN DEL ESTADO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/6F99572D1D65103D05257AA7005934A0/$FILE/AU01069291012.pdf", 
     "tags": [
-      "Region"
+      "Ley", 
+      "27658", 
+      "Region", 
+      "Modernizacion", 
+      "Estado"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 2, 23, 24 Y 25 DE LA LEY 27181, LEY GENERAL DE TRANSPORTE Y TRÁNSITO TERRESTRE, PRECISANDO DISPOSICIONES RELACIONADAS CON LOS SERVICIOS COMPLEMENTARIOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/64C5CE0CB373547305257AA7005971F6/$FILE/AU00840291012.pdf", 
+    "tags": [
+      "Transporte", 
+      "Terrestre", 
+      "Servicios"
     ]
   }, 
   {
@@ -4037,7 +4565,10 @@
     "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL LA PROTECCIÓN, RECUPERACIÓN Y CONSERVACIÓN DE LA LAGUNA DE PACUCHA", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/96586AAAD2EBA60905257ABC00729E6A/$FILE/AU00852201112.PDF", 
     "tags": [
-      "Seguridad"
+      "Ambiente", 
+      "Laguna", 
+      "Pacucha", 
+      "Region"
     ]
   }, 
   {
@@ -4046,7 +4577,44 @@
     "nombre": "LEY QUE INCORPORA AL MINISTRO DE DESARROLLO E INCLUSIÓN SOCIAL EN EL CONSEJO NACIONAL DE GESTIÓN DEL RIESGO DE DESASTRES", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2E74062BDB966FE205257A9F0081CFE1/$FILE/AU00941221012.pdf", 
     "tags": [
-      "Inclusion"
+      "Inclusion", 
+      "Gestion", 
+      "Riesgo", 
+      "Desastres"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA EL 7 DE OCTUBRE DE CADA AÑO DÍA DE LA MARINERA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/217C4370FCDB52F705257A8D00554654/$FILE/AU01508041012.pdf", 
+    "tags": [
+      "Cultura", 
+      "Marinera"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29588, LEY QUE COMPLEMENTA LAS FACULTADES DE LA SUPERINTENDENCIA NACIONAL DE BIENES ESTATALES (SBN)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/EFF06B379B3FCB5D05257A95000FD69D/$FILE/AU01141111012.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29588", 
+      "Sbn"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/10/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DEROGA EL ARTÍCULO 7 DE LA LEY 29914, LEY QUE ESTABLECE MEDIDAS EN MATERIA DE GASTO PÚBLICO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3FA7245D0BAC4D6A05257A99007BC34D/$FILE/AU01509161012.pdf", 
+    "tags": [
+      "Deroga", 
+      "Ley", 
+      "29914", 
+      "Gasto"
     ]
   }, 
   {
@@ -4079,10 +4647,82 @@
   {
     "fecha promulga": "20/09/2012", 
     "legislatura": "2012-1", 
+    "nombre": "LEY QUE SANCIONA LA REALIZACIÓN DE LLAMADAS MALINTENCIONADAS A LAS CENTRALES TELEFÓNICAS DE EMERGENCIAS Y URGENCIAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/90E2B9EA644A785705257A930003A790/$FILE/AU00507091012.pdf", 
+    "tags": [
+      "Justicia", 
+      "Telefono", 
+      "Emergencias"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/09/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 2 DE LA LEY 26497, LEY ORGÁNICA DEL REGISTRO NACIONAL DE IDENTIFICACIÓN Y ESTADO CIVIL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0C362846060708E605257A930003C153/$FILE/AU00527091012.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26497"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/09/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL TRIBUNAL CONSTITUCIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/74368D1315FC2D8C05257A930003DBA7/$FILE/AU01443091012.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "Organica", 
+      "Tribunal", 
+      "Constitucional"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/09/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA EL ASFALTADO DE DIVERSAS CARRETERAS EN EL DEPARTAMENTO DE HUANCAVELICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9D4A12ACA2B4269405257A95000F79B0/$FILE/AU00310111012.pdf", 
+    "tags": [
+      "Construccion", 
+      "Carretera", 
+      "Huancavelica"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/09/2012", 
+    "legislatura": "2012-1", 
     "nombre": "LEY QUE MODIFICA EL ARTÍCULO 5 DE LA LEY 15251, LEY QUE CREA EL COLEGIO ODONTOLÓGICO DEL PERÚ, MODIFICADA POR LA LEY 29016", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/400864771C10369705257A9F00818BCE/$FILE/AU00859221012.pdf", 
     "tags": [
-      "Educacion"
+      "Modifica", 
+      "Ley", 
+      "15251", 
+      "Cop"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/09/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 9 DEL DECRETO LEGISLATIVO 1049, DECRETO LEGISLATIVO DEL NOTARIADO, SOBRE PLAZAS NOTARIALES EN EL TERRITORIO DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E9112F325CC3A05C05257AA000761963/$FILE/AU01020231012.PDF", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "Justicia", 
+      "Notarios"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/09/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA CONTINUACIÓN Y CULMINACIÓN DE LAS OBRAS PENDIENTES QUE INTEGRAN EL PROYECTO DE INVERSIÓN PÚBLICA MEJORAMIENTO DEL SANTUARIO DE CHAPI, COMO ATRACTIVO TURÍSTICO DE LA RUTA DEL LONCCO AREQUIPEÑO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B33EE5C0E83B6B0905257AB10005750B/$FILE/AU00918081112.PDF", 
+    "tags": [
+      "Cultura", 
+      "Chapi", 
+      "Arequipa"
     ]
   }, 
   {
@@ -4091,8 +4731,39 @@
     "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE PERSONAL MILITAR Y DE UNA UNIDAD NAVAL DE LA REPÚBLICA DEL ECUADOR PARA EL EJERCICIO MARÍTIMO BINACIONAL DE CONTROL DE DERRAME DE HIDROCARBUROS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/AB193149A37C7A2C05257A7D00013197/$FILE/AU01519170912.PDF", 
     "tags": [
-      "Fuerzas", 
-      "Armadas"
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/09/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA LA REVALORACIÓN Y REACTIVACIÓN DEL FERROCARRIL HUANCAYO-HUANCAVELICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/5E34DC8E771D0B0805257A9F00815F90/$FILE/AU00076221012.pdf", 
+    "tags": [
+      "Transporte", 
+      "Ferrocarril", 
+      "Huancayo", 
+      "Huancavelica", 
+      "Region"
+    ]
+  }, 
+  {
+    "fecha promulga": "6/9/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE ESTABLECE EL DERECHO DE PORTABILIDAD NUMÉRICA EN LOS SERVICIOS DE TELEFONÍA FIJA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CE5B494315E9D80D05257A79007E11FA/$FILE/AU00851140912.pdf", 
+    "tags": [
+      "Comunicaciones", 
+      "Telefonia"
+    ]
+  }, 
+  {
+    "fecha promulga": "6/9/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE CONCEDE LA NACIONALIDAD PERUANA, POR NATURALIZACIÓN, A LA CIUDADANA BRASILEÑA JESSICA CATTANEO, POR SERVICIOS DISTINGUIDOS A LA NACIÓN PERUANA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/240E286B9998757205257A7D007E7284/$FILE/AU01017180912.pdf", 
+    "tags": [
+      "Resolucion"
     ]
   }, 
   {
@@ -4107,11 +4778,20 @@
   {
     "fecha promulga": "23/08/2012", 
     "legislatura": "2012-1", 
+    "nombre": "LEY QUE ESTABLECE UN NUEVO PLAZO PARA LA PRESENTACIÓN DE LA DECLARACIÓN DE COMPROMISOS EN EL MARCO DEL PROCESO DE FORMALIZACIÓN DE LAS ACTIVIDADES DE PEQUEÑA MINERÍA Y MINERÍA ARTESANAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/957C9D770E86289805257A690063713E/$FILE/AU0127829082012.pdf", 
+    "tags": [
+      "Mineria", 
+      "Formalizacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "23/08/2012", 
+    "legislatura": "2012-1", 
     "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE PERSONAL MILITAR DE LOS ESTADOS UNIDOS DE AMÉRICA AL TERRITORIO DE LA REPÚBLICA, DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A SETIEMBRE DE 2012", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D700F0A8B4D54C5C05257A690063A7A1/$FILE/AU0140229082012.pdf", 
     "tags": [
-      "Fuerzas", 
-      "Armadas"
+      "Resolucion"
     ]
   }, 
   {
@@ -4120,7 +4800,11 @@
     "nombre": "LEY QUE AUTORIZA AL GOBIERNO REGIONAL DEL DEPARTAMENTO DE MADRE DE DIOS PARA LA CONTRATACIÓN DE DOCENTES, AUXILIARES DE EDUCACIÓN Y PERSONAL ADMINISTRATIVO, Y DICTA OTRAS MEDIDAS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/671B2734F0F2E9C705257A710005455C/$FILE/AU01312050912.pdf", 
     "tags": [
-      "Educacion"
+      "Trabajo", 
+      "Educacion", 
+      "Contrataciones", 
+      "Region", 
+      "Madrededios"
     ]
   }, 
   {
@@ -4129,7 +4813,19 @@
     "nombre": "LEY QUE AUTORIZA TRANSFERENCIA DE PARTIDAS EN EL PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012 A FAVOR DEL MINISTERIO DE SALUD Y DE LOS GOBIERNOS REGIONALES PARA INCREMENTAR LA PROVISIÓN DE SERVICIOS EN LOS ESTABLECIMIENTOS DE SALUD A NIVEL NACIONAL EN EL MARCO DE LOS PROGRAMAS PRESUPUESTALES Y DICTA OTRAS MEDIDAS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/BA41E4AE5E9A813505257A7100056AA9/$FILE/AU01357050912.pdf", 
     "tags": [
-      "Salud"
+      "Economia", 
+      "Presupuesto", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "23/08/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE ESTABLECE MEDIDAS EN MATERIA DE GASTO PÚBLICO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E8491BE11E1C60B105257A7600052281/$FILE/AU01400100912.pdf", 
+    "tags": [
+      "Economia", 
+      "Gasto"
     ]
   }, 
   {
@@ -4138,7 +4834,53 @@
     "nombre": "LEY QUE DECLARA EL 23 DE SEPTIEMBRE DE CADA AÑO COMO EL DÍA NACIONAL CONTRA LA TRATA DE PERSONAS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0299DF619C88A5A605257A7700723581/$FILE/AU01003120912.pdf", 
     "tags": [
-      "Cultura"
+      "Cultura", 
+      "Poblacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "23/08/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA DIVERSOS ARTÍCULOS DE LA LEY 26370, LEY DE LA CINEMATOGRAFÍA PERUANA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0EE653E46DAE47A505257A770072BE50/$FILE/AU00523120912.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26370", 
+      "Cinematografia"
+    ]
+  }, 
+  {
+    "fecha promulga": "9/8/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "DELÉGASE EN EL PODER EJECUTIVO LA FACULTAD DE LEGISLAR EN MATERIA DE FORTALECIMIENTO Y REFORMA INSTITUCIONAL DEL SECTOR INTERIOR Y DE DEFENSA NACIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F06AD3EB28E618C105257A60005F16E4/$FILE/AU01380200812.pdf", 
+    "tags": [
+      "Gobierno", 
+      "Delega"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/8/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA LA EXPROPIACIÓN DE INMUEBLES PARA LA EJECUCIÓN DE LA OBRA DE GRAN ENVERGADURA DEL AEROPUERTO INTERNACIONAL DE CHINCHERO – CUSCO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D32F2CA6DE4770C105257A53000B2A6A/$FILE/AU01366060812.pdf", 
+    "tags": [
+      "Construccion", 
+      "Aeropuerto", 
+      "Chinchero", 
+      "Cusco"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/7/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY DE REFORMA DEL SISTEMA PRIVADO DE PENSIONES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2E9F2771140112CD05257A3E0078C9DA/$FILE/AU00054170712.pdf", 
+    "tags": [
+      "Trabajo", 
+      "Reforma", 
+      "Pensiones"
     ]
   }, 
   {
@@ -4171,10 +4913,122 @@
   {
     "fecha promulga": "14/06/2012", 
     "legislatura": "2012-1", 
+    "nombre": "LEY QUE PRECISA COMPETENCIAS DEL ORGANISMO SUPERVISOR DE LA INVERSIÓN EN ENERGÍA Y MINERÍA (OSINERGMIN)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3439D49B4AF461C805257A2400767F2A/$FILE/AU00668210612.pdf", 
+    "tags": [
+      "Gobierno", 
+      "Osinergmin"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE AMPLÍA EL PLAZO ESTABLECIDO EN EL ARTÍCULO 18 DE LA LEY 29812, LEY DE PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012, Y DICTA OTRA MEDIDA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/410EA0327610C43805257A240076C964/$FILE/AU01228210612.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29812", 
+      "Presupuesto", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE CONCEDE PENSIÓN DE GRACIA A DOÑA ELVA JUSTINA ALCANDRÉ WESCHE, DESTACADA ACTRIZ DE TEATRO, RADIOTEATRO, TELEVISIÓN Y CINE, CONOCIDA COMO “LA PRIMERA ACTRIZ DEL TEATRO NACIONAL”", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/267F27808B4031F005257A24007701AC/$FILE/AU01092210612.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL LA RESTAURACIÓN Y PUESTA EN VALOR DEL MONUMENTO ARQUEOLÓGICO DE CHOQUEQUIRAO Y DE SUS ACCESOS POR CUSCO Y APURÍMAC", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9A1014E644164BB405257A2400773496/$FILE/AU00732210612.pdf", 
+    "tags": [
+      "Cultura", 
+      "Choquequirao", 
+      "Cusco", 
+      "Apurimac"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE ESTABLECE LA IMPLEMENTACIÓN DE LACTARIOS EN LAS INSTITUCIONES DEL SECTOR PÚBLICO Y DEL SECTOR PRIVADO PROMOVIENDO LA LACTANCIA MATERNA", 
+    "pdf": "", 
+    "tags": [
+      "Trabajo", 
+      "Lactario"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29704, LEY QUE CREA EN EL DEPARTAMENTO DE TUMBES EL CENTRO DE EXPORTACIÓN, TRANSFORMACIÓN, INDUSTRIA, COMERCIALIZACIÓN Y SERVICIOS (CETICOS TUMBES), Y DICTA OTRAS DISPOSICIONES PARA SU FORTALECIMIENTO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F7269D5C0918D30905257A290001442D/$FILE/AU00534250612.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29704", 
+      "Regin", 
+      "Tumbes"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY PARA LA PREVENCIÓN Y EL TRATAMIENTO DE LA LUDOPATÍA EN LAS SALAS DE JUEGOS DE CASINO Y MÁQUINAS TRAGAMONEDAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/6BF7B64E4B41B78205257A2B00615BA9/$FILE/AU00650280612.pdf", 
+    "tags": [
+      "Cultura", 
+      "Ludopatia", 
+      "Prevencion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA LA ADENDA N° 1 AL ACUERDO ENTRE LA ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA EDUCACIÓN, LA CIENCIA Y LA CULTURA (UNESCO) Y EL GOBIERNO DE LA REPÚBLICA DEL PERÚ REFERENTE A LA CREACIÓN Y FUNCIONAMIENTO DEL CENTRO REGIONAL PARA LA SALVAGUARDIA DEL PATRIMONIO CULTURAL INMATERIAL DE AMÉRICA LATINA EN CUSCO (PERÚ)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/46C8A9BEEE5CB71305257A2B0061B3F3/$FILE/AU01101280612.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE ESTABLECE NUEVOS PLAZOS PARA EL EJERCICIO DEL DERECHO DE ADQUISICIÓN PREFERENTE DE ACCIONES DEL ESTADO EN EMPRESAS AGRARIAS AZUCARERAS COMPRENDIDAS EN EL LITERAL ii) DEL ARTÍCULO 4 DEL DECRETO SUPREMO 037-2012-EF", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DD705D00297CA57405257A2B0061E695/$FILE/AU01227280612.pdf", 
+    "tags": [
+      "Gobierno", 
+      "Acciones", 
+      "Empresas"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY DE PROMOCIÓN DE LA BANDA ANCHA Y CONSTRUCCIÓN DE LA RED DORSAL NACIONAL DE FIBRA ÓPTICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2B55A2428B5472C205257A2C00049EFB/$FILE/AU00688280612.pdf", 
+    "tags": [
+      "Telecomunicaciones", 
+      "Banda", 
+      "Ancha"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2012-1", 
     "nombre": "LEY QUE DECLARA DE NECESIDAD Y UTILIDAD PÚBLICA LA PREVENCIÓN Y RECUPERACIÓN AMBIENTAL INTEGRAL DEL LAGO TITICACA Y SUS AFLUENTES", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A5EBE4FF493514D205257A2C0004B840/$FILE/AU00771280612.pdf", 
     "tags": [
-      "Ambiental"
+      "Ambiente", 
+      "Region", 
+      "Lago", 
+      "Titicaca"
     ]
   }, 
   {
@@ -4183,7 +5037,9 @@
     "nombre": "LEY GENERAL DE LA PERSONA CON DISCAPACIDAD", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/60909F30D90135D705257A37005ED000/$FILE/AU00377100712.pdf", 
     "tags": [
-      "Cultura"
+      "Cultura", 
+      "Poblacion", 
+      "Discapacidad"
     ]
   }, 
   {
@@ -4196,13 +5052,2150 @@
     ]
   }, 
   {
+    "fecha promulga": "7/6/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 99 DE LA LEY 28611, LEY GENERAL DEL AMBIENTE, E INCORPORA LOS PÁRAMOS Y JALCAS AL CONJUNTO DE ECOSISTEMAS FRÁGILES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/53751AB768859A5E05257A2100815855/$FILE/AU00003180612.PDF", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28611", 
+      "Ambiente", 
+      "Paramos", 
+      "Jalcas", 
+      "Ecositema"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/6/2012", 
+    "legislatura": "2012-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA LA CONVENCIÓN INTERNACIONAL PARA LA PROTECCIÓN DE TODAS LAS PERSONAS CONTRA LAS DESAPARICIONES FORZADAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8D564B3BA299DF2505257A21008175B1/$FILE/AU00884180612.PDF", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/7/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE REFORMA DEL SISTEMA PRIVADO DE PENSIONES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2E9F2771140112CD05257A3E0078C9DA/$FILE/AU00054170712.pdf", 
+    "tags": [
+      "Trabajo", 
+      "Pensiones", 
+      "Reforma"
+    ]
+  }, 
+  {
+    "fecha promulga": "28/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 29 AL 30 DE JUNIO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/EB48CC0E91BAFDCB05257A2B0062B1CB/$FILE/AU01294280612.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "28/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA, DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A JULIO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/55B0AB487DAA303605257A2B00815CD0/$FILE/AU01295280612.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "19/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 20 AL 21 DE JUNIO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4AA637E64B2A09A205257A2300030B2F/$FILE/AU0127719062012.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE PRECISA COMPETENCIAS DEL ORGANISMO SUPERVISOR DE LA INVERSIÓN EN ENERGÍA Y MINERÍA (OSINERGMIN)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3439D49B4AF461C805257A2400767F2A/$FILE/AU00668210612.pdf", 
+    "tags": [
+      "Energia", 
+      "Competencias", 
+      "Osinergmin"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE AMPLÍA EL PLAZO ESTABLECIDO EN EL ARTÍCULO 18 DE LA LEY 29812, LEY DE PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012, Y DICTA OTRA MEDIDA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/410EA0327610C43805257A240076C964/$FILE/AU01228210612.pdf", 
+    "tags": [
+      "Amplia", 
+      "Ley", 
+      "29812", 
+      "Presupuesto", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE CONCEDE PENSIÓN DE GRACIA A DOÑA ELVA JUSTINA ALCANDRÉ WESCHE, DESTACADA ACTRIZ DE TEATRO, RADIOTEATRO, TELEVISIÓN Y CINE, CONOCIDA COMO “LA PRIMERA ACTRIZ DEL TEATRO NACIONAL”", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/267F27808B4031F005257A24007701AC/$FILE/AU01092210612.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL LA RESTAURACIÓN Y PUESTA EN VALOR DEL MONUMENTO ARQUEOLÓGICO DE CHOQUEQUIRAO Y DE SUS ACCESOS POR CUSCO Y APURÍMAC", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9A1014E644164BB405257A2400773496/$FILE/AU00732210612.pdf", 
+    "tags": [
+      "Cultura", 
+      "Region", 
+      "Choquequirao", 
+      "Cusco", 
+      "Apurimac"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE ESTABLECE LA IMPLEMENTACIÓN DE LACTARIOS EN LAS INSTITUCIONES DEL SECTOR PÚBLICO Y DEL SECTOR PRIVADO PROMOVIENDO LA LACTANCIA MATERNA", 
+    "pdf": "", 
+    "tags": [
+      "Salud", 
+      "Familia", 
+      "Lactarios"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29704, LEY QUE CREA EN EL DEPARTAMENTO DE TUMBES EL CENTRO DE EXPORTACIÓN, TRANSFORMACIÓN, INDUSTRIA, COMERCIALIZACIÓN Y SERVICIOS (CETICOS TUMBES), Y DICTA OTRAS DISPOSICIONES PARA SU FORTALECIMIENTO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F7269D5C0918D30905257A290001442D/$FILE/AU00534250612.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29704", 
+      "Ceticos", 
+      "Tumbes", 
+      "Region"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY PARA LA PREVENCIÓN Y EL TRATAMIENTO DE LA LUDOPATÍA EN LAS SALAS DE JUEGOS DE CASINO Y MÁQUINAS TRAGAMONEDAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/6BF7B64E4B41B78205257A2B00615BA9/$FILE/AU00650280612.pdf", 
+    "tags": [
+      "Salud", 
+      "Prevencion", 
+      "Ludopatias", 
+      "Casinos"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA LA ADENDA N° 1 AL ACUERDO ENTRE LA ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA EDUCACIÓN, LA CIENCIA Y LA CULTURA (UNESCO) Y EL GOBIERNO DE LA REPÚBLICA DEL PERÚ REFERENTE A LA CREACIÓN Y FUNCIONAMIENTO DEL CENTRO REGIONAL PARA LA SALVAGUARDIA DEL PATRIMONIO CULTURAL INMATERIAL DE AMÉRICA LATINA EN CUSCO (PERÚ)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/46C8A9BEEE5CB71305257A2B0061B3F3/$FILE/AU01101280612.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE ESTABLECE NUEVOS PLAZOS PARA EL EJERCICIO DEL DERECHO DE ADQUISICIÓN PREFERENTE DE ACCIONES DEL ESTADO EN EMPRESAS AGRARIAS AZUCARERAS COMPRENDIDAS EN EL LITERAL ii) DEL ARTÍCULO 4 DEL DECRETO SUPREMO 037-2012-EF", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DD705D00297CA57405257A2B0061E695/$FILE/AU01227280612.pdf", 
+    "tags": [
+      "Gobierno", 
+      "Plazos", 
+      "Adquisiciones"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE PROMOCIÓN DE LA BANDA ANCHA Y CONSTRUCCIÓN DE LA RED DORSAL NACIONAL DE FIBRA ÓPTICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2B55A2428B5472C205257A2C00049EFB/$FILE/AU00688280612.pdf", 
+    "tags": [
+      "Telecomunicaciones", 
+      "Banda", 
+      "Ancha"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD Y UTILIDAD PÚBLICA LA PREVENCIÓN Y RECUPERACIÓN AMBIENTAL INTEGRAL DEL LAGO TITICACA Y SUS AFLUENTES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A5EBE4FF493514D205257A2C0004B840/$FILE/AU00771280612.pdf", 
+    "tags": [
+      "Ambiente", 
+      "Recuperacion", 
+      "Lago", 
+      "Titicaca"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/06/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY GENERAL DE LA PERSONA CON DISCAPACIDAD", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/60909F30D90135D705257A37005ED000/$FILE/AU00377100712.pdf", 
+    "tags": [
+      "Cultura", 
+      "Discapacidad", 
+      "Poblacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/6/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 9 AL 15 DE JUNIO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/903CC03845326C7005257A16008117A5/$FILE/AU01215070612.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/6/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 99 DE LA LEY 28611, LEY GENERAL DEL AMBIENTE, E INCORPORA LOS PÁRAMOS Y JALCAS AL CONJUNTO DE ECOSISTEMAS FRÁGILES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/53751AB768859A5E05257A2100815855/$FILE/AU00003180612.PDF", 
+    "tags": [
+      "Ambiente", 
+      "Proteccion", 
+      "Paramos", 
+      "Jalcas", 
+      "Ecosistema"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/6/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA LA CONVENCIÓN INTERNACIONAL PARA LA PROTECCIÓN DE TODAS LAS PERSONAS CONTRA LAS DESAPARICIONES FORZADAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8D564B3BA299DF2505257A21008175B1/$FILE/AU00884180612.PDF", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/6/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE AUTORIZA A LOS PLIEGOS DE LOS GOBIERNOS REGIONALES A REGULARIZAR LAS TRANSFERENCIAS AL COMITÉ DE ADMINISTRACIÓN DEL FONDO DE ASISTENCIA Y ESTÍMULO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/05B0169ABE3600A405257A2100818D72/$FILE/AU01229180612.PDF", 
+    "tags": [
+      "Trabajo", 
+      "Transferencias", 
+      "Region"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/6/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 3 Y 5 DE LA LEY 27790, LEY DE ORGANIZACIÓN Y FUNCIONES DEL MINISTERIO DE COMERCIO EXTERIOR Y TURISMO, OTORGÁNDOLE COMPETENCIA SOBRE LAS OFICINAS COMERCIALES EN EL EXTERIOR, Y EL ARTÍCULO 3 DE LA LEY 29357, LEY DE ORGANIZACIÓN Y FUNCIONES DEL MINISTERIO DE RELACIONES EXTERIORES", 
+    "pdf": "", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "27790", 
+      "Gobierno", 
+      "Organizacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/6/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL EL 6 JUNIO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/662340676927E29405257A1400041855/$FILE/PRL1214-AUTORIZACIÓNVIAJEPRESIDENTEACHILE4.6.12.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A JUNIO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/38F2D6E832E2159405257A1000152DE9/$FILE/AU01167310512.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 28592, LEY QUE CREA EL PLAN INTEGRAL DE REPARACIONES – PIR", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/872B46D5664E8EBB05257A130077245E/$FILE/AU00719040612.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28592", 
+      "Pir"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DISPONE LA DIFUSIÓN DE LAS RESEÑAS HISTÓRICAS DE LOS HÉROES Y PERSONALIDADES NACIONALES Y REGIONALES EN ÁREAS DE USO PÚBLICO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DFED886E7C9C93D505257A160080BA73/$FILE/AU00705070612.pdf", 
+    "tags": [
+      "Cultura", 
+      "Turismo", 
+      "Promocion"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DELEGA AL PODER EJECUTIVO LA FACULTAD DE LEGISLAR EN MATERIA TRIBUTARIA, ADUANERA Y DE DELITOS TRIBUTARIOS Y ADUANEROS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/C22B95B34DEFD69405257A160080E2B6/$FILE/AU01091070612.pdf", 
+    "tags": [
+      "Gobierno", 
+      "Delega", 
+      "Tributos"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29090, LEY DE REGULACIÓN DE HABILITACIONES URBANAS Y DE EDIFICACIONES Y ESTABLECE EL PROCEDIMIENTO DE HABILITACIÓN URBANA DE OFICIO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9D94E6112C268E9705257A2400760CB0/$FILE/AU00549210612.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29090"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY PARA LA PROMOCIÓN E IMPLEMENTACIÓN DE PARQUES CIENTÍFICOS Y TECNOLÓGICOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3F91D11184DC3AC905257A0F00005E4B/$FILE/AU00178300512.pdf", 
+    "tags": [
+      "Produccion", 
+      "Promocion", 
+      "Implementacion", 
+      "Tecnologico"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL CONVENIO ENTRE EL GOBIERNO DE LA REPÚBLICA DEL PERÚ Y EL GOBIERNO DE LA REPÚBLICA FEDERAL DE ALEMANIA SOBRE COOPERACIÓN FINANCIERA 2006", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/886AB0475324804905257A0F00007CC4/$FILE/AU00392300512.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 11 DE LA LEY 26842, LEY GENERAL DE SALUD, Y GARANTIZA LOS DERECHOS DE LAS PERSONAS CON PROBLEMAS DE SALUD MENTAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/46AAFECBFB3B253405257A130076A2F1/$FILE/AU00418040612.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26842", 
+      "Salud"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DEL SISTEMA NACIONAL DE RESIDENTADO MÉDICO (SINAREME)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/58CE15772B08B89905257A130076D00F/$FILE/AU00148040612.pdf", 
+    "tags": [
+      "Salud", 
+      "Trabajo", 
+      "Residantado", 
+      "Sinareme"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 547 DEL CÓDIGO PROCESAL CIVIL, MODIFICADO POR LA CUARTA DISPOSICIÓN FINAL DE LA LEY 29824, LEY DE JUSTICIA DE PAZ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9DF2A6CC8D8F534805257A130076ECE0/$FILE/AU01176040612.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29824", 
+      "Justicia", 
+      "Paz"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DEROGA EL ARTÍCULO 3 DE LA LEY 27973, LEY QUE ESTABLECE LA DETERMINACIÓN DEL VALOR ADUANERO A CARGO DE LA SUPERINTENDENCIA NACIONAL DE ADMINISTRACIÓN TRIBUTARIA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7D670ABAA3EF6F3C05257A80006DED42/$FILE/AU00107210912.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "27973", 
+      "Aduana"
+    ]
+  }, 
+  {
+    "fecha promulga": "23/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 26520, LEY ORGÁNICA DE LA DEFENSORÍA DEL PUEBLO; Y LA LEY 28301, LEY ORGÁNICA DEL TRIBUNAL CONSTITUCIONAL, SOBRE LOS PROCEDIMIENTOS DE ELECCIÓN DEL DEFENSOR DEL PUEBLO Y DE MAGISTRADOS DEL TRIBUNAL CONSTITUCIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A8A6EFA9DEABEF2105257A090002B062/$FILE/AU00510240512.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26520", 
+      "Ley", 
+      "28301", 
+      "Procedimeintos", 
+      "Tc"
+    ]
+  }, 
+  {
+    "fecha promulga": "23/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29571, CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR, Y LA LEY 28587, LEY COMPLEMENTARIA A LA LEY DE PROTECCIÓN AL CONSUMIDOR EN MATERIA DE SERVICIOS FINANCIEROS, SOBRE TRANSPARENCIA DE LA INFORMACIÓN Y MODIFICACIONES CONTRACTUALES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/5724AEC74EF5369205257A1300767A0E/$FILE/AU00809040612.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29571", 
+      "Ley", 
+      "28587", 
+      "Consumidor"
+    ]
+  }, 
+  {
+    "fecha promulga": "17/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 9 DE LA LEY 26872, LEY DE CONCILIACIÓN, SOBRE LA INEXIGIBILIDAD DE LA CONCILIACIÓN EXTRAJUDICIAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/73EFA0EA259CE61505257A0700053714/$FILE/AU0056322052012.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26872", 
+      "Conciliacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "17/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "(INSISTENCIA) LEY QUE EXTINGUE LOS INTERESES Y MORAS DERIVADOS DEL ENDEUDAMIENTO CONTRAÍDO POR LOS AFECTADOS DEL ATENTADO TERRORISTA DE LA CALLE TARATA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/64DE492CA33614C005257A0700055467/$FILE/AU0075522052012.pdf", 
+    "tags": [
+      "Justicia", 
+      "Tarata"
+    ]
+  }, 
+  {
+    "fecha promulga": "17/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL LA CREACIÓN DEL PROGRAMA DE TAMIZAJE NEONATAL UNIVERSAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/AB97964863FC16DC05257A070068471C/$FILE/AU0279230512.pdf", 
+    "tags": [
+      "Poblacion", 
+      "Tamizaje", 
+      "Neonatal"
+    ]
+  }, 
+  {
+    "fecha promulga": "17/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 202 Y 204 DEL CÓDIGO PENAL, LA PRIMERA DISPOSICIÓN FINAL DEL CÓDIGO PROCESAL PENAL Y PONE EN VIGENCIA SU ARTÍCULO 311 SOBRE LA USURPACIÓN Y EL DESALOJO PREVENTIVO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/40E42FA4BAE39D7605257A08006E447D/$FILE/AU00288240512.pdf", 
+    "tags": [
+      "Justicia", 
+      "Modificacion", 
+      "Usurpacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "17/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL ACUERDO PARA PROFUNDIZAR LA LIBERALIZACIÓN DE LOS PORCENTAJES MÍNIMOS DE PROGRAMACIÓN DE PRODUCCIÓN NACIONAL DE SERVICIOS DE TELEVISIÓN DE SEÑAL ABIERTA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/08FC98D8AFBEF44405257A08006E76FC/$FILE/AU00385240512.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "17/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL DECRETO LEGISLATIVO 1017 QUE APRUEBA LA LEY DE CONTRATACIONES DEL ESTADO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/39DA33220F3A286005257A0A000908C3/$FILE/274Mod.LeydeContrataciones(17.5.12).pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "Contrataciones", 
+      "Estado"
+    ]
+  }, 
+  {
+    "fecha promulga": "16/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE EXONERA A LOS GOBIERNOS REGIONALES DEL PAGO DE TASAS REGISTRALES Y MUNICIPALES, ARANCELES U OTROS COBROS PARA LA EJECUCIÓN DE LA FORMALIZACIÓN DE LA PROPIEDAD AGRARIA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F4E6FC0610E9975C05257A0700051458/$FILE/AU0041722052012.pdf", 
+    "tags": [
+      "Region", 
+      "Agro", 
+      "Exonera", 
+      "Pagos"
+    ]
+  }, 
+  {
+    "fecha promulga": "16/05/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA DIVERSOS ARTÍCULOS DEL CÓDIGO DE EJECUCIÓN PENAL, REFERENTE A BENEFICIOS PENITENCIARIOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FEC08429F49567A605257A0700687380/$FILE/DU00015-2012.pdf", 
+    "tags": [
+      "Justicia", 
+      "Beneficios", 
+      "Penitenciarios"
+    ]
+  }, 
+  {
+    "fecha promulga": "10/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNA UNIDAD NAVAL Y DE PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/63E53F5286378CC0052579FB00778357/$FILE/AUOB01103110512.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "10/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE FACILITA EL PAGO Y LA RECONEXIÓN DE LOS SERVICIOS PÚBLICOS DE AGUA, ELECTRICIDAD, GAS NATURAL, TELEFONÍA E INTERNET", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CDC6F97EE874647B05257A00005E222B/$FILE/AU00164160512.pdf", 
+    "tags": [
+      "Poblacion", 
+      "Servicios", 
+      "Agua,", 
+      "Luz,", 
+      "Gas,", 
+      "Telefonia", 
+      "Internet"
+    ]
+  }, 
+  {
+    "fecha promulga": "10/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE ESTABLECE EL PLAZO DE CINCO AÑOS, PARA QUE LAS UNIVERSIDADES PROCEDAN A TITULAR COMO CONTADOR PÚBLICO A LOS CONTADORES MERCANTILES QUE CUMPLAN CON LOS REQUISITOS DE LEY", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/6366BBF2AA61E46705257A0100170E21/$FILE/AU00689160512.pdf", 
+    "tags": [
+      "Educacion", 
+      "Universidades", 
+      "Titulacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "10/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE PRIORIZA LA ASIGNACIÓN PROGRESIVA DE PLAZAS VACANTES DE DOCENTES DE EDUCACIÓN FÍSICA EN LAS INSTITUCIONES EDUCATIVAS DEL NIVEL PRIMARIA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/6453B59A432A1E5005257A01001733C3/$FILE/AU00023160512.pdf", 
+    "tags": [
+      "Educacion", 
+      "Contratacion", 
+      "Trabajo"
+    ]
+  }, 
+  {
+    "fecha promulga": "10/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE ESTABLECE MEDIDAS DE PROTECCIÓN Y SUPERVISIÓN DE LAS CONDICIONES GENERALES DE LAS PÓLIZAS DE SEGUROS MÉDICOS, DE SALUD O DE ASISTENCIA MÉDICA Y MODIFICA LA LEY 26702, LEY GENERAL DEL SISTEMA FINANCIERO Y DEL SISTEMA DE SEGUROS Y ORGÁNICA DE LA SUPERINTENDENCIA DE BANCA Y SEGUROS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D8D08C0F06A0A8CB05257A01001758C5/$FILE/AU00010160512.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26702,", 
+      "Salud", 
+      "Polizas"
+    ]
+  }, 
+  {
+    "fecha promulga": "10/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE IMPLEMENTA MEDIDAS DESTINADAS A FIJAR UNA ESCALA BASE PARA EL OTORGAMIENTO DEL INCENTIVO LABORAL QUE SE OTORGA A TRAVÉS DE LOS COMITÉS DE ADMINISTRACIÓN DEL FONDO DE ASISTENCIA Y ESTÍMULO (CAFAE)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/C0C7D2C6A8187C7305257A0100177431/$FILE/AU000421160512.pdf", 
+    "tags": [
+      "Trabajo", 
+      "Cafae"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DEJA SIN EFECTO EL REQUISITO DE AFILIACIÓN OBLIGATORIA A UN SEGURO MÉDICO PARA TENER ACCESO AL CRÉDITO EN EL SISTEMA FINANCIERO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FB43591F8846692D052579F8007B0203/$FILE/AU0022208052012.pdf", 
+    "tags": [
+      "Trabajo", 
+      "Afiliacion", 
+      "Seguro", 
+      "Creditos"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE REGULA EL EMPLEO DE LA FUERZA POR PARTE DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F859DCF4E207A19E052579F8007B30A4/$FILE/AU0008108052012.pdf", 
+    "tags": [
+      "Gobierno", 
+      "Policia"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE RESTABLECE LA VIGENCIA DE LA LEY 29022, LEY PARA LA EXPANSIÓN DE INFRAESTRUCTURA EN TELECOMUNICACIONES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/C303A7D33CF1A3AA052579F900028439/$FILE/AU0086908052012.pdf", 
+    "tags": [
+      "Restablece", 
+      "Ley", 
+      "2902", 
+      "Telecomunicaciones"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE REASENTAMIENTO POBLACIONAL PARA ZONAS DE MUY ALTO RIESGO NO MITIGABLE", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8582873EF52B3418052579F900745A04/$FILE/AU0015209052012.pdf", 
+    "tags": [
+      "Poblacion", 
+      "Alto", 
+      "Riesgo"
+    ]
+  }, 
+  {
+    "fecha promulga": "2/5/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 5 AL 14 DE MAYO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/ECC68DDD89187CCD052579F300087353/$FILE/AU01043020512.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "19/04/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A MAYO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/BEC0CBB1AD81788D052579E50083A4BA/$FILE/AU01022190412.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "19/04/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY PARA LA REESTRUCTURACIÓN ECONÓMICA Y DE APOYO A LA ACTIVIDAD DEPORTIVA FUTBOLÍSTICA EN EL PERÚ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D3D5EE3369A6445F052579EB0083D26E/$FILE/AU01015250412.pdf", 
+    "tags": [
+      "Economia", 
+      "Deportes", 
+      "Reestructuracion"
+    ]
+  }, 
+  {
+    "fecha promulga": "19/04/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE SANCIONA LA REALIZACIÓN DE LLAMADAS MALINTENCIONADAS A LAS CENTRALES TELEFÓNICAS DE EMERGENCIAS Y URGENCIAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7CFE81A923B28E89052579ED00050EED/$FILE/AU00507260412.pdf", 
+    "tags": [
+      "Sseguridad", 
+      "Sancion", 
+      "Emergencia"
+    ]
+  }, 
+  {
+    "fecha promulga": "19/04/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL CONVENIO ENTRE EL GOBIERNO DE LA REPÚBLICA DEL PERÚ Y EL GOBIERNO DE LA REPÚBLICA FEDERAL DE ALEMANIA SOBRE COOPERACIÓN FINANCIERA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/83F736F6CDC6507A052579F3007F5D91/$FILE/AU00267030512.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "19/04/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE INCORPORA DIVERSOS ARTÍCULOS AL CÓDIGO PENAL RELATIVOS A LA SEGURIDAD EN LOS CENTROS DE DETENCIÓN O RECLUSIÓN", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/692247920F067359052579F7007BBB08/$FILE/AU289070512.pdf", 
+    "tags": [
+      "Justicia", 
+      "Seguridad", 
+      "Deteccion", 
+      "Reclusion"
+    ]
+  }, 
+  {
+    "fecha promulga": "12/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 24291, POR LA QUE SE CREA EL COLEGIO TECNÓLOGO MÉDICO DEL PERÚ, Y DEROGA LA SEGUNDA DISPOSICIÓN TRANSITORIA, COMPLEMENTARIA Y FINAL DE LA LEY 28456, LEY DEL TRABAJO DEL PROFESIONAL DE LA SALUD TECNÓLOGO MÉDICO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/6F35E4CDE89365BE052579E30073B73C/$FILE/AU00062170412.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "24291"
+    ]
+  }, 
+  {
+    "fecha promulga": "12/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE OTORGA AMNISTÍA POR LA POSESIÓN IRREGULAR O ILEGAL DE ARMAS DE USO CIVIL, ARMAS DE USO DE GUERRA, MUNICIONES, GRANADAS DE GUERRA O EXPLOSIVOS Y REGULARIZA SU TENENCIA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/54D4A8588C752F48052579E600712CCF/$FILE/AU00144200412.pdf", 
+    "tags": [
+      "Poblacion", 
+      "Armas"
+    ]
+  }, 
+  {
+    "fecha promulga": "12/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DEJA SIN EFECTO EL DECRETO SUPREMO 001-2012-IN, QUE CREA EL PROGRAMA SERVICIO VOLUNTARIO DE APOYO A LA POLICÍA NACIONAL DEL PERÚ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B0942BE82B5494A9052579E600714731/$FILE/AU00215200412.pdf", 
+    "tags": [
+      "Poblacion", 
+      "Policia"
+    ]
+  }, 
+  {
+    "fecha promulga": "12/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE OTORGA UN PLAZO ADICIONAL PARA EL CUMPLIMIENTO DE LA DISPOSICIÓN TRANSITORIA ÚNICA DE LA LEY 29248, LEY DEL SERVICIO MILITAR", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FE9203E4A746B48A052579E600715F52/$FILE/AU00490200412.pdf", 
+    "tags": [
+      "Prorroga", 
+      "Ley", 
+      "29248", 
+      "Servicio", 
+      "Militar"
+    ]
+  }, 
+  {
+    "fecha promulga": "12/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA A LA CIUDAD DE JAUJA COMO LA PRIMERA CAPITAL DEL PERÚ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/5893957E4B2B5827052579E600717DAD/$FILE/AU00844200412.pdf", 
+    "tags": [
+      "Cultura", 
+      "Region", 
+      "Jauja"
+    ]
+  }, 
+  {
+    "fecha promulga": "12/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE PRECISA EL NOMBRE DE LA BENEFICIARIA CONSIGNADO EN LA RESOLUCIÓN LEGISLATIVA 24848, QUE CONCEDE PENSIÓN DE GRACIA A DOÑA CONSUELO DEL ROSARIO DE MARÍA MESTANZA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/896CE23F757AD7F5052579EB0061B5F2/$FILE/AU00520250412.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE INCORPORA EL ARTÍCULO 317-A AL CÓDIGO PENAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/08EDACAC6A443BCC052579DE0080F7FD/$FILE/AU00103120412.pdf", 
+    "tags": [
+      "Justicia", 
+      "Codigo-penal"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE RECOMPOSICIÓN DE LOS MONTOS DE ENDEUDAMIENTO PREVISTOS EN EL ARTÍCULO 4 DE LA LEY 29814, LEY DE ENDEUDAMIENTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FC17A2656FC8FF56052579DF004EC491/$FILE/AU00968120412.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29814", 
+      "Presupuesto", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE ESTABLECE MEDIDAS EN MATERIA FISCAL Y CONSTITUYE UNA COMISIÓN TÉCNICA ENCARGADA DE EVALUAR Y ELABORAR UNA PROPUESTA PARA PERFECCIONAR EL MARCO NORMATIVO MACROFISCAL VIGENTE", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9C0505F82445DA1D052579DF004EDCD6/$FILE/AU00969120412.pdf", 
+    "tags": [
+      "Gobierno"
+    ]
+  }, 
+  {
+    "fecha promulga": "9/4/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 13 AL 15 DE ABRIL DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2F6C7C4B408CB251052579DC004B96D8/$FILE/AU00978090412.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "22/03/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A ABRIL DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D6346F2E2ED5D741052579CE0000B9ED/$FILE/AU00888260312.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "22/03/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 99 DE LA LEY 23733, LEY UNIVERSITARIA, MODIFICADA POR LAS LEYES 29696 Y 29776, E INCORPORA EN SUS ALCANCES A LA ESCUELA SUPERIOR DE FORMACIÓN ARTÍSTICA PÚBLICA CARLOS BACA FLOR Y LA DENOMINA ESCUELA NACIONAL DE ARTE CARLOS BACA FLOR DE AREQUIPA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B92FC7665C3ABAA6052579CE0000EE31/$FILE/AU00578260312-1.pdf", 
+    "tags": [
+      "Mddifica", 
+      "Ley", 
+      "23733", 
+      "Universidad"
+    ]
+  }, 
+  {
+    "fecha promulga": "22/03/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE CREA EL SISTEMA DE SEGURIDAD ENERGÉTICA EN HIDROCARBUROS Y EL FONDO DE INCLUSIÓN SOCIAL ENERGÉTICO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/965807F3F545FF1B052579D0005CAEB9/$FILE/AU000862290312.pdf", 
+    "tags": [
+      "Energia", 
+      "Seguridad", 
+      "Hidrocarburos", 
+      "Inclusion"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/03/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE RECATEGORIZACIÓN DEL CENTRO POBLADO SEPAHUA A “VILLA” Y DEL CENTRO POBLADO ATALAYA A “CIUDAD” EN LA PROVINCIA ATALAYA DEL DEPARTAMENTO UCAYALI", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4696DB34180522D5052579C3000C3D30/$FILE/AU00813150312.pdf", 
+    "tags": [
+      "Poblacion", 
+      "Region", 
+      "Atalaya", 
+      "Ucayali"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/03/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE CAMBIO DE NOMBRE DEL DISTRITO Y LA CAPITAL DEL DISTRITO PAMPAS POR PAMPAS GRANDE EN LA PROVINCIA HUARAZ DEL DEPARTAMENTO ANCASH", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F650B3CC591A9394052579C3000C8BDC/$FILE/AU00814150312.pdf", 
+    "tags": [
+      "Region", 
+      "Pampas", 
+      "Huaraz"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/03/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE DEMARCACIÓN Y ORGANIZACIÓN TERRITORIAL DE LA PROVINCIA ASCOPE EN EL DEPARTAMENTO LA LIBERTAD", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/55E211FCCC4CD854052579C3000CBC12/$FILE/AU00818150312-3.pdf", 
+    "tags": [
+      "Region", 
+      "Demarcacion", 
+      "Ascope", 
+      "La-libertad"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/03/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE ESTABLECE LA ELIMINACIÓN PROGRESIVA DEL RÉGIMEN ESPECIAL DEL DECRETO LEGISLATIVO 1057 Y OTORGA DERECHOS LABORALES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/C47DB47B8EB7B48E052579C800045C42/$FILE/AU00086200312.pdf", 
+    "tags": [
+      "Trabajo", 
+      "Derechos", 
+      "Laborales"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/03/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL NUMERAL 9 DEL ARTÍCULO 282 DE LA LEY 26702, LEY GENERAL DEL SISTEMA FINANCIERO Y DEL SISTEMA DE SEGUROS Y ORGÁNICA DE LA SUPERINTENDENCIA DE BANCA Y SEGUROS, SOBRE LAS EMPRESAS AFIANZADORAS Y DE GARANTÍAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/C8E01F970B33567C052579C9004DA0B9/$FILE/AU00479210312.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "26702", 
+      "Economia", 
+      "Finanzas"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/3/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL TRATADO DE EXTRADICIÓN ENTRE LA REPÚBLICA DEL PERÚ Y LA REPÚBLICA ORIENTAL DEL URUGUAY", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FAAA1DE434E37EF2052579C10061E1E7/$FILE/R.L.269.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/3/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL CONVENIO SOBRE EL TRASLADO DE PERSONAS CONDENADAS ENTRE LA REPÚBLICA DEL PERÚ Y SUIZA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1B3A6D3883F4DA94052579C10062296D/$FILE/R.L.271.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/3/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA LA CONVENCIÓN SOBRE MUNICIONES EN RACIMO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0974850527D620AA052579C10062782F/$FILE/R.L.386.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/3/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL ACUERDO DE ASISTENCIA JURÍDICA MUTUA EN ASUNTOS PENALES ENTRE LOS ESTADOS PARTES DEL MERCOSUR, LA REPÚBLICA DE BOLIVIA Y LA REPÚBLICA DE CHILE", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F84589AF572037D4052579C10062F00E/$FILE/R.L.387.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/10/2013", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA RESTITUCIÓN DEL NOMBRE ORIGINAL DE LA PROVINCIA DE NASCA, CONTENIDO EN EL DECRETO DEL 25 DE JUNIO DE 1855", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8DD7465A653A699005257C210082B638/$FILE/AU02187121113.pdf", 
+    "tags": [
+      "Region", 
+      "Nasca"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/2/2013", 
+    "legislatura": "2011-2", 
+    "nombre": "", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/58CB16E743D8DD4E05257B0F006DE6B1/$FILE/AMPLIACIÓNVIAJEPRESIDENTE11.2.2013.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/2/2013", 
+    "legislatura": "2011-2", 
+    "nombre": "", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/C010997AB960BF8E05257B0F006E332F/$FILE/AMPLIACIÓNVIAJEPRESIDENTE11.2.2013.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/11/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE DEMARCACIÓN Y ORGANIZACIÓN TERRITORIAL DE LA PROVINCIA ALTO AMAZONAS EN EL DEPARTAMENTO LORETO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DD6FF47C7626E82F05257AC0000195A9/$FILE/AU01093231112.PDF", 
+    "tags": [
+      "Region", 
+      "Demarcacin", 
+      "Alto", 
+      "Amazonas"
+    ]
+  }, 
+  {
+    "fecha promulga": "28/02/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A MARZO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9B0740127DE0904D052579B300533E7F/$FILE/AU00817290212.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/2/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE CREA EL PROGRAMA NACIONAL DE BECAS Y CRÉDITO EDUCATIVO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1A409B62C1B2E6140525799F005CEC25/$FILE/Proy.670-ProgramaNacionaldeBecas.pdf", 
+    "tags": [
+      "Educacion", 
+      "Becas", 
+      "Credito"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/2/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29694, LEY QUE PROTEGE A LOS CONSUMIDORES DE LAS PRÁCTICAS ABUSIVAS EN LA SELECCIÓN O ADQUISICIÓN DE TEXTOS ESCOLARES, PARA LOGRAR SU EFICIENCIA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/C31E7200E0677E510525799F005DC741/$FILE/Proy.369-Protegealosconsumidores.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "2994", 
+      "Textos", 
+      "Adquisicion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/2/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29616, LEY QUE CREA LA UNIVERSIDAD NACIONAL INTERCULTURAL DE LA SELVA CENTRAL JUAN SANTOS ATAHUALPA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9F9F5C8595401C54052579A000750C07/$FILE/Proy.414-UniversidadSantosAtahualpa.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29616", 
+      "Universidad", 
+      "Selva"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/01/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA, DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE AL MES DE FEBRERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/68791D4749C3A98F052579990075DD32/$FILE/R.L.750-IngresodeUnidadesyTropa.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/01/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "ANEXO RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA, DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE AL MES DE FEBRERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DCE56679FC31E3A005257999007613AC/$FILE/ANEXOTROPASRL750.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 24 AL 30 DE ENERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3C25E77964CCE24D0525798400755314/$FILE/R.L.739ViajePdte.aEspañaySuiza.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 370 DEL CÓDIGO PROCESAL CIVIL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B5634AA8FE03120B0525798400759327/$FILE/P.L.175modificacióndelartículo370delCódigoProcesalCivil.pdf", 
+    "tags": [
+      "Justicia", 
+      "Proceso", 
+      "Civil"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE INCORPORA LA DISPOSICIÓN COMPLEMENTARIA FINAL ÚNICA A LA LEY 28059, LEY MARCO DE PROMOCIÓN DE LA INVERSIÓN DESCENTRALIZADA E INCORPORA PÁRRAFOS AL ARTÍCULO 13 DEL TEXTO ÚNICO ORDENADO DEL DECRETO LEGISLATIVO 839, LEY DE PROMOCIÓN DE LA INVERSIÓN PRIVADA EN OBRAS PÚBLICAS DE INFRAESTRUCTURA Y DE SERVICIOS PÚBLICOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8F235D05F1482031052579840075AF82/$FILE/Proy261Promocióndelainversióndescentralizada.pdf", 
+    "tags": [
+      "Complementa", 
+      "Ley", 
+      "28059"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE EXTINGUE LOS INTERESES Y MORAS DERIVADOS DEL ENDEUDAMIENTO CONTRAÍDO POR LOS AFECTADOS DEL ATENTADO TERRORISTA DE LA CALLE TARATA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/47B5713E84B0756F052579880002A641/$FILE/P.L.3330AfectadosdelacalleTarata.pdf", 
+    "tags": [
+      "Poblacion", 
+      "Exoneracion", 
+      "Intereses", 
+      "Tarata"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE OTORGA AMNISTÍA POR LA POSESIÓN IRREGULAR O ILEGAL DE ARMAS DE USO CIVIL, ARMAS DE USO DE GUERRA, MUNICIONES, GRANADAS DE GUERRA O EXPLOSIVOS, REGULARIZA SU TENENCIA Y MODIFICA EL CÓDIGO PENAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B788B534D8E7B6BD0525798F005929D1/$FILE/144y190amnistíaporlaposesiónilegaldearmas.pdf", 
+    "tags": [
+      "Seguridad", 
+      "Armas", 
+      "Posesion", 
+      "Ilegal"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA LA EXPROPIACIÓN DE INMUEBLES ADYACENTES AL AEROPUERTO INTERNACIONAL JORGE CHÁVEZ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/93F98A2C87CD5DC90525798F005A7D5E/$FILE/712ExpropiaciónInmueblesJorgeChávez.pdf", 
+    "tags": [
+      "Vivienda", 
+      "Expropiacion", 
+      "Aeropuerto", 
+      "Jorge-chavez"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 7 AL 8 DE ENERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/97B877D2632808DB0525797C0017B863/$FILE/R.L.669ViajePdte.aCaracas.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE FACILITACIÓN ADUANERA PARA LA REALIZACIÓN DEL EVENTO DEPORTIVO “RALLY DAKAR 2012”", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/5CFB84646282B0DC0525797C0017DD37/$FILE/662LeydeFacilitaciónAduanera(RallyDakar2012).pdf", 
+    "tags": [
+      "Gobierno", 
+      "Aduana", 
+      "Deporte", 
+      "Dakar", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29423, QUE DEROGA EL DECRETO LEGISLATIVO 927, QUE REGULA LA EJECUCIÓN PENAL EN MATERIA DE DELITOS DE TERRORISMO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0D4E5E592879B30D0525797D005222B7/$FILE/667DelitosdeTerrorismo.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29423", 
+      "Delitos", 
+      "Terrorismo"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE AL MES DE ENERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CB08F69F5C45DC6F0525797D007EF752/$FILE/R.L.660IngresodeUnidadesyTropa.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-2", 
+    "nombre": "ANEXO 1 DE LA RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE AL MES DE ENERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CD90E83B644598770525797D007F267F/$FILE/ANEXO1TROPAS.pdf", 
+    "tags": [
+      "Fuerzas", 
+      "Armadas"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 162 DEL CÓDIGO PENAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/AA93204061E4C3900525796D001714FB/$FILE/Proy.27Interferenciadecomunicaciones(15.12.11).pdf", 
+    "tags": [
+      "Justicia", 
+      "Codigo", 
+      "Penal"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 1 DE LA LEY 28588, PARA ADICIONAR EL LITERAL D) E INCORPORAR A LOS MIEMBROS DE LAS RONDAS CAMPESINAS, NATIVAS Y COMITÉS DE AUTODEFENSA COMO BENEFICIARIOS DEL SEGURO INTEGRAL DE SALUD (SIS)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DA16889A10B180ED0525796D00173BCC/$FILE/Proy.72Incorporarmiembrosderondascampes(15.12.11).pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28588", 
+      "Seguridad", 
+      "Poblacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE AUTORIZA A LOS GOBIERNOS REGIONALES Y GOBIERNOS LOCALES A UTILIZAR LOS RECURSOS PROVENIENTES DEL CANON Y SOBRECANON Y LA REGALÍA MINERA PARA LA IMPLEMENTACIÓN DE COCINAS MEJORADAS CERTIFICADAS Y COCINAS A GAS LICUADO DE PETRÓLEO, PROVISIÓN DE AGUA SEGURA Y MANEJO DE EXCRETAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/923A85B20C94622E0525796D00175CD2/$FILE/Proy.185cocinasmejoradascertifif(15.12.11).pdf", 
+    "tags": [
+      "Gobierno", 
+      "Canon", 
+      "Sobrecanon"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE PROMUEVE Y REGULA EL USO DE PERROS GUÍA POR PERSONAS CON DISCAPACIDAD VISUAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/73FAD64A9D8997A30525796D001782A9/$FILE/Proy.194Usodeperrosguíaporpersonas(15.12.11).pdf", 
+    "tags": [
+      "Poblacion", 
+      "Salud", 
+      "Discapacidad"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE PRORROGA LAS EXONERACIONES DEL ARTÍCULO 19 DEL TUO DE LA LEY DEL IMPUESTO A LA RENTA, APROBADO POR DECRETO SUPREMO 179-2004-EF", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8711D0D387C9F4040525796D0017A182/$FILE/Proy.599PrórrogalasexoneracionesdelTUO(15.12.11).pdf", 
+    "tags": [
+      "Economia", 
+      "Prorroga", 
+      "Impuesto"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE AUTORIZA EL AUMENTO DE LA CUOTA DEL PERÚ EN EL FONDO MONETARIO INTERNACIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D48DBD016ED0E57C0525796D0017BD31/$FILE/Proy.613AumentodelacuotaalFMI(15.12.11).pdf", 
+    "tags": [
+      "Economia", 
+      "Fim", 
+      "Cuota"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "DELÉGASE EN EL PODER EJECUTIVO LA FACULTAD DE LEGISLAR EN MATERIAS DE MINERÍA ILEGAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2D8469CFA68A89E80525796D0017D95A/$FILE/Proy.624DelegarenPoderEjecutivofacultad(15.12.11).pdf", 
+    "tags": [
+      "Mineria", 
+      "Legislacion", 
+      "Ilegal"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE FORTALECIMIENTO DE LA SUNAT", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7A65DBB6A50A65DA0525796D0018105B/$FILE/Proy625SUNAT(15.12.11).pdf", 
+    "tags": [
+      "Gobierno", 
+      "Sunat"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA CONSTRUCCIÓN Y OPERACIÓN DEL SISTEMA DE TRANSPORTE DE HIDROCARBUROS (GAS NATURAL, LIQUIDOS DE GAS NATURAL Y DERIVADOS), Y LA CREACION DE UN POLO INDUSTRIAL PETROQUIMICO, CON FINES DE SEGURIDAD ENERGETICA NACIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/05C2F20BD0A33E940525796D00182C77/$FILE/Proy.626SistemadeTransportesdeHidrocarburs(15.12.11).pdf", 
+    "tags": [
+      "Energia", 
+      "Gas", 
+      "Transporte"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LA PRIMERA DISPOSICIÓN FINAL DE LA LEY 27796, LEY QUE MODIFICA ARTÍCULOS DE LA LEY 27153, QUE REGULA LA EXPLOTACIÓN DE LOS JUEGOS DE CASINO Y MÁQUINAS TRAGAMONEDAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A821B0B158C5DC9805257968005FD2A3/$FILE/AU00398151211.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "27796", 
+      "Ley", 
+      "27153", 
+      "Juegos", 
+      "Regulacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE FACILITA LA TRANSFERENCIA DE LAS ACCIONES DEL ESTADO EN LAS EMPRESAS AZUCARERAS A FAVOR DE LOS TRABAJADORES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/70BB9965A37794E1052579680060114D/$FILE/AU00608151211.pdf", 
+    "tags": [
+      "Trabajo", 
+      "Transferencia", 
+      "Azucarera"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL TRATADO SOBRE TRASLADO DE PERSONAS CONDENADAS ENTRE LA REPÚBLICA DEL PERÚ Y LA REPÚBLICA DE CHILE", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0EE1D9AE93DD935F0525796800605693/$FILE/AU00270151211.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 9 AL 10 DE DICIEMBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/56C5139BFE405E090525795F0082E832/$FILE/AU00612071211(VIAJE).pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "1/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 107 DEL CÓDIGO PENAL, INCORPORANDO EL FEMINICIDIO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8BE7F64992BCA1BD0525795E00510B58/$FILE/AU00537051211.pdf", 
+    "tags": [
+      "Justicia", 
+      "Feminicidio"
+    ]
+  }, 
+  {
+    "fecha promulga": "1/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE ORGANIZACIÓN Y FUNCIONES DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/ABC226B351E86E4E0525795E00513139/$FILE/AU00218051211(MINJUS).pdf", 
+    "tags": [
+      "Justicia", 
+      "Organizacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "1/12/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 10 Y 11 DE LA LEY 28036, MODIFICADA POR LA LEY 29544, LEY DE PROMOCIÓN Y DESARROLLO DEL DEPORTE", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/192C1EEE56233957052579650072028B/$FILE/216LeydelDesarrdelDeporte.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28036", 
+      "Promocion", 
+      "Deporte"
+    ]
+  }, 
+  {
+    "fecha promulga": "30/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 2 AL 5 DE DICIEMBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7200A58BF455F7A005257959004DDBE2/$FILE/AUR00560301111.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "30/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DISPONE LA CONSTITUCIÓN DE UNA COMISIÓN ENCARGADA DE EVALUAR LA SITUACIÓN DE LOS INGRESOS DE LOS JUECES A QUE SE REFIERE EL ARTÍCULO 1 DE LA LEY 29718", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/825237C52481B76E0525795A000402DF/$FILE/559Ingresosdejueces.pdf", 
+    "tags": [
+      "Justicia", 
+      "Economia", 
+      "Jueces"
+    ]
+  }, 
+  {
+    "fecha promulga": "30/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 1, 2, 3, 4 Y 5 DE LA LEY 28457, LEY QUE REGULA EL PROCESO DE FILIACIÓN JUDICIAL DE PATERNIDAD EXTRAMATRIMONIAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/AC7345C430FC1D000525795E0066C1DD/$FILE/158Modificacprocesodefiliaciónporpaternidad.pdf", 
+    "tags": [
+      "Justicia", 
+      "Filiacion", 
+      "Paternidad"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F7B221FFDF4008A305257959004CEC02/$FILE/AU00114301111.pdf", 
+    "tags": [
+      "Economia", 
+      "Presupuesto", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE ENDEUDAMIENTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2A3AFE9381BA88A805257959004D3ECC/$FILE/AU00115301111.pdf", 
+    "tags": [
+      "Economia", 
+      "Endeudamiento", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE EQUILIBRIO FINANCIERO DEL PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3EF4373F48DC347705257959004D82B8/$FILE/AU00116301111.pdf", 
+    "tags": [
+      "Economia", 
+      "Finanzas", 
+      "Presupuesto", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "10/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY DE JUSTICIA DE PAZ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DB8905237EA9B3BB052579650071D362/$FILE/32LeydeJusticiadePaz.pdf", 
+    "tags": [
+      "Justicia"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL EL 8 DE NOVIEMBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B5A8A6ABF04331AA05257941007CE7FD/$FILE/AU0047207112011.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 10 AL 15 DE NOVIEMBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1C6F14D2758B62E405257941007D27DA/$FILE/AU0047307112011.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/11/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE ESTABLECE LA MORATORIA AL INGRESO Y PRODUCCIÓN DE ORGANISMOS VIVOS MODIFICADOS AL TERRITORIO NACIONAL POR UN PERÍODO DE 10 AÑOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/09CA06C8A1CF61D80525794C00529E85/$FILE/AU00005171111.pdf", 
+    "tags": [
+      "Ambiente", 
+      "Moratoria", 
+      "Produccin"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL ENTRE LOS DÍAS 28 Y 30 DE OCTUBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B253823D9302E656052579300051BDB6/$FILE/393VIAJEDELPRESIDENTEPARAGUAY.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDAD NAVAL Y PERSONAL MILITAR EXTRANJERO AL TERRITORIO DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/81FC718F61EE1165052579310059EC97/$FILE/AU00373221011.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE REGULA LA CONTRATACIÓN DE PERSONAL ALTAMENTE CALIFICADO EN EL SECTOR PÚBLICO Y DICTA OTRAS DISPOSICIONES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E3639B618E97B0D70525793E00608243/$FILE/155LeyqueregulalaContratacióndePersonal....pdf", 
+    "tags": [
+      "Gobierno", 
+      "Contrataciones"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA DEL CONGRESO QUE ADECUA EL REGLAMENTO DEL CONGRESO DE LA REPÚBLICA A LOS ARTÍCULOS 80 Y 81 DE LA CONSTITUCIÓN POLÍTICA DEL PERÚ, REFERIDOS A LA SUSTENTACIÓN DE LA LEY DE PRESUPUESTO Y A LA CUENTA GENERAL DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FCA0C6730C66F3B10525793E0060E6F0/$FILE/RLC2Modarts80y81Consty76y81Reg..pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA DEL CONGRESO QUE MODIFICA EL ARTÍCULO 89 DEL REGLAMENTO DEL CONGRESO DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F00F7922B9E5F69F0525793E00612CC4/$FILE/RLC3ModArt89Reg..pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/10/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL LA FORMALIZACIÓN DE LA PROPIEDAD INMUEBLE URBANA EN LAS ZONAS AFECTADAS POR LOS SISMOS DEL 15 DE AGOSTO DE 2007", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4540687BCCE1A0F80525792900510A9B/$FILE/137Formalizacióninmueblessismos.pdf", 
+    "tags": [
+      "Vivienda", 
+      "Formalizacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/10/2011", 
+    "legislatura": "2011-2", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA CREACIÓN E IMPLEMENTACIÓN DE LA UNIVERSIDAD NACIONAL TECNOLÓGICA DE CHINCHA (UNATEC CHINCHA)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F8534AE82A19D1FC0525792900519A5E/$FILE/124UnatecChincha.pdf", 
+    "tags": [
+      "Educacion", 
+      "Creacion", 
+      "Unversidad", 
+      "Chincha}"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/10/2013", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA RESTITUCIÓN DEL NOMBRE ORIGINAL DE LA PROVINCIA DE NASCA, CONTENIDO EN EL DECRETO DEL 25 DE JUNIO DE 1855", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8DD7465A653A699005257C210082B638/$FILE/AU02187121113.pdf", 
+    "tags": [
+      "Cultura", 
+      "Restituye", 
+      "Nasca"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/11/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY DE DEMARCACIÓN Y ORGANIZACIÓN TERRITORIAL DE LA PROVINCIA ALTO AMAZONAS EN EL DEPARTAMENTO LORETO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DD6FF47C7626E82F05257AC0000195A9/$FILE/AU01093231112.PDF", 
+    "tags": [
+      "Gobierno", 
+      "Territorio", 
+      "Alto", 
+      "Amazonas", 
+      "Y", 
+      "Loreto"
+    ]
+  }, 
+  {
+    "fecha promulga": "28/02/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE A MARZO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9B0740127DE0904D052579B300533E7F/$FILE/AU00817290212.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/2/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE CREA EL PROGRAMA NACIONAL DE BECAS Y CRÉDITO EDUCATIVO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1A409B62C1B2E6140525799F005CEC25/$FILE/Proy.670-ProgramaNacionaldeBecas.pdf", 
+    "tags": [
+      "Educacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/2/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29694, LEY QUE PROTEGE A LOS CONSUMIDORES DE LAS PRÁCTICAS ABUSIVAS EN LA SELECCIÓN O ADQUISICIÓN DE TEXTOS ESCOLARES, PARA LOGRAR SU EFICIENCIA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/C31E7200E0677E510525799F005DC741/$FILE/Proy.369-Protegealosconsumidores.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "20694", 
+      "Libros", 
+      "Adquisicion"
+    ]
+  }, 
+  {
+    "fecha promulga": "8/2/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29616, LEY QUE CREA LA UNIVERSIDAD NACIONAL INTERCULTURAL DE LA SELVA CENTRAL JUAN SANTOS ATAHUALPA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9F9F5C8595401C54052579A000750C07/$FILE/Proy.414-UniversidadSantosAtahualpa.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29616", 
+      "Educacion", 
+      "Universidad", 
+      "Creacion", 
+      "Selva", 
+      "Region"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/01/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA, DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE AL MES DE FEBRERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/68791D4749C3A98F052579990075DD32/$FILE/R.L.750-IngresodeUnidadesyTropa.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "31/01/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "ANEXO RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA, DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE AL MES DE FEBRERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DCE56679FC31E3A005257999007613AC/$FILE/ANEXOTROPASRL750.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 24 AL 30 DE ENERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3C25E77964CCE24D0525798400755314/$FILE/R.L.739ViajePdte.aEspañaySuiza.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 370 DEL CÓDIGO PROCESAL CIVIL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B5634AA8FE03120B0525798400759327/$FILE/P.L.175modificacióndelartículo370delCódigoProcesalCivil.pdf", 
+    "tags": [
+      "Justicia", 
+      "Proceso", 
+      "Civil"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE INCORPORA LA DISPOSICIÓN COMPLEMENTARIA FINAL ÚNICA A LA LEY 28059, LEY MARCO DE PROMOCIÓN DE LA INVERSIÓN DESCENTRALIZADA E INCORPORA PÁRRAFOS AL ARTÍCULO 13 DEL TEXTO ÚNICO ORDENADO DEL DECRETO LEGISLATIVO 839, LEY DE PROMOCIÓN DE LA INVERSIÓN PRIVADA EN OBRAS PÚBLICAS DE INFRAESTRUCTURA Y DE SERVICIOS PÚBLICOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8F235D05F1482031052579840075AF82/$FILE/Proy261Promocióndelainversióndescentralizada.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28059", 
+      "Promocion", 
+      "Inversion"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE EXTINGUE LOS INTERESES Y MORAS DERIVADOS DEL ENDEUDAMIENTO CONTRAÍDO POR LOS AFECTADOS DEL ATENTADO TERRORISTA DE LA CALLE TARATA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/47B5713E84B0756F052579880002A641/$FILE/P.L.3330AfectadosdelacalleTarata.pdf", 
+    "tags": [
+      "Poblacion", 
+      "Endeudamiento", 
+      "Victimas", 
+      "Terrorismo"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE OTORGA AMNISTÍA POR LA POSESIÓN IRREGULAR O ILEGAL DE ARMAS DE USO CIVIL, ARMAS DE USO DE GUERRA, MUNICIONES, GRANADAS DE GUERRA O EXPLOSIVOS, REGULARIZA SU TENENCIA Y MODIFICA EL CÓDIGO PENAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B788B534D8E7B6BD0525798F005929D1/$FILE/144y190amnistíaporlaposesiónilegaldearmas.pdf", 
+    "tags": [
+      "Seguridad", 
+      "Armas"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA LA EXPROPIACIÓN DE INMUEBLES ADYACENTES AL AEROPUERTO INTERNACIONAL JORGE CHÁVEZ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/93F98A2C87CD5DC90525798F005A7D5E/$FILE/712ExpropiaciónInmueblesJorgeChávez.pdf", 
+    "tags": [
+      "Vivienda", 
+      "Expropiacion", 
+      "Aeropero", 
+      "Jorge", 
+      "Chavez"
+    ]
+  }, 
+  {
+    "fecha promulga": "11/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "MEMORIA DESCRIPTIVA DE LA LEY QUE DECLARA DE NECESIDAD PÚBLICA LA EXPROPIACIÓN DE INMUEBLES ADYACENTES AL AEROPUERTO INTERNACIONAL JORGE CHÁVEZ", 
+    "pdf": "", 
+    "tags": [
+      "Vivienda", 
+      "Expropiacion", 
+      "Aeropero", 
+      "Jorge", 
+      "Chavez"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 7 AL 8 DE ENERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/97B877D2632808DB0525797C0017B863/$FILE/R.L.669ViajePdte.aCaracas.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY DE FACILITACIÓN ADUANERA PARA LA REALIZACIÓN DEL EVENTO DEPORTIVO “RALLY DAKAR 2012”", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/5CFB84646282B0DC0525797C0017DD37/$FILE/662LeydeFacilitaciónAduanera(RallyDakar2012).pdf", 
+    "tags": [
+      "Gobierno", 
+      "Aduana", 
+      "Deporte"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 29423, QUE DEROGA EL DECRETO LEGISLATIVO 927, QUE REGULA LA EJECUCIÓN PENAL EN MATERIA DE DELITOS DE TERRORISMO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0D4E5E592879B30D0525797D005222B7/$FILE/667DelitosdeTerrorismo.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "29423", 
+      "Terrorismo"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE AL MES DE ENERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CB08F69F5C45DC6F0525797D007EF752/$FILE/R.L.660IngresodeUnidadesyTropa.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "4/1/2012", 
+    "legislatura": "2011-1", 
+    "nombre": "ANEXO 1 DE LA RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDADES NAVALES Y PERSONAL MILITAR EXTRANJEROS AL TERRITORIO DE LA REPÚBLICA DE ACUERDO CON EL PROGRAMA DE ACTIVIDADES OPERACIONALES DE LAS FUERZAS ARMADAS DEL PERÚ CON FUERZAS ARMADAS EXTRANJERAS CORRESPONDIENTE AL MES DE ENERO DE 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CD90E83B644598770525797D007F267F/$FILE/ANEXO1TROPAS.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 162 DEL CÓDIGO PENAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/AA93204061E4C3900525796D001714FB/$FILE/Proy.27Interferenciadecomunicaciones(15.12.11).pdf", 
+    "tags": [
+      "Justicia", 
+      "Codigo", 
+      "Penal"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 1 DE LA LEY 28588, PARA ADICIONAR EL LITERAL D) E INCORPORAR A LOS MIEMBROS DE LAS RONDAS CAMPESINAS, NATIVAS Y COMITÉS DE AUTODEFENSA COMO BENEFICIARIOS DEL SEGURO INTEGRAL DE SALUD (SIS)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DA16889A10B180ED0525796D00173BCC/$FILE/Proy.72Incorporarmiembrosderondascampes(15.12.11).pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28588", 
+      "Poblacion", 
+      "Sis", 
+      "Rondas", 
+      "Campesinas"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE AUTORIZA A LOS GOBIERNOS REGIONALES Y GOBIERNOS LOCALES A UTILIZAR LOS RECURSOS PROVENIENTES DEL CANON Y SOBRECANON Y LA REGALÍA MINERA PARA LA IMPLEMENTACIÓN DE COCINAS MEJORADAS CERTIFICADAS Y COCINAS A GAS LICUADO DE PETRÓLEO, PROVISIÓN DE AGUA SEGURA Y MANEJO DE EXCRETAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/923A85B20C94622E0525796D00175CD2/$FILE/Proy.185cocinasmejoradascertifif(15.12.11).pdf", 
+    "tags": [
+      "Gobierno", 
+      "Canon", 
+      "Sobrecanon", 
+      "Minero"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE PROMUEVE Y REGULA EL USO DE PERROS GUÍA POR PERSONAS CON DISCAPACIDAD VISUAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/73FAD64A9D8997A30525796D001782A9/$FILE/Proy.194Usodeperrosguíaporpersonas(15.12.11).pdf", 
+    "tags": [
+      "Salud", 
+      "Poblacion", 
+      "Discapacitados", 
+      "Visual"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE PRORROGA LAS EXONERACIONES DEL ARTÍCULO 19 DEL TUO DE LA LEY DEL IMPUESTO A LA RENTA, APROBADO POR DECRETO SUPREMO 179-2004-EF", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8711D0D387C9F4040525796D0017A182/$FILE/Proy.599PrórrogalasexoneracionesdelTUO(15.12.11).pdf", 
+    "tags": [
+      "Economia", 
+      "Impuesto", 
+      "Renta"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE AUTORIZA EL AUMENTO DE LA CUOTA DEL PERÚ EN EL FONDO MONETARIO INTERNACIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D48DBD016ED0E57C0525796D0017BD31/$FILE/Proy.613AumentodelacuotaalFMI(15.12.11).pdf", 
+    "tags": [
+      "Economia", 
+      "Gbierno", 
+      "Cuota", 
+      "Fim"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "DELÉGASE EN EL PODER EJECUTIVO LA FACULTAD DE LEGISLAR EN MATERIAS DE MINERÍA ILEGAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2D8469CFA68A89E80525796D0017D95A/$FILE/Proy.624DelegarenPoderEjecutivofacultad(15.12.11).pdf", 
+    "tags": [
+      "Gobierno", 
+      "Mineria", 
+      "Ilegal"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY DE FORTALECIMIENTO DE LA SUNAT", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7A65DBB6A50A65DA0525796D0018105B/$FILE/Proy625SUNAT(15.12.11).pdf", 
+    "tags": [
+      "Gobierno", 
+      "Sunat", 
+      "Fortalecimiento"
+    ]
+  }, 
+  {
+    "fecha promulga": "15/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA CONSTRUCCIÓN Y OPERACIÓN DEL SISTEMA DE TRANSPORTE DE HIDROCARBUROS (GAS NATURAL, LIQUIDOS DE GAS NATURAL Y DERIVADOS), Y LA CREACION DE UN POLO INDUSTRIAL PETROQUIMICO, CON FINES DE SEGURIDAD ENERGETICA NACIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/05C2F20BD0A33E940525796D00182C77/$FILE/Proy.626SistemadeTransportesdeHidrocarburs(15.12.11).pdf", 
+    "tags": [
+      "Contruccion", 
+      "Transporte", 
+      "Hidrocarburos"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA LA PRIMERA DISPOSICIÓN FINAL DE LA LEY 27796, LEY QUE MODIFICA ARTÍCULOS DE LA LEY 27153, QUE REGULA LA EXPLOTACIÓN DE LOS JUEGOS DE CASINO Y MÁQUINAS TRAGAMONEDAS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A821B0B158C5DC9805257968005FD2A3/$FILE/AU00398151211.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "27796", 
+      "Regula", 
+      "Casinos", 
+      "Tragamonedas"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE FACILITA LA TRANSFERENCIA DE LAS ACCIONES DEL ESTADO EN LAS EMPRESAS AZUCARERAS A FAVOR DE LOS TRABAJADORES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/70BB9965A37794E1052579680060114D/$FILE/AU00608151211.pdf", 
+    "tags": [
+      "Trabajo", 
+      "Trasnferencia", 
+      "De", 
+      "Acciones", 
+      "Azucareras"
+    ]
+  }, 
+  {
+    "fecha promulga": "14/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE APRUEBA EL TRATADO SOBRE TRASLADO DE PERSONAS CONDENADAS ENTRE LA REPÚBLICA DEL PERÚ Y LA REPÚBLICA DE CHILE", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0EE1D9AE93DD935F0525796800605693/$FILE/AU00270151211.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 9 AL 10 DE DICIEMBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/56C5139BFE405E090525795F0082E832/$FILE/AU00612071211(VIAJE).pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "1/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA EL ARTÍCULO 107 DEL CÓDIGO PENAL, INCORPORANDO EL FEMINICIDIO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/8BE7F64992BCA1BD0525795E00510B58/$FILE/AU00537051211.pdf", 
+    "tags": [
+      "Justicia", 
+      "Codigo-penal", 
+      "Feminicidio"
+    ]
+  }, 
+  {
+    "fecha promulga": "1/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY DE ORGANIZACIÓN Y FUNCIONES DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/ABC226B351E86E4E0525795E00513139/$FILE/AU00218051211(MINJUS).pdf", 
+    "tags": [
+      "Justicia", 
+      "Organizacion", 
+      "Funciones"
+    ]
+  }, 
+  {
+    "fecha promulga": "1/12/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 10 Y 11 DE LA LEY 28036, MODIFICADA POR LA LEY 29544, LEY DE PROMOCIÓN Y DESARROLLO DEL DEPORTE", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/192C1EEE56233957052579650072028B/$FILE/216LeydelDesarrdelDeporte.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28036", 
+      "Promocion", 
+      "Deporte"
+    ]
+  }, 
+  {
+    "fecha promulga": "30/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 2 AL 5 DE DICIEMBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/7200A58BF455F7A005257959004DDBE2/$FILE/AUR00560301111.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "30/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE DISPONE LA CONSTITUCIÓN DE UNA COMISIÓN ENCARGADA DE EVALUAR LA SITUACIÓN DE LOS INGRESOS DE LOS JUECES A QUE SE REFIERE EL ARTÍCULO 1 DE LA LEY 29718", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/825237C52481B76E0525795A000402DF/$FILE/559Ingresosdejueces.pdf", 
+    "tags": [
+      "Justicia", 
+      "Evaluar", 
+      "Jueces"
+    ]
+  }, 
+  {
+    "fecha promulga": "30/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 1, 2, 3, 4 Y 5 DE LA LEY 28457, LEY QUE REGULA EL PROCESO DE FILIACIÓN JUDICIAL DE PATERNIDAD EXTRAMATRIMONIAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/AC7345C430FC1D000525795E0066C1DD/$FILE/158Modificacprocesodefiliaciónporpaternidad.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28457", 
+      "Justicia", 
+      "Filiacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY DE PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F7B221FFDF4008A305257959004CEC02/$FILE/AU00114301111.pdf", 
+    "tags": [
+      "Economia", 
+      "Presupuesto", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY DE ENDEUDAMIENTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/2A3AFE9381BA88A805257959004D3ECC/$FILE/AU00115301111.pdf", 
+    "tags": [
+      "Economia", 
+      "Endeudamiento", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "24/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY DE EQUILIBRIO FINANCIERO DEL PRESUPUESTO DEL SECTOR PÚBLICO PARA EL AÑO FISCAL 2012", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3EF4373F48DC347705257959004D82B8/$FILE/AU00116301111.pdf", 
+    "tags": [
+      "Economia", 
+      "Presupuesto", 
+      "2012"
+    ]
+  }, 
+  {
+    "fecha promulga": "10/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY DE JUSTICIA DE PAZ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DB8905237EA9B3BB052579650071D362/$FILE/32LeydeJusticiadePaz.pdf", 
+    "tags": [
+      "Justicia", 
+      "Paz"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL EL 8 DE NOVIEMBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B5A8A6ABF04331AA05257941007CE7FD/$FILE/AU0047207112011.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL DEL 10 AL 15 DE NOVIEMBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/1C6F14D2758B62E405257941007D27DA/$FILE/AU0047307112011.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "3/11/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE ESTABLECE LA MORATORIA AL INGRESO Y PRODUCCIÓN DE ORGANISMOS VIVOS MODIFICADOS AL TERRITORIO NACIONAL POR UN PERÍODO DE 10 AÑOS", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/09CA06C8A1CF61D80525794C00529E85/$FILE/AU00005171111.pdf", 
+    "tags": [
+      "Ambiente", 
+      "Organismos", 
+      "Ingreso", 
+      "Pais"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA AL SEÑOR PRESIDENTE DE LA REPÚBLICA A SALIR DEL TERRITORIO NACIONAL ENTRE LOS DÍAS 28 Y 30 DE OCTUBRE DE 2011", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B253823D9302E656052579300051BDB6/$FILE/393VIAJEDELPRESIDENTEPARAGUAY.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE AUTORIZA EL INGRESO DE UNIDAD NAVAL Y PERSONAL MILITAR EXTRANJERO AL TERRITORIO DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/81FC718F61EE1165052579310059EC97/$FILE/AU00373221011.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE REGULA LA CONTRATACIÓN DE PERSONAL ALTAMENTE CALIFICADO EN EL SECTOR PÚBLICO Y DICTA OTRAS DISPOSICIONES", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E3639B618E97B0D70525793E00608243/$FILE/155LeyqueregulalaContratacióndePersonal....pdf", 
+    "tags": [
+      "Trabajo", 
+      "Contrataciones", 
+      "Estado"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA DEL CONGRESO QUE ADECUA EL REGLAMENTO DEL CONGRESO DE LA REPÚBLICA A LOS ARTÍCULOS 80 Y 81 DE LA CONSTITUCIÓN POLÍTICA DEL PERÚ, REFERIDOS A LA SUSTENTACIÓN DE LA LEY DE PRESUPUESTO Y A LA CUENTA GENERAL DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FCA0C6730C66F3B10525793E0060E6F0/$FILE/RLC2Modarts80y81Consty76y81Reg..pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "20/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA DEL CONGRESO QUE MODIFICA EL ARTÍCULO 89 DEL REGLAMENTO DEL CONGRESO DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F00F7922B9E5F69F0525793E00612CC4/$FILE/RLC3ModArt89Reg..pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL LA FORMALIZACIÓN DE LA PROPIEDAD INMUEBLE URBANA EN LAS ZONAS AFECTADAS POR LOS SISMOS DEL 15 DE AGOSTO DE 2007", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4540687BCCE1A0F80525792900510A9B/$FILE/137Formalizacióninmueblessismos.pdf", 
+    "tags": [
+      "Vivienda", 
+      "Sismo"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA CREACIÓN E IMPLEMENTACIÓN DE LA UNIVERSIDAD NACIONAL TECNOLÓGICA DE CHINCHA (UNATEC CHINCHA)", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F8534AE82A19D1FC0525792900519A5E/$FILE/124UnatecChincha.pdf", 
+    "tags": [
+      "Educacion", 
+      "Creacion", 
+      "Universidad", 
+      "Chincha"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE DEROGA LA LEY 29760, LEY QUE DECLARA DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA EJECUCIÓN DEL PROYECTO DE TRASVASE DEL RÍO MARAÑÓN Y REPRESAMIENTO Y LA DERIVACIÓN DEL RÍO HUALLAGA PARA FINES HIDROENERGÉTICO Y AGRÍCOLA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/129D762C7DEBE9AB0525792A000135E4/$FILE/Proy.2,11,36y161trasvaseríomarañon.pdf", 
+    "tags": [
+      "Deroga", 
+      "Ley", 
+      "29760", 
+      "Rio", 
+      "Trasvase"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE DEROGA EL PRIMER PÁRRAFO DE LA TERCERA DISPOSICIÓN COMPLEMENTARIA FINAL Y TRANSITORIA DE LA LEY 29318, LEY QUE MODIFICA DIVERSOS ARTÍCULOS DE LA LEY 28091, LEY DEL SERVICIO DIPLOMÁTICO DE LA REPÚBLICA", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/0B72C9916A9E77620525792A0005C423/$FILE/Proy145serviciodiplomático.pdf", 
+    "tags": [
+      "Deroga", 
+      "Ley", 
+      "29318", 
+      "Diplomacia"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA LOS ARTÍCULOS 608 Y 675 DEL CÓDIGO PROCESAL CIVIL INCORPORANDO EL CASO DE OTORGAMIENTO DE MEDIDA DE ASIGNACIÓN ANTICIPADA DE OFICIO PARA LOS HIJOS MENORES DE EDAD CON INDUBITABLE VÍNCULO FAMILIAR CON EL DEMANDADO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DC1ECA3CCF1B8FB10525792A0005E9A5/$FILE/Proy160asignaciónanticipada.pdf", 
+    "tags": [
+      "Justicia", 
+      "Filiacion"
+    ]
+  }, 
+  {
+    "fecha promulga": "13/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE CREA EL CONSEJO NACIONAL DE POLÍTICA CRIMINAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/25B32200061B47DD0525794900700324/$FILE/AU00082151111.pdf", 
+    "tags": [
+      "Gobierno", 
+      "Politica", 
+      "Criminal"
+    ]
+  }, 
+  {
+    "fecha promulga": "7/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "RESOLUCIÓN LEGISLATIVA QUE RATIFICA LA DESIGNACIÓN DEL PRESIDENTE DEL DIRECTORIO DEL BANCO CENTRAL DE RESERVA DEL PERÚ", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/B12672C8F055BF91052579260062F976/$FILE/277RLPresidenteBCR.pdf", 
+    "tags": [
+      "Resolucion"
+    ]
+  }, 
+  {
     "fecha promulga": "6/10/2011", 
     "legislatura": "2011-1", 
     "nombre": "LEY DE CREACIÓN, ORGANIZACIÓN Y FUNCIONES DEL MINISTERIO DE DESARROLLO E INCLUSIÓN SOCIAL Y ANEXOS", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/86FA8583AD373455052579260062A1D7/$FILE/125MINDIS.pdf", 
     "tags": [
-      "Inclucion", 
-      "Social"
+      "Gobierno", 
+      "Creacion", 
+      "Ministerio", 
+      "Inclusion"
+    ]
+  }, 
+  {
+    "fecha promulga": "6/10/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE AMPLÍA EL PLAZO DE APLICACIÓN DE LA LEY 27889, LEY QUE CREA EL FONDO Y EL IMPUESTO EXTRAORDINARIO PARA LA PROMOCIÓN Y DESARROLLO TURÍSTICO NACIONAL", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3F245BF0428B87130525792700777045/$FILE/92Desarrolloturisticonacional.pdf", 
+    "tags": [
+      "Amplia", 
+      "Ley", 
+      "27889", 
+      "Promocion", 
+      "Turismo"
     ]
   }, 
   {
@@ -4211,7 +7204,9 @@
     "nombre": "LEY QUE PROMUEVE LA INTERVENCIÓN DE LAS ENTIDADES DE LOS GOBIERNOS NACIONAL, REGIONAL Y LOCAL EN LAS ZONAS AFECTADAS POR LOS SISMOS DEL 15 DE AGOSTO DE 2007", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/48BCDB503D3D9640052579270077B6E5/$FILE/230Intervenciónentidadessismos.pdf", 
     "tags": [
-      "Gobierno"
+      "Gobierno", 
+      "Intervencion", 
+      "Terremoto"
     ]
   }, 
   {
@@ -4220,7 +7215,9 @@
     "nombre": "LEY QUE DECLARA DE NECESIDAD PÚBLICA LA REESTRUCTURACIÓN DEL BANCO DE MATERIALES S. A. C. (BANMAT)", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E3903219C0C0FCEF052579270077F66A/$FILE/231Banmat.pdf", 
     "tags": [
-      "Construcion"
+      "Construcion", 
+      "Banco", 
+      "Materiales"
     ]
   }, 
   {
@@ -4229,7 +7226,9 @@
     "nombre": "LEY QUE AMPLÍA LA VIGENCIA DEL RÉGIMEN EXTRAORDINARIO AL ORGANISMO DE FORMALIZACIÓN DE LA PROPIEDAD INFORMAL (COFOPRI), PREVISTA EN LA LEY 28923, EXONERA EL PAGO DE TASAS U OTROS COBROS Y OTORGA FACULTADES EXCEPCIONALES EN MATERIA DE FORMALIZACIÓN EN LAS ZONAS AFECTADAS POR LOS SISMOS DEL 15 DE AGOSTO DE 2007", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/401C4FCF481CD04305257927007858DD/$FILE/127Cofopri.pdf", 
     "tags": [
-      "Economia"
+      "Economia", 
+      "Vivienda", 
+      "Cofropi"
     ]
   }, 
   {
@@ -4238,7 +7237,30 @@
     "nombre": "LEY QUE CREA EL IMPUESTO ESPECIAL A LA MINERÍA Y ANEXO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/A958F5D5E36908A50525791700557344/$FILE/191Impuestominería.pdf", 
     "tags": [
-      "Economia"
+      "Mineria", 
+      "Impuesto"
+    ]
+  }, 
+  {
+    "fecha promulga": "22/09/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE ESTABLECE EL MARCO LEGAL DEL GRAVAMEN ESPECIAL A LA MINERÍA Y ANEXO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/FBDB15F9F5198AEC0525791700559C9B/$FILE/192gravamenminería.pdf", 
+    "tags": [
+      "Mineria", 
+      "Gravamen"
+    ]
+  }, 
+  {
+    "fecha promulga": "22/09/2011", 
+    "legislatura": "2011-1", 
+    "nombre": "LEY QUE MODIFICA LA LEY 28258, LEY DE REGALÍA MINERA Y ANEXO", 
+    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E2F233AC4E1BFA52052579170055C36E/$FILE/193regalíaminera.pdf", 
+    "tags": [
+      "Modifica", 
+      "Ley", 
+      "28258", 
+      "Mineria"
     ]
   }, 
   {
@@ -4247,8 +7269,8 @@
     "nombre": "LEY DE CREACIÓN, ORGANIZACIÓN Y FUNCIONES DEL MINISTERIO DE DESARROLLO E INCLUSIÓN SOCIAL Y ANEXO", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4426271251C807A80525791B0052C723/$FILE/125MINDIS.pdf", 
     "tags": [
-      "Inclucion", 
-      "Social"
+      "Gobierno", 
+      "Inclucion-social"
     ]
   }, 
   {
@@ -4293,7 +7315,9 @@
     "nombre": "LEY DEL DERECHO A LA CONSULTA PREVIA A LOS PUEBLOS INDÍGENAS U ORIGINARIOS, RECONOCIDO EN EL CONVENIO 169 DE LA ORGANIZACIÓN INTERNACIONAL DEL TRABAJO (OIT)", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/18FD81FE8A8A40DF052578FD0064C87B/$FILE/6ConsultaPrevia.pdf", 
     "tags": [
-      "Trabajo"
+      "Trabajo", 
+      "Oit", 
+      "Indigenas"
     ]
   }, 
   {
