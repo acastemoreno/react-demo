@@ -1,0 +1,37 @@
+h1 {
+  text-align: center; }
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center; }
+
+.btn {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
+  font-size: 20px;
+  font-family: sans-serif;
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  display: inline-flex;
+  transition: opacity 2s cubic-bezier(0.23, 1, 0.32, 1) 0ms; }
+
+.active {
+  background-color: #ff4081; }
+
+.disabled {
+  background-color: #00bcd4; }
+
+svg {
+  display: block; }
+
+#infoBox {
+  text-align: center; }
+
+ol {
+  list-style-type: none;
+  margin-top: 5px;
+  margin-bottom: 10px; }
