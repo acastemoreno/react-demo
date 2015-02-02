@@ -100,7 +100,6 @@ var Cloud = React.createClass({
         return true;
     },
     render: function() {
-        console.log("render", this.state);
         var initialWidth = this.props.width;
         var height = this.props.height;
         if (! this.isMounted()){
