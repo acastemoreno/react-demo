@@ -10,6 +10,7 @@ tresdCloud.create = function(el, props, state) {
           .selectAll("text")
           .data(words)
           .enter().append("text")
+          .attr("class", "cloudTag")
           .style("font-size", function(d) { return d.size + "px"; })
           .style("font-family", "Impact")
           .style("fill", function(d, i) { return fill(i); })

@@ -1,19 +1,33 @@
-body {
-    //background-color: black;
+body{
+    background-color: black;
+    color: white;
 }
-h1{
+
+#appHeader{
+    h1{
+        text-align: center;
+        margin-down:0px;
+    }
+}
+
+svg {
+    display: block;
+}
+
+#infoBox{
     text-align: center;
+    ol{
+        list-style-type: none;
+        margin-top: 5px;
+        margin-bottom: 10px
+    }
 }
 
-.buttonContainer{
-    display: flex;
-    flex-direction: row;
-    justify-content:center;
-    align-content:center;
+#about {
+    width: 100%;
 }
-
-.btn{
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
+.btnCloud{
+    //box-shadow: 0 3px 10px rgba(255, 255, 255, 0.8);
     font-size: 20px;
     font-family: sans-serif;
     color: white;
@@ -25,23 +39,19 @@ h1{
     transition: opacity 2s cubic-bezier(0.23, 1, 0.32, 1) 0ms
 }
 
-.active{
+.buttonContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-content:center;
+}
+
+
+
+.activeCloud{
     background-color: #ff4081;
 }
 
-.disabled{
+.disabledCloud{
     background-color: #00bcd4;
-}
-
-svg {
-    display: block;
-}
-
-#infoBox{
-    text-align: center;
-}
-ol{
-    list-style-type: none;
-    margin-top: 5px;
-    margin-bottom: 10px
 }

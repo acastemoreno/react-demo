@@ -3,7 +3,7 @@
 var AppHeader = React.createClass({
     render: function(){
         return(
-            <header>
+            <header id="appHeader">
                 <h1>Legislaturas</h1>
             </header>
         );
