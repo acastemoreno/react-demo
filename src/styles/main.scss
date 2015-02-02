@@ -55,3 +55,7 @@ svg {
 .disabledCloud{
     background-color: #00bcd4;
 }
+
+.cloudTag{
+    transition: opacity 1s ease-in-out;
+}
