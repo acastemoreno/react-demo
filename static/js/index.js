@@ -20187,11 +20187,6 @@ var Cloud = React.createClass({displayName: "Cloud",
             return rect.height;
         }
     },
-    setDimensions: function(){
-        this.setState({"width": this.calculateWidth(),
-                       "height": this.calculateHeight()
-        });
-    },
     // Cuenta los tags y devuelve la estructura con la cual
     // construir la nube de tags
     processData: function(data){
@@ -20213,10 +20208,13 @@ var Cloud = React.createClass({displayName: "Cloud",
         return wordCountArr;
     },
     calculateWords: function(data){
+        var width = this.calculateWidth();
+        var height = this.calculateHeight();
         var tags = this.processData(data).sort(function(x,y){return y.value - x.value;})
                        .slice(0,200); // Limita la cantidad de palabras a mostrar
         var cloud = d3.layout.cloud()
-                             .size([this.state.width, this.state.height])
+                             .timeInterval(10)
+                             .size([width, height])
                              .words(tags)
                              .padding(3)
                              .rotate(function(){return 0;})
@@ -20224,13 +20222,19 @@ var Cloud = React.createClass({displayName: "Cloud",
                              .fontSize(function(d) {
                                  return 10*Math.sqrt(d.value);
                              })
+                             .on("end", this.calculateCallback)
                              .start();
-        window.palabras = cloud.words();
-        return cloud.words();
     },
-    createReactWords: function(data){
-        var words = this.calculateWords(data, 200);
-        // Ordena las palabras
+    calculateCallback: function(words){
+        console.log("calculateCallback");
+        this.setState({
+            width: this.calculateWidth(),
+            height: this.calculateWidth(),
+            words: words
+        });
+        this.forceUpdate();
+    },
+    createReactWords: function(words){
         words = words.sort(function(x,y){return y.value - x.value;});
         var self = this;
         var listaElems = words.map(function(props, i){
@@ -20243,41 +20247,51 @@ var Cloud = React.createClass({displayName: "Cloud",
         return listaElems;
     },
     onResizeCallback: function(event){
-        this.setDimensions();
-
+        this.calculateWords(this.props.data);
     },
 
     componentDidMount: function() {
         window.addEventListener('resize', this.onResizeCallback);
-        this.setDimensions();
+        this.calculateWords(this.props.data);
     },
     componentWillUnmount: function(){
         window.removeEventListener('resize', this.onResizeCallback);
     },
+    componentWillReceiveProps: function(nextProps){
+        this.calculateWords(nextProps.data);
+    },
     shouldComponentUpdate: function(nextProps, nextState){
-        if (this.state.width != nextState.width)
+        /*
+        if (this.state.width != nextState.width ||
+            this.state.height != nextState.height)
             return true;
         if (this.props.data.length == nextProps.data.length)
             return false;
-        return true;
+         */
+        //No dejamos que se actualize por cambio de propiedades
+        //Antes debemos calcular las nuevas posiciones
+
+        //return true;
+        //this.calculateWords(nextProps.data);
+        return false;
     },
     render: function() {
         var initialWidth = this.props.width;
-        var height = this.state.height;
+        var height = this.calculateHeight();
         if (! this.isMounted()){
             return (
                 React.createElement("svg", {ref: "svgNode", 
                      width: initialWidth=="auto" ? "100%":initialWidth})
             );
         }
-        var elems = this.createReactWords(this.props.data);
-        var width =  this.state.width;
+        var elems = this.createReactWords(this.state.words);
+        var width =  this.calculateWidth();
         return(
             React.createElement("svg", {ref: "svgNode", 
                  width: initialWidth=="auto" ? "100%":initialWidth}, 
                 
                 React.createElement("g", {ref: "cloudgroup", 
-                   transform: "scale(1)translate("+[width/2,height/2]+")"}, 
+                   transform: "translate("+[width/2,height/2]+")"}, 
                     elems
                 )
             )
