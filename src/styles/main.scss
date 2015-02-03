@@ -1,17 +1,25 @@
-body{
+body, html{
     background-color: black;
+    height: 100%;
+    margin: 0 auto 0 auto;
     color: white;
+}
+#appContainer{
+    height: 100%;
 }
 
 #appHeader{
     h1{
+        text-size: 30pt;
+        height: 6%;
         text-align: center;
-        margin-down:0px;
+        margin: 0 auto 10px auto;
     }
 }
 
-svg {
+svg{
     display: block;
+    height: 88%;
 }
 
 #infoBox{
@@ -22,25 +30,25 @@ svg {
         margin-bottom: 10px
     }
 }
-
-#about {
-    width: 100%;
-}
 .btnCloud{
-    //box-shadow: 0 3px 10px rgba(255, 255, 255, 0.8);
-    font-size: 20px;
+    height:6%;
+    font-size: 1em;
     font-family: sans-serif;
     color: white;
     border-radius: 20px;
-    padding: 20px;
-    margin: 20px;
+    padding: 10px;
+    margin: 0.5% 2% 0% 2%;
     text-align: center;
     display: inline-flex;
-    transition: opacity 2s cubic-bezier(0.23, 1, 0.32, 1) 0ms
+    flex: 1 1 1%;
+    
+    justify-content: center;
 }
 
 .buttonContainer{
+    //height:2%;
     display: flex;
+    margin: 0 10% 0 10%;
     flex-direction: row;
     justify-content:center;
     align-content:center;
@@ -49,11 +57,11 @@ svg {
 
 
 .activeCloud{
-    background-color: #ff4081;
+    background-color: #00bcd4;
 }
 
 .disabledCloud{
-    background-color: #00bcd4;
+    background-color: #ff4081;
 }
 
 .cloudTag{

@@ -48,15 +48,17 @@ var ButtonContainer = React.createClass({
         var filter = this.state.filter;
         var leyesFiltradas = this.filterData();
         return(
-            <div>
-                <AppHeader/>
-                <div className="buttonContainer">
-                    <Button text ={"2011"}  value={filter["2011"]} btnCallback={callback} />
-                    <Button text ={"2012"}  value={filter["2012"]} btnCallback={callback} />
-                    <Button text ={"2013"}  value={filter["2013"]} btnCallback={callback} />
-                    <Button text ={"2014"}  value={filter["2014"]} btnCallback={callback} />
+            <div id="appContainer">
+                <div id="topContainer">
+                    <AppHeader/>
+                    <div className="buttonContainer">
+                        <Button text ={"2011"}  value={filter["2011"]} btnCallback={callback} />
+                        <Button text ={"2012"}  value={filter["2012"]} btnCallback={callback} />
+                        <Button text ={"2013"}  value={filter["2013"]} btnCallback={callback} />
+                        <Button text ={"2014"}  value={filter["2014"]} btnCallback={callback} />
+                    </div>
                 </div>
-                <InfoBox data={this.state.selected}  leyes={leyesFiltradas}/>
+                {/* <InfoBox data={this.state.selected}  leyes={leyesFiltradas}/> */}
                 <Cloud data={leyesFiltradas} tagCallback={this.cloudCallback}/>
             </div>
         );

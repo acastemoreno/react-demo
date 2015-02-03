@@ -8,14 +8,15 @@ var Cloud = React.createClass({
     },
     getDefaultProps: function(){
         return{
-            height: 800,
             width: "auto",
+            height: "auto",
             animate: true
         };
     },
     getInitialState: function(){
         return{
-            width: 0
+            width: 0,
+            height: 0
         };
     },
     calculateWidth: function(){
@@ -30,6 +31,24 @@ var Cloud = React.createClass({
             var rect = node.getBoundingClientRect();
             return rect.width;
         }
+    },
+    calculateHeight: function(){
+        if (this.props.height !="auto"){
+            return this.props.height;
+        };
+        if (!this.isMounted()){
+            return 0;
+        }
+        else{
+            var node = this.refs.svgNode.getDOMNode();
+            var rect = node.getBoundingClientRect();
+            return rect.height;
+        }
+    },
+    setDimensions: function(){
+        this.setState({"width": this.calculateWidth(),
+                       "height": this.calculateHeight()
+        });
     },
     // Cuenta los tags y devuelve la estructura con la cual
     // construir la nube de tags
@@ -55,7 +74,7 @@ var Cloud = React.createClass({
         var tags = this.processData(data).sort(function(x,y){return y.value - x.value;})
                        .slice(0,200); // Limita la cantidad de palabras a mostrar
         var cloud = d3.layout.cloud()
-                             .size([this.state.width, this.props.height])
+                             .size([this.state.width, this.state.height])
                              .words(tags)
                              .padding(3)
                              .rotate(function(){return 0;})
@@ -82,12 +101,13 @@ var Cloud = React.createClass({
         return listaElems;
     },
     onResizeCallback: function(event){
-        this.setState({"width": this.calculateWidth()});
+        this.setDimensions();
+
     },
 
     componentDidMount: function() {
         window.addEventListener('resize', this.onResizeCallback);
-        this.setState({"width": this.calculateWidth()});
+        this.setDimensions();
     },
     componentWillUnmount: function(){
         window.removeEventListener('resize', this.onResizeCallback);
@@ -101,27 +121,24 @@ var Cloud = React.createClass({
     },
     render: function() {
         var initialWidth = this.props.width;
-        var height = this.props.height;
+        var height = this.state.height;
         if (! this.isMounted()){
             return (
                 <svg ref="svgNode"
-                     width={initialWidth=="auto" ? "100%":initialWidth}
-                     height={height}></svg>
+                     width={initialWidth=="auto" ? "100%":initialWidth}></svg>
             );
         }
         var elems = this.createReactWords(this.props.data);
         var width =  this.state.width;
         return(
-            <div className="Cloud">
-                <svg ref="svgNode"
-                     width={initialWidth=="auto" ? "100%":initialWidth}
-                     height={height}>
-                    <g ref="cloudgroup"
-                       transform={"translate("+[width/2,height/2]+")"}>
-                        {elems}
-                    </g>
-                </svg>
-            </div>
+            <svg ref="svgNode"
+                 width={initialWidth=="auto" ? "100%":initialWidth}>
+                
+                <g ref="cloudgroup"
+                   transform={"scale(1)translate("+[width/2,height/2]+")"}>
+                    {elems}
+                </g>
+            </svg>
         );
     }
 });
