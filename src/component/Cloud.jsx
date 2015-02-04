@@ -21,23 +21,23 @@ var Process_data = function(data){
 
 
 var Cloud = React.createClass({
-  propTypes: {
-      data: React.PropTypes.array,
-      domain: React.PropTypes.object
-  },
+    propTypes: {
+        data: React.PropTypes.array,
+        domain: React.PropTypes.object
+    },
     getDefaultProps: function(){
         return{
             height: 600,
         };
     },
 
-  componentDidMount: function() {
-    var el = this.refs.svgNode.getDOMNode();
-    tresdCloud.create(el, {
-      width: document.body.clientWidth,
-      height: this.props.height
-    }, this.getCloudState());
-  },
+    componentDidMount: function() {
+        var el = this.refs.svgNode.getDOMNode();
+        tresdCloud.create(el, {
+            width: document.body.clientWidth,
+            height: this.props.height
+        }, this.getCloudState());
+    },
     shouldComponentUpdate: function(nextProps){
         if (this.props.data.length == nextProps.data.length){
             return false;
@@ -46,34 +46,34 @@ var Cloud = React.createClass({
     },
 
     componentDidUpdate: function() {
-    var el = this.refs.svgNode.getDOMNode();
-    tresdCloud.update(el,{
-      width: document.body.clientWidth,
-      height: this.props.height
-    }, this.getCloudState());
-  },
+        var el = this.refs.svgNode.getDOMNode();
+        tresdCloud.update(el,{
+            width: document.body.clientWidth,
+            height: this.props.height
+        }, this.getCloudState());
+    },
 
-  getCloudState: function() {
-    return {
-      data: Process_data(this.props.data),
-      callback: this.props.tagCallback
-    };
-  },
+    getCloudState: function() {
+        return {
+            data: Process_data(this.props.data),
+            callback: this.props.tagCallback
+        };
+    },
 
-  componentWillUnmount: function() {
-    var el = this.getDOMNode();
-    tresdCloud.destroy(el);
-  },
+    componentWillUnmount: function() {
+        var el = this.getDOMNode();
+        tresdCloud.destroy(el);
+    },
 
-  render: function() {
-    return (
-      <div className="Cloud">
-          <svg ref="svgNode"
-               width={"100%"}
-               height={this.props.height}></svg>
-      </div>
-    );
-  }
+    render: function() {
+        return (
+            <div className="Cloud">
+                <svg ref="svgNode"
+                     width={"100%"}
+                     height={this.props.height}></svg>
+            </div>
+        );
+    }
 });
 
 module.exports = Cloud;
