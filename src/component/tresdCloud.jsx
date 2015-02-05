@@ -2,49 +2,81 @@ var fill = d3.scale.category20();
 
 var tresdCloud = {};
 
-tresdCloud.create = function(el, props, state) {
-    var draw = function (words) {
-        var text = d3.select(el)
-          .append("g")
-          .attr("transform", "translate("+props.width/2+","+props.height/2+")" )
-          .selectAll("text")
-          .data(words)
-          .enter().append("text")
-          .attr("class", "cloudTag")
-          .style("font-size", function(d) { return d.size + "px"; })
-          .style("font-family", "Impact")
-          .style("fill", function(d, i) { return fill(i); })
-          .attr("text-anchor", "middle")
-          .attr("transform", function(d) {
-              return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-          })
-          .text(function(d) { return d.text; })
-          .on("click", function(d){
-              if (state.callback)
-                  state.callback(d);
-          });
+var getCloudCallback = function(svgNode, state){
+    var callback = function draw (words) {
+        console.log("Draw");
+        var text = d3.select(svgNode)
+                     .selectAll("g")
+                     .data(words, function(d){return d.text.toLowerCase();});
+        //Actualizados (despues de .data() )
+        text .attr("class", "cloudTagWrapper")
+             .style("transform", function(d) {
+                 return ("translate(" +
+                         [(d.x + state.width/2)+"px",
+                          (d.y+state.height/2)+"px"]
+                         + ")rotate(" + d.rotate + ")");
+             })
+             .select("text")
+             .style("font-size", function(d) { return d.size + "px"; })
+             .style("fill", function(d, i) { return fill(i); });
+        // Nuevos (con .enter() )
+        var enter = text.enter()
+                        .append("g")
+                        .attr("class", "cloudTagWrapper")
+                        .style("transform", function(d) {
+                            return ("translate(" +
+                                    [(d.x + state.width/2)+"px",
+                                     (d.y+state.height/2)+"px"]
+                                    + ")rotate(" + d.rotate + ")");
+                        })
+                        .append("text")
+                        .attr("class", "cloudTag")
+                        .attr("text-anchor", "middle")
+                        .style("font-size", function(d) { return d.size + "px"; })
+                        .style("font-family", "Impact")
+                        .style("fill", function(d, i) { return fill(i); })
+                        .style("opacity", 0.01)
+                        .text(function(d){return d.text;})
+                        .transition()
+                        .delay(500)
+                        .duration(500)
+                        .style("opacity", 1);
+
+
+        // Eliminados (con .exit() )
+        var exit = text.exit().remove();
     };
-    
+
+    return callback;
+}
+
+tresdCloud.create = function(svgNode, state) {
     var cloud = d3.layout.cloud()
-                          .size([props.width, props.height])
-                          .words(state.data)
-                          .padding(3)
-                          .rotate(function() { return 0; })
-                          .font("Impact")
-                          .fontSize(function(d) { return 10*Math.sqrt(d.size); })
-                          .on("end", draw)
-                          .start();
+                         .timeInterval(10)
+                         .size([state.width, state.height])
+                         .words(state.data)
+                         .padding(3)
+                         .rotate(function() { return 0; })
+                         .font("Impact")
+                         .fontSize(function(d) { return 10*Math.sqrt(d.value); })
+                         .text(function(d){ return d.text;})
+                         .on("end", getCloudCallback(svgNode, state))
+                         .start();
     window.palabras = state.data;
+    return cloud;
 };
 
-tresdCloud.update = function(el, props, state) {
-    this.destroy(el);
-    this.create(el, props, state);
-
+tresdCloud.update = function(svgNode, cloud, state) {
+    // Los existentes
+    cloud.stop()
+         .size([state.width, state.height])
+         .words(state.data)
+         .on("end", getCloudCallback(svgNode, state))
+         .start();
 };
 
-tresdCloud.destroy = function(el){
-    d3.select(el).selectAll("g").remove();
+tresdCloud.destroy = function(svgNode){
+    svgNode.selectAll("g").remove();
 };
 
 module.exports = tresdCloud;
