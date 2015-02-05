@@ -30,13 +30,9 @@ var Cloud = React.createClass({
             height: 600,
         };
     },
-
     componentDidMount: function() {
-        var el = this.refs.svgNode.getDOMNode();
-        tresdCloud.create(el, {
-            width: document.body.clientWidth,
-            height: this.props.height
-        }, this.getCloudState());
+        var node = this.refs.svgNode.getDOMNode();
+        this.cloud = tresdCloud.create(node, this.getCloudState());
     },
     shouldComponentUpdate: function(nextProps){
         if (this.props.data.length == nextProps.data.length){
@@ -44,19 +40,17 @@ var Cloud = React.createClass({
         }
         return true;
     },
-
     componentDidUpdate: function() {
-        var el = this.refs.svgNode.getDOMNode();
-        tresdCloud.update(el,{
-            width: document.body.clientWidth,
-            height: this.props.height
-        }, this.getCloudState());
+        var node = this.refs.svgNode.getDOMNode();
+        tresdCloud.update(node, this.cloud, this.getCloudState());
     },
-
     getCloudState: function() {
+        var node = this.refs.svgNode.getDOMNode();
+        var rect = node.getBoundingClientRect();
         return {
-            data: Process_data(this.props.data),
-            callback: this.props.tagCallback
+            width: rect.width,
+            height: rect.height,
+            data: Process_data(this.props.data)
         };
     },
 
@@ -69,8 +63,7 @@ var Cloud = React.createClass({
         return (
             <div className="Cloud">
                 <svg ref="svgNode"
-                     width={"100%"}
-                     height={this.props.height}></svg>
+                     width={"100%"}></svg>
             </div>
         );
     }
