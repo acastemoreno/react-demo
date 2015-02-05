@@ -14,7 +14,7 @@ var Process_data = function(data){
 
     var wordCountArr = [];
     for(var prop in wordCount) {
-        wordCountArr.push({text: prop, size: wordCount[prop]});
+        wordCountArr.push({text: prop, value: wordCount[prop]});
     }
     return wordCountArr;
 };
