@@ -15,12 +15,13 @@
         timeInterval = Infinity,
         event = d3.dispatch("word", "end"),
         timer = null,
+        wordLimit = Infinity,
         cloud = {};
+
 
     cloud.start = function() {
       var board = zeroArray((size[0] >> 5) * size[1]),
           bounds = null,
-          n = words.length,
           i = -1,
           tags = [],
           data = words.map(function(d, i) {
@@ -32,8 +33,8 @@
             d.size = ~~fontSize.call(this, d, i);
             d.padding = padding.call(this, d, i);
             return d;
-          }).sort(function(a, b) { return b.size - a.size; });
-
+          }).sort(function(a, b) { return b.size - a.size; }).slice(0, wordLimit);
+      var n = data.length;
       if (timer) clearInterval(timer);
       timer = setInterval(step, 0);
       step();
@@ -189,6 +190,11 @@
       return cloud;
     };
 
+    cloud.wordLimit = function(x) {
+      if (!arguments.length) return wordLimit;
+      wordLimit = x == null ? Infinity : x;
+      return cloud;
+    };
     return d3.rebind(cloud, event, "on");
   }
 
