@@ -25,10 +25,11 @@ var Cloud = React.createClass({
         data: React.PropTypes.array,
         domain: React.PropTypes.object
     },
-    getDefaultProps: function(){
-        return{
-            height: 600,
-        };
+    onClickHandler: function(event){
+        var node = event.target;
+        var data =d3.select(node).data()[0];
+        this.props.tagCallback(data);
+        event.stopPropagation();
     },
     componentDidMount: function() {
         var node = this.refs.svgNode.getDOMNode();
@@ -53,7 +54,6 @@ var Cloud = React.createClass({
             data: Process_data(this.props.data)
         };
     },
-
     componentWillUnmount: function() {
         var el = this.getDOMNode();
         tresdCloud.destroy(el);
@@ -61,10 +61,9 @@ var Cloud = React.createClass({
 
     render: function() {
         return (
-            <div className="Cloud">
-                <svg ref="svgNode"
-                     width={"100%"}></svg>
-            </div>
+            <svg className="cloudSvg"
+                 ref="svgNode"
+                 onClick={this.onClickHandler}></svg>
         );
     }
 });
