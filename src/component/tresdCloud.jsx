@@ -30,21 +30,26 @@ var getCloudCallback = function(svgNode, state){
                                     + ")rotate(" + d.rotate + ")");
                         })
                         .append("text")
+                        .text(function(d){return d.text;})
                         .attr("class", "cloudTag")
                         .attr("text-anchor", "middle")
                         .style("font-size", function(d) { return d.size + "px"; })
                         .style("font-family", "Impact")
                         .style("fill", function(d, i) { return fill(i); })
-                        .style("opacity", 0.01)
-                        .text(function(d){return d.text;})
+                        .style("opacity", 0)
                         .transition()
-                        .delay(500)
-                        .duration(500)
+                        .delay(100)
+                        .duration(700)
                         .style("opacity", 1);
 
 
         // Eliminados (con .exit() )
-        var exit = text.exit().remove();
+        var exit = text.exit()
+                       .transition()
+                       .duration(500)
+                       .style("opacity", 0)
+                       .delay(500)
+                       .remove();
     };
 
     return callback;
@@ -55,6 +60,7 @@ tresdCloud.create = function(svgNode, state) {
                          .timeInterval(10)
                          .size([state.width, state.height])
                          .words(state.data)
+                         .wordLimit(100)
                          .padding(3)
                          .rotate(function() { return 0; })
                          .font("Impact")
@@ -67,7 +73,6 @@ tresdCloud.create = function(svgNode, state) {
 };
 
 tresdCloud.update = function(svgNode, cloud, state) {
-    // Los existentes
     cloud.stop()
          .size([state.width, state.height])
          .words(state.data)
