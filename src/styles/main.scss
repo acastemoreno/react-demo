@@ -1,18 +1,22 @@
-body{
+body, html{
     background-color: black;
     color: white;
+    height:100%;
+    margin: 0;
 }
 
 #appHeader{
     h1{
         text-align: center;
-        margin-down:0px;
+        margin:0px;
     }
 }
 
-svg {
+.cloudSvg {
     display: block;
-    height: 800px;
+    height: 85%;
+    width: 90%;
+    margin: auto;
 }
 
 #infoBox{
@@ -24,17 +28,14 @@ svg {
     }
 }
 
-#about {
-    width: 100%;
-}
 .btnCloud{
     //box-shadow: 0 3px 10px rgba(255, 255, 255, 0.8);
-    font-size: 20px;
+    font-size: 10pt;
     font-family: sans-serif;
     color: white;
     border-radius: 20px;
-    padding: 20px;
-    margin: 20px;
+    padding: .5em 2em .5em 2em;
+    margin: 1% 2% 1% 2% ;
     text-align: center;
     display: inline-flex;
 }
@@ -55,11 +56,11 @@ svg {
 }
 
 .cloudTag{
-    transition: all 1s ease-in;
-    transition-delay: 0.5s;
+    transition: all 1s ease-in-out;
+    transition-delay: 0.2s;
 }
 
 .cloudTagWrapper{
     transition: transform 1s ease-in;
-    transition-delay: 0.5s;
+    transition-delay: 0.2s;
 }
