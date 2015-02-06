@@ -9,7 +9,7 @@ var InfoBox = React.createClass({
                 <div id="infoBox">
                     <ol>
                         <li><label>Etiqueta:</label> <span>{data.text}</span></li>
-                        <li><label>Cantidad:</label> <span>{data.size}</span></li>
+                        <li><label>Cantidad:</label> <span>{data.value}</span></li>
                     </ol>
                 </div>
             );
