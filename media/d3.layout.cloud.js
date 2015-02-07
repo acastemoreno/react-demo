@@ -46,8 +46,8 @@
             d;
         while (+new Date - start < timeInterval && ++i < n && timer) {
           d = data[i];
-          d.x = (size[0] * (Math.random() + .5)) >> 1;
-          d.y = (size[1] * (Math.random() + .5)) >> 1;
+          d.x = (size[0]) >> 1;
+          d.y = (size[1]) >> 1;
           cloudSprite(d, data, i);
           if (d.hasText && place(board, d, bounds)) {
             tags.push(d);
