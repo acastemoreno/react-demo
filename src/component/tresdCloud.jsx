@@ -2,18 +2,34 @@ var fill = d3.scale.category20();
 
 var tresdCloud = {};
 
-var getCloudCallback = function(svgNode, state){
-    var callback = function draw (words) {
-        console.log("Draw");
+var getCloudCallback = function(svgNode, dims){
+    var w = dims[0]; //width
+    var h = dims[1]; //height
+    var callback = function draw (words, bounds) {
+        // Bounds contiene las coordenadas del rectangulo envolvente
+        // de la nube de palabras (tomando en cuenta que el centro es
+        // [w/2,h/2] )
+        if (words.length){
+            d3.select(svgNode)
+              .transition()
+              .delay(1200)
+              .duration(1000)
+              .attr("viewBox", [bounds[0].x - w/2,
+                                bounds[0].y - h/2,
+                                Math.abs(bounds[1].x - bounds[0].x),
+                                Math.abs(bounds[1].y - bounds[0].y)].join(" "));
+        }
+        window.words = words;
         var text = d3.select(svgNode)
                      .selectAll("g")
                      .data(words, function(d){return d.text.toLowerCase();});
+
         //Actualizados (despues de .data() )
         text .attr("class", "cloudTagWrapper")
              .style("transform", function(d) {
                  return ("translate(" +
-                         [(d.x + state.width/2)+"px",
-                          (d.y+state.height/2)+"px"]
+                         [d.x + "px",
+                          d.y + "px"]
                          + ")rotate(" + d.rotate + ")");
              })
              .select("text")
@@ -25,8 +41,8 @@ var getCloudCallback = function(svgNode, state){
                         .attr("class", "cloudTagWrapper")
                         .style("transform", function(d) {
                             return ("translate(" +
-                                    [(d.x + state.width/2)+"px",
-                                     (d.y+state.height/2)+"px"]
+                                    [d.x + "px",
+                                     d.y + "px"]
                                     + ")rotate(" + d.rotate + ")");
                         })
                         .append("text")
@@ -61,14 +77,13 @@ tresdCloud.create = function(svgNode, state) {
                          .size([state.width, state.height])
                          .words(state.data)
                          .wordLimit(100)
-                         .padding(3)
+                         .padding(1)
                          .rotate(function() { return 0; })
                          .font("Impact")
-                         .fontSize(function(d) { return 10*Math.sqrt(d.value); })
+                         .fontSize(function(d) { return 5*Math.sqrt(d.value); })
                          .text(function(d){ return d.text;})
-                         .on("end", getCloudCallback(svgNode, state))
+                         .on("end", getCloudCallback(svgNode, [state.width, state.height]))
                          .start();
-    window.palabras = state.data;
     return cloud;
 };
 
@@ -76,7 +91,7 @@ tresdCloud.update = function(svgNode, cloud, state) {
     cloud.stop()
          .size([state.width, state.height])
          .words(state.data)
-         .on("end", getCloudCallback(svgNode, state))
+         .on("end", getCloudCallback(svgNode, [state.width,state.height]))
          .start();
 };
 
