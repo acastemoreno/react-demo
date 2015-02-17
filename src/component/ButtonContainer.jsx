@@ -5,29 +5,39 @@ var Cloud = require("./Cloud.jsx");
 var InfoBox = require("./InfoBox.jsx");
 var AppHeader = require("./AppHeader.jsx");
 
+var Fluxxor = require("fluxxor");
+var FluxMixin = Fluxxor.FluxMixin(React);
+var StoreWatchMixin = Fluxxor.StoreWatchMixin;
+
+var _ = require("lodash-node");
+
 var ButtonContainer = React.createClass({
+    mixins: [FluxMixin, StoreWatchMixin("LeyStore", "YearStore")],
     getInitialState: function(){
         return{
-            filter: {
-                "2011": false,
-                "2012": false,
-                "2013": false,
-                "2014": false
-            },
             selected: undefined
         };
     },
-    btnCallback: function(name){
-        var query = {};
-        query[name] = {$apply: function(x){ return !x;}};
-        var newFilter = React.addons.update(this.state.filter, query);
-        this.setState({filter: newFilter, selected:false});
+    getStateFromFlux: function(){
+        var YearStore = this.getFlux().store("YearStore");
+        var LeyStore = this.getFlux().store("LeyStore");
+
+        return{
+            loading: LeyStore.loading,
+            error: LeyStore.loading,
+            data: LeyStore.leyes,
+            filter: _.mapValues(YearStore.years, function(value){ return !value;})
+        };
+    },
+    btnCallback: function(year){
+        this.getFlux().actions.toggleYear(year);
+        this.setState({selected:false});
     },
     filterData: function(){
-        var data = this.props.data;
+        var data = this.state.data;
         var filtro = this.state.filter;
 
-        return data.filter(function(ley){
+        return _.filter(data, function(ley){
             for (var property in filtro) {
                 if (filtro.hasOwnProperty(property)) {
                     var value = filtro[property];
@@ -43,18 +53,23 @@ var ButtonContainer = React.createClass({
         console.log(dot);
         this.setState({"selected": dot});
     },
+    componentDidMount: function(){
+        this.getFlux().actions.loadLeyes();
+    },
+
     render: function(){
         var callback = this.btnCallback;
         var filter = this.state.filter;
         var leyesFiltradas = this.filterData();
+        var listaBotones = _.transform(filter, function(result, value, key){
+            result[key] = (
+                <Button key={key} text={key} value={value} btnCallback={callback}/>);
+        });
         return(
             <div style={{height:"100%"}}>
                 <AppHeader/>
                 <div className="buttonContainer">
-                    <Button text ={"2011"}  value={filter["2011"]} btnCallback={callback} />
-                    <Button text ={"2012"}  value={filter["2012"]} btnCallback={callback} />
-                    <Button text ={"2013"}  value={filter["2013"]} btnCallback={callback} />
-                    <Button text ={"2014"}  value={filter["2014"]} btnCallback={callback} />
+                    {listaBotones}
                 </div>
                 <Cloud data={leyesFiltradas}
                        show={this.state.showCloud}
