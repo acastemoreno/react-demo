@@ -10,7 +10,7 @@ var Button = React.createClass({
         return (
             <div className={value?"btnCloud activeCloud":"btnCloud disabledCloud"}
                  onClick = {this.onClickCallback}>
-                {this.props.text}
+                <p>{this.props.text}</p>
             </div>
         );
     }

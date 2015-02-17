@@ -80,7 +80,7 @@ tresdCloud.create = function(svgNode, state) {
                          .padding(1)
                          .rotate(function() { return 0; })
                          .font("Impact")
-                         .fontSize(function(d) { return 5*Math.sqrt(d.value); })
+                         .fontSize(function(d) { return 4*Math.sqrt(d.value); })
                          .text(function(d){ return d.text;})
                          .on("end", getCloudCallback(svgNode, [state.width, state.height]))
                          .start();
