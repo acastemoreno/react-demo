@@ -65,9 +65,9 @@ var LeyStore = Fluxxor.createStore({
 var YearStore = Fluxxor.createStore({
     initialize: function(){
         this.years = {
-            2011: false,
-            2012: false,
-            2013: false,
+            2011: true,
+            2012: true,
+            2013: true,
             2014: true
         };
 
