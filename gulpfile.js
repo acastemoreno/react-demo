@@ -94,7 +94,10 @@ gulp.task('css', ['clean-css'], function(){
 });
 gulp.task('sass', ['clean-css'], function(){
     return gulp.src(sassPath)
-        .pipe(plugins.sass())
+        .pipe(plugins.compass({
+            css: stylesDir,
+            sass: stylesDir
+        }))
         .pipe(gulp.dest(stylesBuildDir));
 });
 
