@@ -5,22 +5,29 @@ body, html{
     margin: 0;
 }
 
+#AppContainer{
+    display: flex;
+    flex-direction: column;
+}
+
 #appHeader{
     h1{
         text-align: center;
+        font-size: 1.5em;
         margin:0px;
     }
 }
 
 .cloudSvg {
     display: block;
-    height: 85%;
     width: 100%;
-    margin: auto;
+    margin: 0;
+    flex: 1 0 50%;
 }
 
 #infoBox{
     text-align: center;
+    font-size: 0.8em;
     ol{
         list-style-type: none;
         margin-top: 5px;
@@ -33,7 +40,7 @@ body, html{
     //color: white;
     //border-radius: 20px;
     //padding: .5em 2em .5em 2em;
-    margin: 0.2em 1.5em 0 1.5em;
+    margin: 0.2em 1em 0 1em;
     display: inline-flex;
     flex: 0 1 15%;
 

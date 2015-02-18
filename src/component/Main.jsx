@@ -58,14 +58,14 @@ var Main = React.createClass({
         var filter = this.state.filter;
         var leyesFiltradas = this.filterData();
         return(
-            <div style={{height:"100%"}}>
+            <main id="AppContainer" style={{height:"100%"}}>
                 <AppHeader/>
                 <ButtonContainer />
                 <Cloud data={leyesFiltradas}
                        show={this.state.showCloud}
                        tagCallback={this.cloudCallback}/>
                 <InfoBox data={this.state.selected} />
-            </div>
+            </main>
         );
     }
 });
