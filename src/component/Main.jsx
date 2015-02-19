@@ -29,6 +29,23 @@ var Main = React.createClass({
             filter: _.mapValues(YearStore.years, function(value){ return !value;})
         };
     },
+    cuentaTags: function(data){
+        var tagsDict = _.transform(data, function(result, ley){
+            _.forEach(ley.tags, function(tag){
+                var tagDict = result[tag];
+                if(tagDict){
+                    tagDict.value ++;
+                    tagDict.leyes.push(ley);
+                }
+                else{
+                    result[tag] = {
+                        value: 1,
+                        text: tag,
+                        leyes: [ley]
+                    };
+                }});}, {});
+        return tagsDict;
+    },
     filterData: function(){
         var data = this.state.data;
         var filtro = this.state.filter;
@@ -57,13 +74,17 @@ var Main = React.createClass({
         var callback = this.btnCallback;
         var filter = this.state.filter;
         var leyesFiltradas = this.filterData();
+        var listaTags = this.cuentaTags(leyesFiltradas);
         return(
             <main id="AppContainer" style={{height:"100%"}}>
                 <AppHeader/>
-                <ButtonContainer />
-                <Cloud data={leyesFiltradas}
-                       show={this.state.showCloud}
-                       tagCallback={this.cloudCallback}/>
+                <ButtonContainer/>
+                <div className="appContent">
+                    <Cloud data={_.values(listaTags)}
+                           tagCallback={this.cloudCallback}/>
+                    <TagBrowser data={listaTags}
+                                hidden={!this.state.showBrowser} />
+                </div>
                 <InfoBox data={this.state.selected} />
             </main>
         );

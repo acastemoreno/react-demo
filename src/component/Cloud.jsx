@@ -1,25 +1,4 @@
 var tresdCloud = require("./tresdCloud.jsx");
-
-var Process_data = function(data){
-    var cadena_tags = data.map(function(ley){
-        return ley["tags"].join(" ");
-    }).join(" ").split(" ");
-
-    var wordCount = {};
-    for(var i = 0, len=cadena_tags.length; i < len; i++) {
-        if(!wordCount[cadena_tags[i]])
-            wordCount[cadena_tags[i]] = 0;
-        wordCount[cadena_tags[i]]++; // {'hi': 12, 'foo': 2 ...}
-    }
-
-    var wordCountArr = [];
-    for(var prop in wordCount) {
-        wordCountArr.push({text: prop, value: wordCount[prop]});
-    }
-    return wordCountArr;
-};
-
-
 var Cloud = React.createClass({
     propTypes: {
         data: React.PropTypes.array,
