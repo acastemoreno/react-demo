@@ -4,6 +4,7 @@ var ButtonContainer = require('./ButtonContainer.jsx');
 var Cloud = require("./Cloud.jsx");
 var InfoBox = require("./InfoBox.jsx");
 var AppHeader = require("./AppHeader.jsx");
+var TagBrowser = require("./TagBrowser.jsx");
 
 var Fluxxor = require("fluxxor");
 var FluxMixin = Fluxxor.FluxMixin(React);
@@ -12,17 +13,20 @@ var StoreWatchMixin = Fluxxor.StoreWatchMixin;
 var _ = require("lodash-node");
 
 var Main = React.createClass({
-    mixins: [FluxMixin, StoreWatchMixin("LeyStore", "YearStore")],
+    mixins: [FluxMixin, StoreWatchMixin("LeyStore", "YearStore", "TagStore")],
     getInitialState: function(){
         return{
-            selected: undefined
+            selected: undefined,
+            showBrowser: true
         };
     },
     getStateFromFlux: function(){
         var YearStore = this.getFlux().store("YearStore");
         var LeyStore = this.getFlux().store("LeyStore");
+        var TagStore = this.getFlux().store("TagStore");
 
         return{
+            selected: TagStore.tag,
             loading: LeyStore.loading,
             error: LeyStore.loading,
             data: LeyStore.leyes,
