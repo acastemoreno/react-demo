@@ -1,4 +1,4 @@
-@import "compass/css3/flexbox";
+@import "compass/css3";
 
 body, html{
     background-color: black;
@@ -10,13 +10,34 @@ body, html{
 #AppContainer{
     @include display-flex;
     @include flex-direction(column);
+    @include flex-wrap(wrap);
+    width: 100%;
 }
 
-#appHeader{
+.appHeader{
+    @include display-flex;
+    @include flex-wrap(wrap);
+    position: relative;
+    background-color: black;
+}
+.appNameWraper{
+    @include flex(1 1 auto);
     h1{
-        text-align: center;
+        text-align: left;
         font-size: 1.5em;
-        margin:0px;
+        margin: 5pt 0 5pt 1em;
+    }
+}
+.navButtonsWraper{
+    @include flex(1 0.5 auto);
+    @include justify-content(right);
+
+    @include display-flex;
+    @include flex-wrap(wrap);
+    span{
+        @include flex(1 1 auto);
+        margin: auto 0 auto 0;
+        text-align: center;
     }
 }
 
@@ -50,16 +71,91 @@ body, html{
     color: #00bcd4;
 }
 
+.appContent{
+    position: relative;
+    @include flex(1 0 50%);
+    @include display-flex;
+    @include flex-direction(column);
+}
+
 .cloudSvg {
-    display: block;
+    @include flex(1 1 50%);
+}
+
+.overlay{
+    position: absolute;
+    width:100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.shadow{
+    @include opacity(0.5);
+    background-color: black;
     width: 100%;
-    margin: 0;
-    flex: 1 0 50%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+
+#tagBrowser{
+    @include border-radius(4px, 4px);
+    color: black;
+    width: 90%;
+    height: 90%;
+    top: 5%;
+    left: 5%;
+    background-color: white;
+    @include display-flex;
+    @include flex-direction(row);
+    @include flex-wrap(wrap);
+    // Side Bar
+    aside{
+        margin: 1em;
+        @include flex(1 0 50pt);
+        @include display-flex;
+        @include flex-direction(column);
+    }
+    input{
+        width: 100%;
+    }
+    ul{
+        padding:0;
+        list-style-type: none;
+        overflow-y: auto;
+        overflow-x: hidden;
+        @include flex(1 1 80%);
+    }
+    li{
+        cursor: pointer;
+    }
+    // Tag description
+    section{
+        overflow-y: auto;
+        padding: 1em;
+        margin: 10pt 0 10pt 0;
+        @include flex(1 1 40%);
+    }
+}
+
+@media only screen and (max-width : 320px){
+    #tagBrowser{
+        width: 100%;
+        left: 0;
+    }
+    #AppHeader{
+        h1{
+            font-size: 1em;
+        }
+    }
 }
 
 #infoBox{
     text-align: center;
     font-size: 0.8em;
+    @include flex(0 0 auto);
     ol{
         list-style-type: none;
         margin-top: 5px;
@@ -68,6 +164,7 @@ body, html{
 }
 
 .cloudTag{
+    cursor: default;
     transition: all 1s ease-in-out;
     transition-delay: 0.2s;
 }
