@@ -10,7 +10,10 @@ var constants = {
     LOAD_LEYES_FAIL: "LOAD_LEYES_FAIL",
 
     // Year Buttons constant
-    TOGGLE_YEAR: "TOOGLE_YEAR"
+    TOGGLE_YEAR: "TOOGLE_YEAR",
+
+    // Other actions
+    TAG_SELECTED: "TAG_SELECTED"
 };
 
 var actions = {
@@ -81,10 +84,28 @@ var YearStore = Fluxxor.createStore({
     }
 });
 
+var TagStore = Fluxxor.createStore({
+    initialize: function(){
+        this.selectedTag = undefined;
+        this.bindActions(
+            constants.TAG_SELECTED, this.onTagSelected,
+                 constants.TOGGLE_YEAR, this.onToggleYear
+        );
+    },
+    onTagSelected: function(tag){
+        this.selectedTag = tag;
+        this.emit("change");
+    },
+    onToggleYear: function(){
+        this.selectedTag = undefined;
+    }
+});
+
 
 var stores = {
     LeyStore: new LeyStore(),
-    YearStore: new YearStore()
+    YearStore: new YearStore(),
+    TagStore: new TagStore()
 };
 
 
