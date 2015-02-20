@@ -16,7 +16,6 @@ var Main = React.createClass({
     mixins: [FluxMixin, StoreWatchMixin("LeyStore", "YearStore", "TagStore")],
     getInitialState: function(){
         return{
-            selected: undefined,
             showBrowser: true
         };
     },
