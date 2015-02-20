@@ -13,18 +13,18 @@ var StoreWatchMixin = Fluxxor.StoreWatchMixin;
 var _ = require("lodash-node");
 
 var Main = React.createClass({
-    mixins: [FluxMixin, StoreWatchMixin("LeyStore", "YearStore", "TagStore")],
-    getInitialState: function(){
-        return{
-            showBrowser: true
-        };
-    },
+    mixins: [FluxMixin, StoreWatchMixin("LeyStore",
+                                        "YearStore",
+                                        "TagStore",
+                                        "LocationStore")],
     getStateFromFlux: function(){
         var YearStore = this.getFlux().store("YearStore");
         var LeyStore = this.getFlux().store("LeyStore");
         var TagStore = this.getFlux().store("TagStore");
+        var LocationStore = this.getFlux().store("LocationStore");
 
         return{
+            showBrowser: (LocationStore.currentLocation == "Main/Browser"),
             selected: TagStore.tag,
             loading: LeyStore.loading,
             error: LeyStore.loading,

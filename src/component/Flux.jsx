@@ -13,7 +13,8 @@ var constants = {
     TOGGLE_YEAR: "TOOGLE_YEAR",
 
     // Other actions
-    TAG_SELECTED: "TAG_SELECTED"
+    TAG_SELECTED: "TAG_SELECTED",
+    LOCATION_CHANGED: "LOCATION_CHANGED"
 };
 
 var actions = {
@@ -31,6 +32,9 @@ var actions = {
     },
     toggleYear: function(year){
         this.dispatch(constants.TOGGLE_YEAR, {year: year});
+    },
+    locationChanged: function(newLocation){
+        this.dispatch(constants.LOCATION_CHANGED, {location: newLocation});
     }
 };
 
@@ -101,11 +105,25 @@ var TagStore = Fluxxor.createStore({
     }
 });
 
+var LocationStore = Fluxxor.createStore({
+    initialize: function(){
+        this.currentLocation = "Main";
+        this.Routes =["Main", "About"];
+        this.bindActions(
+            constants.LOCATION_CHANGED, this.onLocationChanged
+        );
+    },
+    onLocationChanged: function(payload){
+        this.currentLocation = payload.location;
+        this.emit("change");
+    }
+});
 
 var stores = {
     LeyStore: new LeyStore(),
     YearStore: new YearStore(),
-    TagStore: new TagStore()
+    TagStore: new TagStore(),
+    LocationStore: new LocationStore()
 };
 
 
