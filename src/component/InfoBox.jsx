@@ -5,7 +5,7 @@ var InfoBox = React.createClass({
         return{
             data: {
                 text: "",
-                value: "",
+                value: ""
             }
         };
     },
@@ -13,10 +13,8 @@ var InfoBox = React.createClass({
         var data = this.props.data;
         return(
             <div id="infoBox">
-                <ol>
-                    <li><label>Etiqueta:</label> <span>{data.text}</span></li>
-                    <li><label>Cantidad:</label> <span>{data.value}</span></li>
-                </ol>
+                <div><label>Etiqueta:</label> <span>{data.text}</span></div>
+                <div><label>Cantidad:</label> <span>{data.value}</span></div>
             </div>
         );
 
