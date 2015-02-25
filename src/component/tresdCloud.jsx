@@ -1,4 +1,5 @@
 var fill = d3.scale.category20();
+var _ = require("lodash-node");
 
 var tresdCloud = {};
 
@@ -46,7 +47,13 @@ var getCloudCallback = function(svgNode, dims){
                                     + ")rotate(" + d.rotate + ")");
                         })
                         .append("text")
-                        .text(function(d){return d.text;})
+                        .text(function(d){
+                            var listaPalabras = d.text.split("-");
+                            return _.map(listaPalabras, function(palabra){
+                                var lower = palabra.toLowerCase();
+                                return lower.charAt(0).toUpperCase() + lower.slice(1);
+                            }).join("");
+                        })
                         .attr("class", "cloudTag")
                         .attr("text-anchor", "middle")
                         .style("font-size", function(d) { return d.size + "px"; })
