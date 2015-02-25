@@ -50,24 +50,17 @@ var App = React.createClass({
         aboutNode.style.top="100%";
     },
     render: function(){
-        var wrapperStyle = {
-            position: "fixed",
-            width: "100%",
-            height: "100%",
-            transition: "top 1s ease-in-out"
-        };
-
         var location = this.state.location.split("/")[0];
 
         return (
             <div style={{position: "fixed", width:"100%", height:"100%"}} ref="wrapper">
-                <div ref="main" style={wrapperStyle}>
+                <div ref="main" className="appFrameWrapper">
                     <Main />
                 </div>
-                <div ref="about" style={wrapperStyle}>
+                <div ref="about" className="appFrameWrapper">
                     <div style={{height: "100%",backgroundColor:"gray" }}/>
                 </div>
-                <div style={{width:"100%", position:"fixed", top: "0"}}>
+                <div id="fixedNav">
                     <AppHeader hidden={false}/>
                 </div>
             </div>
