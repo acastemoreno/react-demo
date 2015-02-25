@@ -8,13 +8,15 @@ var TagDescription = React.createClass({
     render: function(){
         var tag = this.props.data;
         if (! tag)
-            return <article></article>;
+            return (<article></article>);
+
         var listaLeyes = _.map(tag.leyes, function(ley){
-            return <LeyInfo data={ley} />;
+            return (<LeyInfo {...ley} />);
         });
         return(
             <article className="tagDescription">
                 <h2>{tag.text}</h2>
+                <label></label>
                 <label>{"Leyes relacionadas:"}</label>
                 <div>
                     {listaLeyes}
