@@ -7,7 +7,7 @@ var AppHeader = React.createClass({
     mixins: [FluxMixin],
     getDefaultProps: function(){
         return{
-            hidden: true,
+            hidden: true
         };
     },
     onClickHandler: function(event){
@@ -22,11 +22,14 @@ var AppHeader = React.createClass({
                     <h1>Nube de Leyes</h1>
                 </div>
                 <div className="navButtonsWraper">
-                    <span onClick={this.onClickHandler}
+                    <span className="navButton"
+                          onClick={this.onClickHandler}
                           name="Main">Nube</span>
-                    <span onClick={this.onClickHandler}
+                    <span className="navButton"
+                          onClick={this.onClickHandler}
                           name="Main/Browser">Browser</span>
-                    <span onClick={this.onClickHandler}
+                    <span className="navButton"
+                          onClick={this.onClickHandler}
                           name="About">Acerca de</span>
                 </div>
             </nav>
