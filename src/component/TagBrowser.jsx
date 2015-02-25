@@ -102,9 +102,7 @@ var TagBrowser = React.createClass({
                                onChange={this.onInputChangeHandler}/>
                         <ul>{listaTags}</ul>
                     </aside>
-                    <section>
-                        <TagDescription data={selected}/>                        
-                    </section>
+                    <TagDescription data={selected}/>
                 </div>
             </div>
         );
