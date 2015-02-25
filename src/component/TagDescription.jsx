@@ -24,8 +24,8 @@ var TagDescription = React.createClass({
             <section ref="wrapper">
                 <article className="tagDescription">
                     <h2>{tag.text}</h2>
-                    <label></label>
                     <label>{"Leyes relacionadas:"}</label>
+                    <span>{tag.leyes.length}</span>
                     <div>
                         {listaLeyes}
                     </div>
