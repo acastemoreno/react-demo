@@ -11,11 +11,12 @@ var Cloud = React.createClass({
         event.stopPropagation();
     },
     onOrientationChangeHandler: function(event){
+        console.log("OrientationChange");
         this.forceUpdate();
     },
     componentDidMount: function() {
         var node = this.refs.svgNode.getDOMNode();
-         document.addEventListener("orientationchange", this.onOrientationChangeHandler);
+         window.addEventListener("orientationchange", this.onOrientationChangeHandler);
         this.cloud = tresdCloud.create(node, this.getCloudState());
     },
     shouldComponentUpdate: function(nextProps){
@@ -39,7 +40,7 @@ var Cloud = React.createClass({
     },
     componentWillUnmount: function() {
         var el = this.getDOMNode();
-        document.removeListener("orientationchange", this.onOrientationChangeHandler);
+        window.removeListener("orientationchange", this.onOrientationChangeHandler);
         tresdCloud.destroy(el);
     },
 
