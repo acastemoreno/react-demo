@@ -35,13 +35,14 @@ body, html{
     @include flex-wrap(wrap);
     position: relative;
     background-color: black;
+    padding: 5pt 0.5em 0 0.5em;
 }
 .appNameWraper{
     @include flex(1 1 auto);
     h1{
         text-align: left;
         font-size: 1.5em;
-        margin: 5pt 0 5pt 1em;
+        margin: 0;
     }
 }
 .navButtonsWraper{
@@ -139,7 +140,7 @@ body, html{
     @include flex-wrap(wrap);
     // Side Bar
     aside{
-        margin: 1em;
+        margin: 1em 0 1em 1em;
         @include flex(1 0 50pt);
         @include display(flex);
         @include flex-direction(column);
@@ -166,15 +167,22 @@ body, html{
     }
 }
 
-@media only screen and (max-width : 320px){
+@media (max-width : 480px){
     #tagBrowser{
         width: 100%;
         left: 0;
     }
-    #AppHeader{
+    .appHeader{
         h1{
-            font-size: 1em;
+            font-size: 1.2em;
         }
+    }
+}
+
+@media (max-device-height : 320px){
+    #tagBrowser{
+        height: 100%;
+        top: 0;
     }
 }
 
