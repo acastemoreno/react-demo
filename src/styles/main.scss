@@ -110,6 +110,12 @@ body, html{
     left: 0;
 }
 
+.opacityTransition{
+    @include transition-property(opacity);
+    @include transition-duration(1s);
+    @include transition-timing-function(ease-in-out);
+}
+
 .shadow{
     @include opacity(0.5);
     background-color: black;

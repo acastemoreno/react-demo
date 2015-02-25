@@ -48,11 +48,38 @@ var TagBrowser = React.createClass({
         this.setState({selected: _.find(nextProps.data, function(tag){
             return tag.text == tagName;
         })});
+        if (!nextProps.hidden){
+            this.setState({hidden: false});
+        }
+    },
+    componentDidMount: function(){
+        var node = this.refs.wrapper.getDOMNode();
+        node.style.display = this.props.hidden?"none":"";
+    },
+    componentDidUpdate: function(){
+        console.log("Update Browser");
+        var node = this.refs.wrapper.getDOMNode();
+        clearTimeout(this.timer);
+        var style = document.defaultView.getComputedStyle(node, "");
+        console.log("transition", style.transition);
+        var duration = parseFloat(style.transitionDuration)*1000 || 50;
+        if (this.props.hidden){
+            node.style.opacity = 1;
+            this.timer = setTimeout(function(){
+                node.style.opacity = 0;
+                this.timer = setTimeout(function(){
+                    node.style.display = "none";}.bind(this), duration);
+            }.bind(this), 50);
+        }
+        else{
+            node.style.display = "";
+            this.timer = setTimeout(function(){node.style.opacity = 1;}, 50);
+        }
     },
     render: function(){
         var hidden = this.props.hidden;
         var style = {
-            display: hidden?"none":""
+            opacity: 0
         };
         var search = this.state.search;
         var tagsFiltrados = this.filtraTags(search);
@@ -63,7 +90,9 @@ var TagBrowser = React.createClass({
                                  onClickCallback={this.onListItemClickCallback} />);
         }, this), function(n){return -n.props.data.value;});
         return (
-            <div className="overlay" style={style}>
+            <div className="overlay opacityTransition"
+                 ref="wrapper"
+                 style={style}>
                 <div className="shadow" />
                 <div id="tagBrowser" className="overlay">
                     <aside>
