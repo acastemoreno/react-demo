@@ -34,7 +34,7 @@ var Cloud = React.createClass({
         return {
             width: rect.width,
             height: rect.height,
-            data: Process_data(this.props.data)
+            data: this.props.data
         };
     },
     componentWillUnmount: function() {
