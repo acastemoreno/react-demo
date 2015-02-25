@@ -1,0 +1,3 @@
+[submodule "bourbon"]
+	path = bourbon
+	url = git://github.com/thoughtbot/bourbon.git

@@ -36,7 +36,7 @@ var stylesDir ='./src/styles/';
 var stylesBuildDir = './build/css/';
 
 var cssPath = stylesDir + '**/*.css';
-var sassPath = stylesDir + '**/*.scss';
+var sassPath = stylesDir + '**/!(_)*.scss';
 
 gulp.task('set-production', function(done){
     config.production = true;
@@ -94,10 +94,7 @@ gulp.task('css', ['clean-css'], function(){
 });
 gulp.task('sass', ['clean-css'], function(){
     return gulp.src(sassPath)
-        .pipe(plugins.compass({
-            css: stylesBuildDir,
-            sass: stylesDir
-        }))
+        .pipe(plugins.sass({errLogToConsole: true}))
         .pipe(gulp.dest(stylesBuildDir));
 });
 

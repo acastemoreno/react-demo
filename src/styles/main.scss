@@ -1,4 +1,5 @@
-@import "compass/css3";
+@import "bourbon/bourbon";
+@import "mixins";
 
 body, html{
     background-color: black;
@@ -8,14 +9,14 @@ body, html{
 }
 
 #AppContainer{
-    @include display-flex;
+    @include display(flex);
     @include flex-direction(column);
     @include flex-wrap(wrap);
     width: 100%;
 }
 
 .appHeader{
-    @include display-flex;
+    @include display(flex);
     @include flex-wrap(wrap);
     position: relative;
     background-color: black;
@@ -32,7 +33,7 @@ body, html{
     @include flex(1 0.5 auto);
     @include justify-content(right);
 
-    @include display-flex;
+    @include display(flex);
     @include flex-wrap(wrap);
     span{
         @include flex(1 1 auto);
@@ -43,7 +44,7 @@ body, html{
 
 .buttonContainer{
     @include justify-content(center);
-    @include display-flex;
+    @include display(flex);
     @include flex-direction(row);
     @include flex-wrap(wrap);
 }
@@ -74,7 +75,7 @@ body, html{
 .appContent{
     position: relative;
     @include flex(1 0 50%);
-    @include display-flex;
+    @include display(flex);
     @include flex-direction(column);
 }
 
@@ -101,21 +102,21 @@ body, html{
 
 
 #tagBrowser{
-    @include border-radius(4px, 4px);
+    border-radius: 4px;
     color: black;
     width: 90%;
     height: 90%;
     top: 5%;
     left: 5%;
     background-color: white;
-    @include display-flex;
+    @include display(flex);
     @include flex-direction(row);
     @include flex-wrap(wrap);
     // Side Bar
     aside{
         margin: 1em;
         @include flex(1 0 50pt);
-        @include display-flex;
+        @include display(flex);
         @include flex-direction(column);
     }
     input{
