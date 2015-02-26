@@ -57,9 +57,7 @@ var App = React.createClass({
                 <div ref="main" className="appFrameWrapper">
                     <Main />
                 </div>
-                <div ref="about" className="appFrameWrapper">
-                    <div style={{height: "100%",backgroundColor:"gray" }}/>
-                </div>
+                <div ref="about" className="appFrameWrapper"> </div>
                 <div id="fixedNav">
                     <AppHeader hidden={false}/>
                 </div>
