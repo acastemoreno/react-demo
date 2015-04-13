@@ -1,5 +1,26 @@
 // Word cloud layout by Jason Davies, http://www.jasondavies.com/word-cloud/
 // Algorithm due to Jonathan Feinberg, http://static.mrfeinberg.com/bv_ch03.pdf
+// Copyright (c) 2013, Jason Davies.
+// All rights reserved.
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are met:
+// * Redistributions of source code must retain the above copyright notice, this
+// list of conditions and the following disclaimer.
+// * Redistributions in binary form must reproduce the above copyright notice,
+// this list of conditions and the following disclaimer in the documentation
+// and/or other materials provided with the distribution.
+// * The name Jason Davies may not be used to endorse or promote products
+// derived from this software without specific prior written permission.
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. IN NO EVENT SHALL JASON DAVIES BE LIABLE FOR ANY DIRECT, INDIRECT,
+// INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+// PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+// LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+// OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+// ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 (function() {
   function cloud() {
     var size = [256, 256],
@@ -15,12 +36,13 @@
         timeInterval = Infinity,
         event = d3.dispatch("word", "end"),
         timer = null,
+        wordLimit = Infinity,
         cloud = {};
+
 
     cloud.start = function() {
       var board = zeroArray((size[0] >> 5) * size[1]),
           bounds = null,
-          n = words.length,
           i = -1,
           tags = [],
           data = words.map(function(d, i) {
@@ -32,8 +54,8 @@
             d.size = ~~fontSize.call(this, d, i);
             d.padding = padding.call(this, d, i);
             return d;
-          }).sort(function(a, b) { return b.size - a.size; });
-
+          }).sort(function(a, b) { return b.size - a.size; }).slice(0, wordLimit);
+      var n = data.length;
       if (timer) clearInterval(timer);
       timer = setInterval(step, 0);
       step();
@@ -45,8 +67,8 @@
             d;
         while (+new Date - start < timeInterval && ++i < n && timer) {
           d = data[i];
-          d.x = (size[0] * (Math.random() + .5)) >> 1;
-          d.y = (size[1] * (Math.random() + .5)) >> 1;
+          d.x = (size[0]) >> 1;
+          d.y = (size[1]) >> 1;
           cloudSprite(d, data, i);
           if (d.hasText && place(board, d, bounds)) {
             tags.push(d);
@@ -189,6 +211,11 @@
       return cloud;
     };
 
+    cloud.wordLimit = function(x) {
+      if (!arguments.length) return wordLimit;
+      wordLimit = x == null ? Infinity : x;
+      return cloud;
+    };
     return d3.rebind(cloud, event, "on");
   }
 
