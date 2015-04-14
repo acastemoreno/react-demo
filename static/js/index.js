@@ -35003,7 +35003,6 @@ var App = React.createClass({displayName: "App",
     },
     componentDidUpdate: function(){
         var location = this.state.location.split("/")[0];
-        console.log(location);
         var mainNode = this.refs.main.getDOMNode();
         var aboutNode = this.refs.about.getDOMNode();
         mainNode.style.position = "fixed";
@@ -35109,7 +35108,7 @@ var Button = React.createClass({displayName: "Button",
     render: function(){
         var value = this.props.value;
         return (
-            React.createElement("div", {className: value?"btnCloud activeCloud":"btnCloud disabledCloud", 
+            React.createElement("div", {className: value?"btnCloud disabledCloud":"btnCloud activeCloud", 
                  onClick: this.onClickCallback}, 
                 React.createElement("p", null, this.props.text)
             )
@@ -35391,19 +35390,35 @@ module.exports = InfoBox;
 },{}],252:[function(require,module,exports){
 "use strict";
 
+var ReactDate = React.createClass({displayName: "ReactDate",
+    render: function(){
+        var fecha = this.props.date.split("/");
+        var date = new Date(fecha.reverse());
+        var listaFecha = [date.getUTCDate(),
+                          date.getUTCMonth(),
+                          date.getUTCFullYear()];
+        return(
+            React.createElement("time", {dateTime: date.toString()}, this.props.date)
+        );
+    }
+});
+
 var LeyInfo = React.createClass({displayName: "LeyInfo",
     render: function(){
         var ley = this.props;
         var lower = ley.nombre.toLowerCase();
         var nombre = lower.charAt(0).toUpperCase() + lower.slice(1);
+        var fecha = this.props["fecha promulga"];
         return(
-            React.createElement("div", null, 
-                React.createElement("p", null, React.createElement("label", null, "Nombre:"), 
-                    React.createElement("span", null, nombre)), 
-                React.createElement("p", null, React.createElement("label", null, "Legislatura:"), 
-                    React.createElement("span", null, ley.legislatura)), 
-                React.createElement("p", null, React.createElement("label", null, "autografa:"), 
-                    React.createElement("span", null, React.createElement("a", {href: ley.pdf, target: "_blank"}, "link")))
+            React.createElement("dl", {className: "leyInfo"}, 
+                React.createElement("dt", null, "Nombre"), 
+                React.createElement("dd", null, nombre), 
+                React.createElement("dt", null, "Fecha"), 
+                React.createElement("dd", null, React.createElement(ReactDate, {date: fecha})), 
+                React.createElement("dt", null, "Legislatura"), 
+                React.createElement("dd", null, ley.legislatura), 
+                React.createElement("dt", null, "autografa"), 
+                React.createElement("dd", null, React.createElement("a", {href: ley.pdf, target: "_blank"}, "link"))
             )
         );
     }
@@ -35572,11 +35587,9 @@ var TagBrowser = React.createClass({displayName: "TagBrowser",
         node.style.display = this.props.hidden?"none":"";
     },
     componentDidUpdate: function(){
-        console.log("Update Browser");
         var node = this.refs.wrapper.getDOMNode();
         clearTimeout(this.timer);
         var style = document.defaultView.getComputedStyle(node, "");
-        console.log("transition", style.transition);
         var duration = parseFloat(style.transitionDuration)*1000 || 50;
         if (this.props.hidden){
             node.style.opacity = 1;
@@ -35603,7 +35616,7 @@ var TagBrowser = React.createClass({displayName: "TagBrowser",
         var listaTags = _.sortBy(_.map(tagsFiltrados, function(tag){
             return (React.createElement(TagListItem, {data: tag, key: tag.text, 
                                  onClickCallback: this.onListItemClickCallback}));
-        }, this), function(n){return -n.props.data.value;});
+        }, this), function(n){return -n.props.data.text;});
         return (
             React.createElement("div", {className: "overlay opacityTransition", 
                  ref: "wrapper", 
@@ -35647,14 +35660,16 @@ var TagDescription = React.createClass({displayName: "TagDescription",
                     React.createElement("article", null)
                 ));
 
-        var listaLeyes = _.map(tag.leyes, function(ley){
-            return (React.createElement(LeyInfo, React.__spread({},  ley)));
+        var listaLeyes = _.map(_.sortBy(tag.leyes, function(n){
+            var date = new Date(n["fecha promulga"].split("/").reverse());
+            return -date.valueOf();
+        }), function(ley){ return (React.createElement(LeyInfo, React.__spread({},  ley)));
         });
         return(
             React.createElement("section", {ref: "wrapper"}, 
                 React.createElement("article", {className: "tagDescription"}, 
                     React.createElement("h2", null, tag.text), 
-                    React.createElement("label", null, "Leyes relacionadas:"), 
+                    React.createElement("label", null, "Leyes relacionadas: "), 
                     React.createElement("span", null, tag.leyes.length), 
                     React.createElement("div", null, 
                         listaLeyes

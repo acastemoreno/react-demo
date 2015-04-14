@@ -159,6 +159,18 @@ body, html {
 .btnCloud {
   cursor: pointer;
   margin: 0.2em 1em 0 1em;
+  -webkit-transition-property: color;
+  -moz-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-timing-function: ease-in-out;
+  -moz-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+  -webkit-transition-delay: 0.1s;
+  -moz-transition-delay: 0.1s;
+  transition-delay: 0.1s;
   -webkit-box-flex: 0;
   -moz-box-flex: 0;
   box-flex: 0;
@@ -175,10 +187,10 @@ body, html {
     padding: 0; }
 
 .activeCloud {
-  color: #ff4081; }
+  color: #00bcd4; }
 
 .disabledCloud {
-  color: #00bcd4; }
+  color: #808080; }
 
 .appContent {
   position: relative;
@@ -271,13 +283,13 @@ body, html {
   flex-wrap: wrap; }
   #tagBrowser aside {
     margin: 1em 0 1em 1em;
-    -webkit-box-flex: 1;
-    -moz-box-flex: 1;
-    box-flex: 1;
-    -webkit-flex: 1 0 50pt;
-    -moz-flex: 1 0 50pt;
-    -ms-flex: 1 0 50pt;
-    flex: 1 0 50pt;
+    -webkit-box-flex: 0;
+    -moz-box-flex: 0;
+    box-flex: 0;
+    -webkit-flex: 0 1 content;
+    -moz-flex: 0 1 content;
+    -ms-flex: 0 1 content;
+    flex: 0 1 content;
     display: -webkit-box;
     display: -moz-box;
     display: box;
@@ -320,12 +332,31 @@ body, html {
     -ms-flex: 1 1 40%;
     flex: 1 1 40%; }
 
+.leyInfo {
+  padding: 0.5em; }
+  .leyInfo dt {
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: right;
+    font-weight: bold; }
+  .leyInfo dt:after {
+    content: ":"; }
+  .leyInfo dd {
+    margin: 0 0 0 7em;
+    padding: 0 0 0.5em 0; }
+
 @media (max-width: 480px) {
   #tagBrowser {
     width: 100%;
     left: 0; }
   .appHeader h1 {
-    font-size: 1.2em; } }
+    font-size: 1.2em; }
+  .leyInfo dt {
+    float: none;
+    text-align: left; }
+  .leyInfo dd {
+    margin: 0 0 0 1.5em; } }
 
 @media (max-device-height: 320px) {
   #tagBrowser {
