@@ -74,6 +74,9 @@ var TagBrowser = React.createClass({
             this.timer = setTimeout(function(){node.style.opacity = 1;}, 50);
         }
     },
+    shadowClickHandler: function(event){
+        var locationStore = this.getFlux().actions.locationChanged("Main");        
+    },
     render: function(){
         var hidden = this.props.hidden;
         var style = {

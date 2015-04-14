@@ -12,11 +12,32 @@ var Cloud = React.createClass({
     },
     onOrientationChangeHandler: function(event){
         console.log("OrientationChange");
-        this.forceUpdate();
+        var self = this;
+        var prevWidth = this.previousWindowSize[0];
+        var prevHeight = this.previousWindowSize[1];
+        var prevPortrait = prevWidth/prevHeight <= 1;
+        var count = 0;
+        var update = function(){
+            count++;
+            var width = window.outerWidth;
+            var height = window.outerHeight;
+            var portrait = width/height <=1;
+            if (count>1000)
+                return;
+            console.log("Portrait?:", portrait);
+            if (prevPortrait != portrait) {
+                self.previousWindowSize = [width, height];
+                self.forceUpdate();
+            }
+            else
+                setTimeout(update, 50);
+        };
+        update();
     },
     componentDidMount: function() {
         var node = this.refs.svgNode.getDOMNode();
-         window.addEventListener("orientationchange", this.onOrientationChangeHandler);
+        this.previousWindowSize = [window.outerWidth, window.outerHeight];
+        window.addEventListener("orientationchange", this.onOrientationChangeHandler);
         this.cloud = tresdCloud.create(node, this.getCloudState());
     },
     shouldComponentUpdate: function(nextProps){
