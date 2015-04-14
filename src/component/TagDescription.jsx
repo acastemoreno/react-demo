@@ -20,7 +20,7 @@ var TagDescription = React.createClass({
         var listaLeyes = _.map(_.sortBy(tag.leyes, function(n){
             var date = new Date(n["fecha promulga"].split("/").reverse());
             return -date.valueOf();
-        }), function(ley){ return (<LeyInfo {...ley} />);
+        }), function(ley){ return (<LeyInfo {...ley} key={"ley-" + ley.nombre} />);
         });
         return(
             <section ref="wrapper">
