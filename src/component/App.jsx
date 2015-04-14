@@ -2,6 +2,7 @@
 
 var Main = require("./Main.jsx");
 var AppHeader = require("./AppHeader.jsx");
+var About = require("./About.jsx");
 
 var Fluxxor = require("fluxxor");
 var FluxMixin = Fluxxor.FluxMixin(React);
@@ -56,7 +57,9 @@ var App = React.createClass({
                 <div ref="main" className="appFrameWrapper">
                     <Main />
                 </div>
-                <div ref="about" className="appFrameWrapper"> </div>
+                <div ref="about" className="appFrameWrapper">
+                    <About/>
+                </div>
                 <div id="fixedNav">
                     <AppHeader hidden={false}/>
                 </div>
