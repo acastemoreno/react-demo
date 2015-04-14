@@ -413,7 +413,7 @@
     "nombre": "LEY QUE ESTABLECE EL DERECHO DE PORTABILIDAD NUMÉRICA EN LOS SERVICIOS DE TELEFONÍA FIJA", 
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/CE5B494315E9D80D05257A79007E11FA/$FILE/AU00851140912.pdf", 
     "tags": [
-      "Comunicaciones", 
+      "Comunicacion", 
       "Telefonia"
     ]
   }, 
@@ -799,20 +799,7 @@
       "Region", 
       "Ayacucho"
     ]
-  }, 
-  {
-    "fecha promulga": "14/06/2012", 
-    "legislatura": "2011-2", 
-    "nombre": "LEY QUE DECLARA DE INTERÉS NACIONAL LA RESTAURACIÓN Y PUESTA EN VALOR DEL MONUMENTO ARQUEOLÓGICO DE CHOQUEQUIRAO Y DE SUS ACCESOS POR CUSCO Y APURÍMAC", 
-    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/9A1014E644164BB405257A2400773496/$FILE/AU00732210612.pdf", 
-    "tags": [
-      "Cultura", 
-      "Region", 
-      "Choquequirao", 
-      "Cusco", 
-      "Apurimac"
-    ]
-  }, 
+  },  
   {
     "fecha promulga": "04/12/2012", 
     "legislatura": "2011-2", 
@@ -948,7 +935,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/D3D5EE3369A6445F052579EB0083D26E/$FILE/AU01015250412.pdf", 
     "tags": [
       "Economia", 
-      "Deportes", 
+      "Deporte", 
       "Reestructura"
     ]
   }, 
@@ -1015,7 +1002,7 @@
     "tags": [
       "Economia", 
       "Facilitacion", 
-      "Aduanera"
+      "Aduana"
     ]
   }, 
   {
@@ -1333,7 +1320,7 @@
     "tags": [
       "Educacion", 
       "Creacion", 
-      "Unversidad", 
+      "Universidad", 
       "Chincha"
     ]
   }, 
@@ -1358,7 +1345,7 @@
     "tags": [
       "Educacion", 
       "Terrorismo", 
-      "Docentes", 
+      "Docente", 
       "Administrativo"
     ]
   }, 
@@ -1369,7 +1356,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/6366BBF2AA61E46705257A0100170E21/$FILE/AU00689160512.pdf", 
     "tags": [
       "Educacion", 
-      "Universidades", 
+      "Universidad", 
       "Titulacion"
     ]
   }, 
@@ -1380,7 +1367,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/3439D49B4AF461C805257A2400767F2A/$FILE/AU00668210612.pdf", 
     "tags": [
       "Energia", 
-      "Competencias", 
+      "Competencia", 
       "Osinergmin"
     ]
   }, 
@@ -1437,7 +1424,7 @@
       "Familia", 
       "Violencia", 
       "Proteccion", 
-      "Armas"
+      "Arma"
     ]
   }, 
   {
@@ -1482,7 +1469,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/30A2D7210A64136305257ABF004E0142/$FILE/AU00088221112.PDF", 
     "tags": [
       "Fuerzas", 
-      "Armadas", 
+      "Armada", 
       "Reglas"
     ]
   }, 
@@ -1516,19 +1503,8 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/DD705D00297CA57405257A2B0061E695/$FILE/AU01227280612.pdf", 
     "tags": [
       "Gobierno", 
-      "Acciones", 
-      "Empresas"
-    ]
-  }, 
-  {
-    "fecha promulga": "01/04/2012", 
-    "legislatura": "2011-1", 
-    "nombre": "LEY DE FACILITACIÓN ADUANERA PARA LA REALIZACIÓN DEL EVENTO DEPORTIVO RALLY DAKAR 2012", 
-    "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/5CFB84646282B0DC0525797C0017DD37/$FILE/662LeydeFacilitaciónAduanera(RallyDakar2012).pdf", 
-    "tags": [
-      "Gobierno", 
-      "Aduana", 
-      "Deporte"
+      "Accion", 
+      "Empresa"
     ]
   }, 
   {
@@ -1595,7 +1571,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/E3639B618E97B0D70525793E00608243/$FILE/155LeyqueregulalaContratacióndePersonal....pdf", 
     "tags": [
       "Gobierno", 
-      "Contrataciones"
+      "Contratacion"
     ]
   }, 
   {
@@ -1808,7 +1784,7 @@
     "tags": [
       "Gobierno", 
       "Plazos", 
-      "Adquisiciones"
+      "Adquisicion"
     ]
   }, 
   {
@@ -1964,7 +1940,7 @@
       "Inclusion", 
       "Gestion", 
       "Riesgo", 
-      "Desastres"
+      "Desastre"
     ]
   }, 
   {
@@ -2392,7 +2368,7 @@
     "tags": [
       "Justicia", 
       "Telefono", 
-      "Emergencias"
+      "Emergencia"
     ]
   }, 
   {
@@ -2665,7 +2641,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/39DA33220F3A286005257A0A000908C3/$FILE/274Mod.LeydeContrataciones(17.5.12).pdf", 
     "tags": [
       "Modifica", 
-      "Contrataciones", 
+      "Contratacion", 
       "Estado"
     ]
   }, 
@@ -2786,7 +2762,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/93BCEB14BBAC6ABF05257AB600142C5C/$FILE/AU0073513112012.pdf", 
     "tags": [
       "Modifica", 
-      "Armas"
+      "Arma"
     ]
   }, 
   {
@@ -3052,7 +3028,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/F2936C790F8465A505257C4000022CBD/$FILE/AU02119121213.pdf", 
     "tags": [
       "Modifica", 
-      "Elecciones"
+      "Eleccion"
     ]
   }, 
   {
@@ -3063,7 +3039,7 @@
     "tags": [
       "Modifica", 
       "Fabricacion", 
-      "Armas", 
+      "Arma", 
       "Municiones"
     ]
   }, 
@@ -3416,7 +3392,7 @@
       "Transporte", 
       "Poblacion", 
       "Discapacidad", 
-      "Adultos", 
+      "Adulto", 
       "Mayores"
     ]
   }, 
@@ -3460,7 +3436,7 @@
     "tags": [
       "Poblacion", 
       "Amnistía", 
-      "Armas"
+      "Arma"
     ]
   }, 
   {
@@ -3639,7 +3615,7 @@
     "tags": [
       "Produccion", 
       "Competitividad", 
-      "Compensaciones"
+      "Compensacion"
     ]
   }, 
   {
@@ -4318,8 +4294,7 @@
     "tags": [
       "Salud", 
       "Alimentacion", 
-      "Estudiantes", 
-      "Ebr"
+      "Estudiante"
     ]
   }, 
   {
@@ -4420,8 +4395,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/23048EA9B2FEACB105257B97006E72B8/$FILE/AU02389270613.pdf", 
     "tags": [
       "Salud", 
-      "Educacion", 
-      "Ebr"
+      "Educacion"
     ]
   }, 
   {
@@ -4454,7 +4428,7 @@
     "tags": [
       "Salud", 
       "Historias", 
-      "Clinicas"
+      "Clinica"
     ]
   }, 
   {
@@ -4622,7 +4596,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/4A377EC6C4B1A47D05257DBF0060B5D7/$FILE/AU0361721122014.pdf", 
     "tags": [
       "Seguridad", 
-      "Armas", 
+      "Arma", 
       "Poblacion"
     ]
   }, 
@@ -4634,7 +4608,7 @@
     "tags": [
       "Seguridad", 
       "Defensa", 
-      "Armas"
+      "Arma"
     ]
   }, 
   {
@@ -4701,8 +4675,8 @@
     "tags": [
       "Seguridad", 
       "Social", 
-      "Trabajadores", 
-      "Pesqueros"
+      "Trabajador", 
+      "Pesquero"
     ]
   }, 
   {
@@ -4899,7 +4873,7 @@
       "Trabajo", 
       "Educacion", 
       "Asignacion", 
-      "Docentes", 
+      "Docente", 
       "Auxiliares"
     ]
   }, 
@@ -4911,7 +4885,7 @@
     "tags": [
       "Trabajo", 
       "Educacion", 
-      "Contrataciones", 
+      "Contratacion", 
       "Region", 
       "Madre-de-dios"
     ]
@@ -5075,7 +5049,7 @@
     "pdf": "http://www2.congreso.gob.pe/Sicr/RelatAgenda/proapro20112016.nsf/ProyectosAprobadosPortal/05B0169ABE3600A405257A2100818D72/$FILE/AU01229180612.PDF", 
     "tags": [
       "Trabajo", 
-      "Transferencias", 
+      "Transferencia", 
       "Region"
     ]
   }, 
@@ -5164,9 +5138,8 @@
     "tags": [
       "Vivienda", 
       "Expropiacion", 
-      "Aeropero", 
-      "Jorge", 
-      "Chavez"
+      "Aeropuerto", 
+      "Jorge-Chavez"
     ]
   }, 
   {
