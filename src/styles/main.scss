@@ -72,8 +72,13 @@ body, html{
 .btnCloud{
     cursor: pointer;
     margin: 0.2em 1em 0 1em;
-    @include flex(0 1 15%);
 
+    @include transition-property(color);
+    @include transition-duration(0.2s);
+    @include transition-timing-function(ease-in-out);
+    @include transition-delay(0.1s);
+
+    @include flex(0 1 15%);
     p{
         font-size: 15pt;
         font-weight: 800;
@@ -141,7 +146,7 @@ body, html{
     // Side Bar
     aside{
         margin: 1em 0 1em 1em;
-        @include flex(1 0 50pt);
+        @include flex(0 1 content);
         @include display(flex);
         @include flex-direction(column);
     }
@@ -167,6 +172,25 @@ body, html{
     }
 }
 
+.leyInfo{
+    padding: 0.5em;
+
+    dt{
+        float: left;
+        clear: left;
+        width: 100px;
+        text-align: right;
+        font-weight: bold;
+    }
+    dt:after {
+        content: ":";
+    }
+    dd{
+        margin: 0 0 0 7em;
+        padding: 0 0 0.5em 0;
+    }
+}
+
 @media (max-width : 480px){
     #tagBrowser{
         width: 100%;
@@ -175,6 +199,15 @@ body, html{
     .appHeader{
         h1{
             font-size: 1.2em;
+        }
+    }
+    .leyInfo{
+        dt{
+            float: none;
+            text-align: left;
+        }
+        dd{
+            margin: 0 0 0 1.5em
         }
     }
 }
