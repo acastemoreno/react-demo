@@ -37,6 +37,7 @@ var stylesBuildDir = './build/css/';
 
 var cssPath = stylesDir + '**/*.css';
 var sassPath = stylesDir + '**/!(_)*.scss';
+var sassFiles = stylesDir + '**/*.scss';
 
 gulp.task('set-production', function(done){
     config.production = true;
@@ -113,7 +114,7 @@ gulp.task('watch', ['vendor', 'browserify', 'styles'], function(){
     gulp.watch(cssPath, ['css']).on('change', function(event){
         gutil.log(event.type, event.path);
     });
-    gulp.watch(sassPath, ['sass']).on('change', function(event){
+    gulp.watch(sassFiles, ['sass']).on('change', function(event){
         gutil.log(event.type, event.path);
     });
 });
