@@ -17,7 +17,6 @@ var App = React.createClass({
     },
     componentDidUpdate: function(){
         var location = this.state.location.split("/")[0];
-        console.log(location);
         var mainNode = this.refs.main.getDOMNode();
         var aboutNode = this.refs.about.getDOMNode();
         mainNode.style.position = "fixed";

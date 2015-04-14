@@ -57,11 +57,9 @@ var TagBrowser = React.createClass({
         node.style.display = this.props.hidden?"none":"";
     },
     componentDidUpdate: function(){
-        console.log("Update Browser");
         var node = this.refs.wrapper.getDOMNode();
         clearTimeout(this.timer);
         var style = document.defaultView.getComputedStyle(node, "");
-        console.log("transition", style.transition);
         var duration = parseFloat(style.transitionDuration)*1000 || 50;
         if (this.props.hidden){
             node.style.opacity = 1;
