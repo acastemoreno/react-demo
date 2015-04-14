@@ -86,7 +86,7 @@ var TagBrowser = React.createClass({
         var listaTags = _.sortBy(_.map(tagsFiltrados, function(tag){
             return (<TagListItem data={tag} key={tag.text}
                                  onClickCallback={this.onListItemClickCallback} />);
-        }, this), function(n){return -n.props.data.value;});
+        }, this), function(n){return -n.props.data.text;});
         return (
             <div className="overlay opacityTransition"
                  ref="wrapper"
