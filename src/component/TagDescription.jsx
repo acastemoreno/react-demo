@@ -17,14 +17,16 @@ var TagDescription = React.createClass({
                     <article></article>
                 </section>);
 
-        var listaLeyes = _.map(tag.leyes, function(ley){
-            return (<LeyInfo {...ley} />);
+        var listaLeyes = _.map(_.sortBy(tag.leyes, function(n){
+            var date = new Date(n["fecha promulga"].split("/").reverse());
+            return -date.valueOf();
+        }), function(ley){ return (<LeyInfo {...ley} />);
         });
         return(
             <section ref="wrapper">
                 <article className="tagDescription">
                     <h2>{tag.text}</h2>
-                    <label>{"Leyes relacionadas:"}</label>
+                    <label>{"Leyes relacionadas: "}</label>
                     <span>{tag.leyes.length}</span>
                     <div>
                         {listaLeyes}
