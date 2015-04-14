@@ -1,0 +1,28 @@
+@import "bourbon/bourbon";
+@import "mixins";
+
+#aboutWrapper{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    @include display(flex);
+    @include flex-direction(column);
+    @include flex-wrap(nowrap);
+    article{
+        padding-bottom: 3em;
+        overflow-y: auto;
+        p {
+            margin: 0;
+            padding: 1em 5% 1em 5%;
+            font-size: 14pt;
+            font-family: sans-serif;
+        }
+        h3 {
+            font-size: 16pt;
+            font-family: 'Khand', sans-serif;
+        }
+        a{
+            color: darkseagreen;
+        }
+    }
+}
