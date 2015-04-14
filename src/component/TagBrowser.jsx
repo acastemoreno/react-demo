@@ -94,16 +94,18 @@ var TagBrowser = React.createClass({
             <div className="overlay opacityTransition"
                  ref="wrapper"
                  style={style}>
-                <div className="shadow" />
+                <div className="shadow" onClick={this.shadowClickHandler}/>
                 <div id="tagBrowser" className="overlay">
-                    <aside>
+                    <header id="tagBrowserHeader">
                         <input type="text"
                                tabIndex={1}
                                placeholder="Buscar tag"
                                onChange={this.onInputChangeHandler}/>
+                    </header>
+                    <div id="tagBrowserContent">
                         <ul>{listaTags}</ul>
-                    </aside>
-                    <TagDescription data={selected}/>
+                        <TagDescription data={selected}/>
+                    </div>
                 </div>
             </div>
         );
