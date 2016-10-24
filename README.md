@@ -50,10 +50,21 @@ Un componente de react por archivo en `src/component`. Los componentes se refere
 </html
 ```
 ### Como utilizar
-Instalar dependencias
+#### Descargar Bourbon
+Inicializar y clonar el submodulo de bourbon
+```bash
+$ git submodule init && git submodule update
+```
+#### Instalar dependencias
+Utilizando npm
 ``` bash
 $ npm install
 ```
+O utilizando yarn
+``` bash
+$ yarn
+```
+#### Construir el código
 Para construir.
 ``` bash
 $ npm run build
@@ -66,7 +77,7 @@ Para construir y minimizar.
 ``` bash
 $ npm run deploy
 ```
-Para ejecutar
+Para ejecutar un servidor de prueba
 ``` bash
 $ node app.js
 ```
