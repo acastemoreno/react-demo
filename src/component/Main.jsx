@@ -10,7 +10,7 @@ var Fluxxor = require("fluxxor");
 var FluxMixin = Fluxxor.FluxMixin(React);
 var StoreWatchMixin = Fluxxor.StoreWatchMixin;
 
-var _ = require("lodash-node");
+var _ = require("lodash");
 
 var Main = React.createClass({
     mixins: [FluxMixin, StoreWatchMixin("LeyStore",

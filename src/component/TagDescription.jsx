@@ -2,7 +2,7 @@
 
 var LeyInfo = require("./LeyInfo.jsx");
 
-var _ = require("lodash-node");
+var _ = require("lodash");
 
 var TagDescription = React.createClass({
     componentDidUpdate: function(){

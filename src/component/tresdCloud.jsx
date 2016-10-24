@@ -1,5 +1,5 @@
 var fill = d3.scale.category20();
-var _ = require("lodash-node");
+var _ = require("lodash");
 
 var tresdCloud = {};
 
