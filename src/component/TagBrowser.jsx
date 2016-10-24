@@ -75,7 +75,7 @@ var TagBrowser = React.createClass({
         }
     },
     shadowClickHandler: function(event){
-        var locationStore = this.getFlux().actions.locationChanged("Main");        
+        var locationStore = this.getFlux().actions.locationChanged("Main");
     },
     render: function(){
         var hidden = this.props.hidden;
@@ -86,10 +86,15 @@ var TagBrowser = React.createClass({
         var tagsFiltrados = this.filtraTags(search);
         var selected = this.state.selected;
 
-        var listaTags = _.sortBy(_.map(tagsFiltrados, function(tag){
-            return (<TagListItem data={tag} key={"tag-"+tag.text}
-                                 onClickCallback={this.onListItemClickCallback} />);
-        }, this), function(n){return n.props.data.text;});
+        var listaTags = _.chain(tagsFiltrados)
+                         .map(function (tag) {
+                           return (<TagListItem data={tag}
+                                     key={'tag-' + tag.text}
+                             onClickCallback={this.onListItemClickCallback} />);
+                         }.bind(this)
+                         )
+                         .sortBy( function (n) { return n.props.data.text} )
+                         .value();
         return (
             <div className="overlay opacityTransition"
                  ref="wrapper"
